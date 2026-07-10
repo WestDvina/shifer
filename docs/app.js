@@ -58,7 +58,8 @@ function renderCards() {
     const timerCls = timerClass(d.valid_until);
 
     const card = document.createElement('div');
-    card.className = `card ${cls}`;
+    const noTimer = d.is_valid && !countdown;
+    card.className = `card ${noTimer ? 'no-timer' : cls}`;
     card.innerHTML = `
       <div class="card-icon">💿</div>
       <div class="card-info">
@@ -70,10 +71,10 @@ function renderCards() {
           <span>👤 ${d.author || '?'}</span>
         </div>
       </div>
-      <div class="card-timer ${timerCls}">${countdown || (d.is_valid ? 'скоро' : 'истекла')}${d.is_valid && d.valid_until ? '<br><span class="timer-msk">до ' + formatMsk(d.valid_until) + '</span>' : ''}</div>
-      <a class="btn btn-download ${cls}" href="${d.is_valid ? d.iso_url : '#'}"
-         ${d.is_valid ? 'target="_blank" rel="noopener"' : ''}>
-        ${d.is_valid ? 'Скачать' : 'Недоступна'}
+      <div class="card-timer ${timerCls}">${countdown || (noTimer ? '' : 'истекла')}${countdown ? '<br><span class="timer-msk">до ' + formatMsk(d.valid_until) + '</span>' : ''}</div>
+      <a class="btn btn-download ${noTimer ? 'expired' : cls}" href="${noTimer ? '#' : (d.is_valid ? d.iso_url : '#')}"
+         ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'}>
+        ${noTimer ? 'Нет таймера' : (d.is_valid ? 'Скачать' : 'Недоступна')}
       </a>
     `;
     container.appendChild(card);
@@ -108,14 +109,9 @@ function updateTimers() {
     if (countdown) {
       timerEl.textContent = countdown;
     } else {
-      timerEl.textContent = 'скоро';
-      timerEl.className = 'card-timer timer-red';
-      d.is_valid = false;
-      downloadBtn.className = 'btn btn-download expired';
-      downloadBtn.textContent = 'Недоступна';
-      downloadBtn.removeAttribute('target');
-      downloadBtn.removeAttribute('rel');
-      downloadBtn.href = '#';
+      timerEl.textContent = '';
+      card.classList.add('no-timer');
+      card.classList.remove('valid', 'expired');
     }
   });
 }
