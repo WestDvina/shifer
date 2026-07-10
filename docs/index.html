@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShIFER — Оригинальные ISO Windows для РФ и РБ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="header-content">
+    <h1>ShIFER</h1>
+    <p class="tagline">Оригинальные ISO Windows для РФ и РБ</p>
+    <button class="btn btn-request" onclick="showRequestModal()">Запросить ISO</button>
+  </div>
+</header>
+
+<main>
+  <div id="status-bar" class="status-bar">
+    <span id="last-checked">Загрузка...</span>
+    <span id="valid-count"></span>
+  </div>
+  <div id="cards-container" class="cards-container"></div>
+</main>
+
+<footer>
+  <p>Ссылки собираются автоматически из <a href="https://learn.microsoft.com/ru-ru/answers/" target="_blank">Microsoft Q&A</a>.</p>
+  <p><a href="https://github.com/westdvina/shifer" target="_blank">GitHub</a></p>
+</footer>
+
+<div id="request-modal" class="modal hidden">
+  <div class="modal-backdrop" onclick="hideRequestModal()"></div>
+  <div class="modal-content">
+    <button class="modal-close" onclick="hideRequestModal()">&times;</button>
+    <h2>Запросить ISO у Microsoft</h2>
+    <p>Скопируйте текст ниже, перейдите на <strong>Microsoft Q&A</strong> и создайте новый вопрос.</p>
+    <textarea id="request-text" readonly rows="6"></textarea>
+    <button class="btn" onclick="copyRequest()">Скопировать и открыть Q&A</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
