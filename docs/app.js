@@ -134,12 +134,11 @@ async function fetchData() {
   }
 }
 
-function showRequestModal() {
-  const lang = navigator.language.startsWith('ru') ? 'Russian' : 'English';
-  const text = `Здравствуйте. Не могу скачать официальный ISO-образ Windows — Microsoft блокирует загрузку из России. Сгенерируйте, пожалуйста, прямую ссылку на Windows 10/11 ${lang} x64.
+const ASK_URL = 'https://learn.microsoft.com/ru-ru/answers/questions/ask/?id=aHR0cHM6Ly9taWNyb3NvZnQtZGV2cmVsLnBvb2xwYXJ0eS5iaXovUW5BQ29tcG91bmQvNGM1MmRmZjUtMjE1Ni00MmMxLWE3ODEtMWQ2NDI5ZDg5YTE0&styleGuideLabel=Windows%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%BE%D0%BC%D0%B0%20|%20Windows%2010%20|%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5';
 
-Спасибо.`;
-  document.getElementById('request-text').value = text;
+function showRequestModal() {
+  document.getElementById('request-form-view').classList.remove('hidden');
+  document.getElementById('request-result-view').classList.add('hidden');
   document.getElementById('request-modal').classList.remove('hidden');
 }
 
@@ -147,15 +146,54 @@ function hideRequestModal() {
   document.getElementById('request-modal').classList.add('hidden');
 }
 
-function copyRequest() {
+function onOsChange() {
+  const os = document.querySelector('input[name="os"]:checked').value;
+  document.getElementById('arch-group').classList.toggle('hidden', os === 'win11');
+}
+
+function generateRequest() {
+  const os = document.querySelector('input[name="os"]:checked').value;
+  const arch = document.querySelector('input[name="arch"]:checked')?.value || 'x64';
+
+  const osLabel = os === 'win10' ? 'Windows 10' : 'Windows 11';
+  const version = os === 'win10' ? '22H2' : '25H2';
+  const archLabel = os === 'win11' ? '' : (arch === 'x64' ? '64-bit (x64)' : '32-bit (x86)');
+  const archSuffix = os === 'win11' ? 'x64' : arch;
+
+  const exampleTitle = `Please provide a link to the Windows ${os === 'win10' ? '10' : '11'} ISO image`;
+  document.getElementById('example-title').textContent = exampleTitle;
+
+  const text = `Здравствуйте. Я нахожусь в России и не могу скачать официальный ISO-образ с сайта Microsoft — загрузка заблокирована для моего региона.
+
+Сгенерируйте, пожалуйста, прямую ссылку для скачивания ISO-образа ${osLabel} ${version} (русский, ${archLabel || '64-bit (x64)'}).
+
+Обычная установка, не обновление. Нужен именно чистый ISO-образ для установки системы.
+
+Спасибо.
+
+--
+ShIFER — сервис мониторинга прямых ссылок на ISO
+https://westdvina.github.io/shifer/`;
+
+  document.getElementById('request-text').value = text;
+  document.getElementById('request-form-view').classList.add('hidden');
+  document.getElementById('request-result-view').classList.remove('hidden');
+}
+
+function backToForm() {
+  document.getElementById('request-form-view').classList.remove('hidden');
+  document.getElementById('request-result-view').classList.add('hidden');
+}
+
+function copyAndOpenAsk() {
   const ta = document.getElementById('request-text');
   ta.select();
   navigator.clipboard.writeText(ta.value).then(() => {
-    window.open('https://learn.microsoft.com/ru-ru/answers/tags/977/windows-home-windows-10-platform-install-upgrade', '_blank');
+    window.open(ASK_URL, '_blank');
     hideRequestModal();
   }).catch(() => {
     document.execCommand('copy');
-    window.open('https://learn.microsoft.com/ru-ru/answers/tags/977/windows-home-windows-10-platform-install-upgrade', '_blank');
+    window.open(ASK_URL, '_blank');
     hideRequestModal();
   });
 }
