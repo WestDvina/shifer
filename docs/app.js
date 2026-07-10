@@ -169,11 +169,7 @@ function generateRequest() {
 
 Обычная установка, не обновление. Нужен именно чистый ISO-образ для установки системы.
 
-Спасибо.
-
---
-ShIFER — сервис мониторинга прямых ссылок на ISO
-https://westdvina.github.io/shifer/`;
+Спасибо.`;
 
   document.getElementById('request-text').value = text;
   document.getElementById('request-form-view').classList.add('hidden');
