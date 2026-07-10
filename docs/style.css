@@ -331,8 +331,7 @@ textarea {
   .btn-download {
     grid-column: 1 / -1;
     grid-row: 4;
-    width: 100%;
     text-align: center;
-    box-sizing: border-box;
+    justify-self: start;
   }
 }
