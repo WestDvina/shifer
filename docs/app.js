@@ -74,7 +74,7 @@ function renderCards() {
       <div class="card-timer ${timerCls}">${countdown || (noTimer ? '' : 'истекла')}${countdown ? '<br><span class="timer-msk">до ' + formatMsk(d.valid_until) + '</span>' : ''}</div>
       <a class="btn btn-download ${noTimer ? 'expired' : cls}" href="${noTimer ? '#' : (d.is_valid ? d.iso_url : '#')}"
          ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'}>
-        ${noTimer ? 'Нет таймера' : (d.is_valid ? 'Скачать' : 'Недоступна')}
+        ${noTimer ? 'Истёк срок' : (d.is_valid ? 'Скачать' : 'Недоступна')}
       </a>
     `;
     container.appendChild(card);
