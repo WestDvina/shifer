@@ -24,6 +24,13 @@ function formatCountdown(validUntil) {
   return `${s}с`;
 }
 
+function formatMsk(validUntil) {
+  if (!validUntil) return '';
+  const d = new Date(validUntil);
+  const msk = new Date(d.getTime() + 3 * 3600000);
+  return msk.toISOString().replace('T', ' ').slice(0, 16) + ' MSK';
+}
+
 function timerClass(validUntil) {
   if (!validUntil) return 'timer-red';
   const diff = new Date(validUntil) - Date.now();
@@ -63,7 +70,7 @@ function renderCards() {
           <span>👤 ${d.author || '?'}</span>
         </div>
       </div>
-      <div class="card-timer ${timerCls}">${countdown || (d.is_valid ? 'скоро' : 'истекла')}</div>
+      <div class="card-timer ${timerCls}">${countdown || (d.is_valid ? 'скоро' : 'истекла')}${d.is_valid && d.valid_until ? '<br><span class="timer-msk">до ' + formatMsk(d.valid_until) + '</span>' : ''}</div>
       <a class="btn btn-download ${cls}" href="${d.is_valid ? d.iso_url : '#'}"
          ${d.is_valid ? 'target="_blank" rel="noopener"' : ''}>
         ${d.is_valid ? 'Скачать' : 'Недоступна'}

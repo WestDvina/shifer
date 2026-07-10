@@ -9,6 +9,21 @@ from scraper import scrape
 from extractor import extract_all
 
 
+P1_PATTERN = re.compile(r'[?&]P1=(\d+)')
+
+
+def parse_p1_expiry(url):
+    m = P1_PATTERN.search(url)
+    if m:
+        try:
+            ts = int(m.group(1))
+            if ts > 1700000000:
+                return ts
+        except ValueError:
+            pass
+    return None
+
+
 def parse_version_from_filename(url):
     fname = url.split("/")[-1].split("?")[0].lower()
     info = {"os": "windows", "build": "", "lang": "", "arch": ""}
@@ -66,8 +81,11 @@ def build(iso_answers):
             continue
 
         valid, expires_str, size = validate_link(url)
-        valid_until = ""
-        if valid and expires_str:
+
+        p1_ts = parse_p1_expiry(url)
+        if p1_ts:
+            valid_until = datetime.fromtimestamp(p1_ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        elif valid and expires_str:
             try:
                 expires_dt = datetime.strptime(
                     expires_str.replace("GMT", "").strip(),
@@ -75,7 +93,9 @@ def build(iso_answers):
                 )
                 valid_until = expires_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
             except ValueError:
-                pass
+                valid_until = ""
+        else:
+            valid_until = ""
 
         if valid and not valid_until:
             valid_until = datetime.fromtimestamp(
