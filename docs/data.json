@@ -13,8 +13,8 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": "2026-07-11T19:16:59Z"
+    "checked_at": "2026-07-10T19:25:03Z",
+    "valid_until": "2026-07-11T19:25:03Z"
   },
   {
     "id": "5943126",
@@ -30,143 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": "2026-07-11T19:16:59Z"
-  },
-  {
-    "id": "5941509",
-    "title": "ÐÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ ISO-Ð¾Ð±ÑÐ°Ð· Windows 10 22H2 ÑÑÑÑÐºÐ¸Ð¹ 64-bit",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5941509",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=99be63d2-2050-4a7a-b788-fb3650e5dcf9&P1=1783620855&P2=602&P3=2&P4=KySY6EWw9DY%2bKdGbdKib7NHqHsSQk1Cfrud7ip%2fbCGZZLHJ%2bC8FC1Uar7UzwcMUOPqIZe6Y9VzczD9bzpIgUQiVFRTolC0LCUAorcjNBFdphJa%2f3pmUmWHydoDXoFK7UFZBRivVEDHByJcBcCpTF%2fvQZRIZEdH4vyXZ3eu8TM23VmT%2bQqcqDeEDXTMXKwBHmLrwNjZW%2fiKIhHynuoL5DxGnZFs4W7FUaWxa37%2fNpztJke5hcKcN53EZ2YlR%2ftPDyMJqs2EU8jsAZBg%2bKWrf3XqkNOgU5T8LT1Jxd1jiq35xYUXpi9MmR2H8gy6ftYZGNKE01i4lRhKGkhfGdiF%2blKw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5939255",
-    "title": "ÐÑÐ¾ÑÑ ÑÐ³ÐµÐ½ÐµÑÐ¸ÑÐ¾Ð²Ð°ÑÑ Ð¿ÑÑÐ¼ÑÑ ÑÑÑÐ»ÐºÑ Ð´Ð»Ñ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ñ Windows 10 22H2 Russian x64  ÐÐ´ÑÐ°Ð²ÑÑÐ²ÑÐ¹ÑÐµ!",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5939255",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=c586d1a3-22d9-42ee-846f-5f94b5dabb48&P1=1783439711&P2=602&P3=2&P4=XBpWLarCwCjBzJYjVzbNhmIvXPRwYKIbNAL%2bcjqsPmRwzau6pg1EI8Lcm8AgfJ8wxsV9XABBQ37egTVvPzH4MU0J4PqA84yCgr2Gp7%2fnakZMfuGtXClAcFjqCN37faE5sRZDrz6wzWfqiwhKAeQA9XEaqbl77DHf9zi8S%2bSdz26HZIxIySnjWfdexn7a%2biyXvhyrVYFfjPylkW9Q6VSpbqlBfhoeQA0ocwxLnWsJif%2btqZ62KtlO2M63X%2bOGRO6kJwAb6XTa6JTrmZNT3uzTkPZ8xU%2fPR3Wu1O3ysufq1oyYSG%2bT3xAxkbv6G8pVfd5qnXzjegeUMlLN5hTthlUKtg%3d%3d",
-    "author": "Gunasekar N",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5939257",
-    "title": "ÐÑÐ¾ÑÑ ÑÐ³ÐµÐ½ÐµÑÐ¸ÑÐ¾Ð²Ð°ÑÑ Ð¿ÑÑÐ¼ÑÑ ÑÑÑÐ»ÐºÑ Ð´Ð»Ñ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ñ Windows 10 22H2 Russian x64  ÐÐ´ÑÐ°Ð²ÑÑÐ²ÑÐ¹ÑÐµ!",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5939257",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=2e41a129-ff60-4850-b7f3-572f1f17301d&P1=1783439660&P2=602&P3=2&P4=Q1gSvhNjaEPkQ3E6IOkeWm9Shj1UT2UO2Hi%2bCJDIUpSBTDa3TT8m0aPoGdbsqwD2mDmG1V6QyMUvQWDWtP%2fxcfjC2Jy7khWnOtV5y6UhZbwyfGc1lZLTn%2fKNYi5OnI%2bH2elGNgZLjo5NpY4jnD%2fEBah28H%2fx8of5%2fGoO%2bL9DGijDSNRKUm7DiraXlkHzOlFp2JaIWMXLj8Zd0xIX%2fR%2f5xkEe3YQAF%2fQJ1gJFes806Z8LSa6wtvE8pUDq6%2bX%2f279uKVRsDDaKJi0ebLZDzxWL%2bcSAUImK2ZMGUyZgR2%2b9cCYtmF%2flDNBlKWIk4bewca7sLSKjdLniYzmOnSsvJgHH1A%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5937405",
-    "title": "Windows 10 Ð²ÐµÑÑÐ¸Ñ Ð´Ð»Ñ Ð Ð¤",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5937405",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=e93b7b35-db52-407a-8aef-340eefa4c7b5&P1=1783190466&P2=602&P3=2&P4=FKzd7N5WeKO%2bX1TpXrBQfDC60H1JGin4KDfj0gAOmY1QtQPfMat%2blxoPw3js7siwkKUROrqSI8HeKWS%2fI65p4e3Xibw4d8otBjpEEfNX2f2mxz57mRJa2FTG1QrIR%2bxosA%2bul%2fOyV1ZflG1E6eCH5fBM2NvlLHFZZ4byu8Pwg1QXqI2a49X4CEiwhlHYqs5QV3CVgZZHt2TGoG1RLm7rPtESAj3ZqEOvvthqAVKMRRhgHFZEXj6X3GlJpsQ35PdM18i%2bMzsBy7diRJNISQbah8upX5AE%2bDGZT2rnYSS%2bCIw7uWuLcWUztgrS0OKwt4UtZvq011DApZUl30J3pbGUMQ%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5936426",
-    "title": "ÐÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ISO Windows 10 22H2 (Ð ÑÑÑÐºÐ¸Ð¹, x64)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5936426",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=3e870db5-37f0-4128-83f9-9194791ff672&P1=1783099319&P2=602&P3=2&P4=Kojj%2blUBkrxfbTqnOjquDeMlloI7HcG0VgZHMl2eYAEvfUfMw284%2bfkjwTJIip6%2b7W950ORrrxWdbZHQQ4tG9dupjEsOdUy21LCp%2fEWueZaitPlYpjUROowxU4yu6bevt7fk2i%2fNnFG3dd5m8qROofpkbWqHl3y5B1Ui8gcFcheX%2bbrSdgo%2bc3TRgccxaxGs8WNSqFK%2bjEo1elc1tDyOs%2fPKq0t%2b7AwSdri5OEvFTs1chwMy8qhs%2bhdnf0bV9DXggrrOkVBSOrK5ETHWJF4MpMgRk6A6QZrvCMe3IrxbzZy3diULC558cpi8rG4ju3x5fzR7CYXSVMbXlOymYvtlHQ%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5924994",
-    "title": "Ð½ÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ISO Windows 10 22H2 (Ð ÑÑÑÐºÐ¸Ð¹)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5924994",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=7262ed64-e70e-4c82-a281-d7c6df79b375&P1=1781986506&P2=602&P3=2&P4=VU6D8XMC5CQz8qLY%2fsTlsvn%2fN5ud7CurP2n1ZIBWXgDFSCVAH1HzkGAvA%2fCtyS4%2bwQts9XqDrp0AaTe%2bPdjULsc1JLd3tj7TzxmNW%2bKL9J6sEUBUMq0yxa6Cg2vrrGYimY%2bqesHY08bgG5Oic9LDovurTmj%2bN1Ug6os4yWqcuBF1yBnQ2oYDoVPk7NLgvAHOy19cHjVHI0bfcUrLASZorE5zVkeHrekNUQq6moci5pIf%2bkB2rCr3ZnNVeJV0pe4G5mCeeYIdRbuIvHr4ZzZgDkn9ryD5%2ffT7nDU5zNCvW4QVRyFnSD%2fuNDLm2aVgp38nrry9rK%2fsZiupyViQrACwKw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5933367",
-    "title": "ÐÑÐ¾Ð±Ð»ÐµÐ¼Ð° Ñ Ð¿ÐµÑÐµÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¾Ð¹ Windos 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5933367",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=b8340c04-a1a1-43f2-bd06-30162143a340&P1=1782843046&P2=602&P3=2&P4=qdTxu8ee9qOUx2XRFh9tnZo86PuKEumic3xzdA2cl0Yzo7Fntj5DpHLSryh%2btaSkxs8UIh6LFMdiNY9%2fW4DscmpR1ZM%2fl0JCMtEPx2W733iETuE937Hb4PYp5sTtAqrjs1%2bzfKMxDcxLElKMUjTIdnTlpz2GBOQ%2bsEGdGY8UFgEy8lNDwSG6v%2bj%2f9s7HRCH%2brjdiIxmV4u1Z%2feXVFrum%2bcnKyzchUkjkmPQ2EJPwbzKyJdRyJXwqaFmOLHMKtQRHyGEQAvVh9wqH%2fMUL8UvIH7SqufczcPwlkXen3jxlo7P2%2b3H%2fv0Z3EQkEZjKhSfNxZH6O6BjSTzBtBbGFAzRMJg%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
-  },
-  {
-    "id": "5933457",
-    "title": "Ð´Ð»Ñ ÑÐ¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5933457",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=83903622-c511-4221-9c51-df3d229bc0ec&P1=1782856721&P2=602&P3=2&P4=eJI%2b%2b%2fgieOEQe1mQ4NHFDfl8%2bXRjVnj%2bKyOnNV5Ckpw1oA92vE2qo%2f0zdFOwp7HOhD6xj6oxsUoQTO0VRPFq56B9D0j%2bLlT%2ffahhbkgT5nkOu08lIvtOW00zNTIZz4duAkHgjASfelg1GSxAA5LuC8jLsOKcglKDuUild0N0jAk6JcfGxL7z8bqSM7jG2b3DTym6wuW4%2b5KTqiKH25XQqAys0jaX5y78k0TwL4Iuug5iOShLyMfOchOngIxV7LnWt7402TBChCoS8P3PLb%2fAtBlvfzuLi5SxoVAF%2b4njFyJ8YT6KYs51nLuwuVeMfNrd%2bFRAlrgBfsxu6svZ%2fj29oA%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-10T19:16:59Z",
-    "valid_until": ""
+    "checked_at": "2026-07-10T19:25:03Z",
+    "valid_until": "2026-07-11T19:25:03Z"
   }
 ]
