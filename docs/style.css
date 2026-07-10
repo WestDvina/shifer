@@ -294,6 +294,8 @@ textarea {
 .hidden { display: none; }
 
 @media (max-width: 768px) {
+  .tagline { display: none; }
+
   .card {
     display: grid !important;
     grid-template-columns: auto 1fr;
