@@ -31,15 +31,11 @@ def extract_from_jsonld(html):
 
     answers = []
     main_entity = data.get("mainEntity", {})
-    suggested = main_entity.get("suggestedAnswer", [])
-    if isinstance(suggested, dict):
-        suggested = [suggested]
 
-    for answer in suggested:
+    def extract_from(answer):
         text = _html.unescape(answer.get("text", ""))
         author = answer.get("author", "")
         role = answer.get("authorRole", "")
-
         iso_urls = re.findall(ISO_LINK_PATTERN, text)
         for url in iso_urls:
             answers.append({
@@ -47,6 +43,19 @@ def extract_from_jsonld(html):
                 "author_role": role,
                 "iso_url": url,
             })
+
+    accepted = main_entity.get("acceptedAnswer", [])
+    if isinstance(accepted, dict):
+        accepted = [accepted]
+    for answer in accepted:
+        extract_from(answer)
+
+    suggested = main_entity.get("suggestedAnswer", [])
+    if isinstance(suggested, dict):
+        suggested = [suggested]
+    for answer in suggested:
+        extract_from(answer)
+
     return answers
 
 
