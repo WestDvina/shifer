@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-11T17:31:28Z",
+    "checked_at": "2026-07-11T18:01:22Z",
     "valid_until": "2026-07-12T14:13:53Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-11T17:31:28Z",
+    "checked_at": "2026-07-11T18:01:22Z",
     "valid_until": "2026-07-12T08:51:14Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-11T17:31:28Z",
+    "checked_at": "2026-07-11T18:01:22Z",
     "valid_until": "2026-07-12T07:07:11Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-11T17:31:28Z",
+    "checked_at": "2026-07-11T18:01:22Z",
     "valid_until": "2026-07-12T01:17:12Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-11T17:31:28Z",
+    "checked_at": "2026-07-11T18:01:22Z",
     "valid_until": "2026-07-11T17:19:09Z"
-  },
-  {
-    "id": "5943156",
-    "title": "ÐÐµÐ½ÐµÑÐ°ÑÐ¸Ñ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° Windows 10 home",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5943156",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=94feb7f5-a4cc-4d7b-86ab-15aeb05ad360&P1=1783766383&P2=602&P3=2&P4=wduO6boFezYJMtLDC7IFT5%2fqptsKErJPwv4I2Ai1mLsg2efBRxRodqBg0Ni9oKPoyxGzIHcITBu%2fSrwssNdsfCGkPiU4h0DRWwqdQPkRZfF3iayByikW6w8b3Ahsu6Q4lRVwp1i2tH2AoPpiOBYfdJN5qbEMwo7kUr7Lww%2bmWDBdLicAlkcDHtLJfz6OXG%2b14ed2ZnfePSxDhz0cdqGaG79IuhxPULJIRk5LvPe2td7OnAGdiKQ7eXSJvKim7ZsioHVw%2bEL5pVM1p3NR0tSgi3kPG5OYMrSaGwfQbgM0ooL5KnGubRqQU38lXzYRcZjmnrlY9s8xqCEhw84MNARsNA%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-11T17:31:28Z",
-    "valid_until": "2026-07-11T10:39:43Z"
   }
 ]
