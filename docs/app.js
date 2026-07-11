@@ -152,6 +152,14 @@ function hideRequestModal() {
   document.getElementById('request-modal').classList.add('hidden');
 }
 
+function showFaqModal() {
+  document.getElementById('faq-modal').classList.remove('hidden');
+}
+
+function hideFaqModal() {
+  document.getElementById('faq-modal').classList.add('hidden');
+}
+
 function onOsChange() {
   const os = document.querySelector('input[name="os"]:checked').value;
   document.getElementById('arch-group').classList.toggle('hidden', os === 'win11');

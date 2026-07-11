@@ -3,12 +3,62 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="ShIFER отслеживает ссылки на оригинальные ISO-образы Windows с Microsoft Q&A. Доступно для РФ и РБ без VPN.">
-<title>ShIFER — Оригинальные ISO Windows для РФ и РБ</title>
+<meta name="description" content="Скачайте оригинальный ISO-образ Windows 10 или Windows 11 бесплатно. Прямые ссылки с Microsoft для РФ и РБ. Без VPN.">
+<title>Скачать Windows 10 и 11 ISO — оригинальные образы для РФ | ShIFER</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="alternate icon" href="favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="favicon.png">
 <link rel="stylesheet" href="style.css">
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Как скачать Windows 10 с официального сайта из России?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Microsoft блокирует скачивание ISO-образов с официального сайта для IP из РФ. ShIFER отслеживает прямые ссылки из Microsoft Q&A — они ведут на официальные серверы Microsoft и работают без VPN. Нажмите «Скачать» рядом с нужной версией."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Как скачать Windows 11 бесплатно?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ссылки на сайте ведут на официальные ISO-образы Windows 11 с серверов Microsoft. Выберите версию 25H2, нажмите «Скачать» — загрузится оригинальный образ. Установка не требует лицензионного ключа на этапе установки."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Почему Microsoft блокирует скачивание Windows в России?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "С 2024 года Microsoft ограничила доступ к скачиванию ISO-образов и Media Creation Tool для пользователей из России из-за санкционных ограничений. При попытке скачать с официального сайта появляется ошибка 715-123130."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Безопасно ли скачивать Windows через ShIFER?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Да. ShIFER собирает ссылки из официальных ответов Microsoft Q&A. Все ссылки ведут на домен software.download.prss.microsoft.com — официальные серверы Microsoft. Каждая ссылка проверяется перед публикацией."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Сколько живёт ссылка на ISO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Прямые ссылки Microsoft — временные и действуют около 24 часов. На сайте отображается таймер обратного отсчёта для каждой ссылки. Когда таймер истекает, ссылка становится недоступной — нужно дождаться новой."
+        }
+      }
+    ]
+  }
+]
+</script>
 </head>
 <body>
 <header>
@@ -24,6 +74,12 @@
     <span id="last-checked">Загрузка...</span>
     <span id="valid-count"></span>
   </div>
+
+  <div class="seo-intro">
+    <p>Скачайте оригинальный ISO-образ <strong>Windows 10</strong> или <strong>Windows 11</strong> бесплатно. Прямые ссылки с официальных серверов Microsoft для России и Беларуси. Без VPN.</p>
+    <button class="btn btn-faq" onclick="showFaqModal()">Частые вопросы</button>
+  </div>
+
   <div id="cards-container" class="cards-container"></div>
 </main>
 
@@ -35,6 +91,39 @@
     | <a href="https://dzen.ru/trick32?donate=true" target="_blank">Дзен</a>
   </p>
 </footer>
+
+<div id="faq-modal" class="modal hidden">
+  <div class="modal-backdrop" onclick="hideFaqModal()"></div>
+  <div class="modal-content modal-content--wide">
+    <button class="modal-close" onclick="hideFaqModal()">&times;</button>
+    <h2>Частые вопросы</h2>
+
+    <div class="faq-item">
+      <h3>Как скачать Windows 10 с официального сайта из России?</h3>
+      <p>Microsoft блокирует скачивание ISO-образов с официального сайта для IP из РФ. ShIFER отслеживает прямые ссылки из Microsoft Q&A — они ведут на официальные серверы Microsoft и работают без VPN. Нажмите «Скачать» рядом с нужной версией.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Как скачать Windows 11 бесплатно?</h3>
+      <p>Ссылки на сайте ведут на официальные ISO-образы Windows 11 с серверов Microsoft. Выберите версию 25H2, нажмите «Скачать» — загрузится оригинальный образ. Установка не требует лицензионного ключа на этапе установки.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Почему Microsoft блокирует скачивание Windows в России?</h3>
+      <p>С 2024 года Microsoft ограничила доступ к скачиванию ISO-образов и Media Creation Tool для пользователей из России из-за санкционных ограничений. При попытке скачать с официального сайта появляется ошибка 715-123130.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Безопасно ли скачивать Windows через ShIFER?</h3>
+      <p>Да. ShIFER собирает ссылки из официальных ответов Microsoft Q&A. Все ссылки ведут на домен <code>software.download.prss.microsoft.com</code> — официальные серверы Microsoft. Каждая ссылка проверяется перед публикацией.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Сколько живёт ссылка на ISO?</h3>
+      <p>Прямые ссылки Microsoft — временные и действуют около 24 часов. На сайте отображается таймер обратного отсчёта для каждой ссылки. Когда таймер истекает, ссылка становится недоступной — нужно дождаться новой.</p>
+    </div>
+  </div>
+</div>
 
 <div id="request-modal" class="modal hidden">
   <div class="modal-backdrop" onclick="hideRequestModal()"></div>

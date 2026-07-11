@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westdvina.github.io/shifer/sitemap.xml
