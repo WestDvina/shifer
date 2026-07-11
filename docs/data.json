@@ -1,5 +1,22 @@
 [
   {
+    "id": "5943758",
+    "title": "Request for a temporary direct download link for Windows 11 ISO (Russian, x64)",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5943758",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=d39ca5e7-60b7-47c9-9fb2-d0cc0ff58562&P1=1783819032&P2=602&P3=2&P4=FVyoKIJc0Gpw3R7g4HVp5zjiL0pgHNjubvV9FcdAxJaTP8CMkoxhp4o02oxxDLea2qtkt%2bjbwZ%2b%2fcdQPhl1T0ENv3P7VdCjbcpp9kNCvI95Mh7m%2bdJFQ%2fcPw5ZVBkiF8FBLjy4hPmzkJDvOj%2byd82FQHRPufW%2f6rDzW8TTgtce5C4N%2fkpDI74kqD4jZGRTBxcSUIlXGDF9wpBdSr6%2bwKpcLIEMygqbPlnPW1jJpOPhmIm2CgZo6kCY8Sk2Dzh9FB2I3aYdFtbMsYPhPJVzh%2bdyHJqr8%2fRBFR0n6Xx6xusBYByjpzQV6M7UXqQiBlox8FrOuZcjDuzQgo7fCssYmAbQ%3d%3d",
+    "author": "Estrella721",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-07-11T03:44:28Z",
+    "valid_until": "2026-07-12T01:17:12Z"
+  },
+  {
     "id": "5943492",
     "title": "Please provide a link to the Windows 10 ISO image",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5943492",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-11T00:11:52Z",
+    "checked_at": "2026-07-11T03:44:28Z",
     "valid_until": "2026-07-11T17:19:09Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-11T00:11:52Z",
+    "checked_at": "2026-07-11T03:44:28Z",
     "valid_until": "2026-07-11T10:39:43Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-11T00:11:52Z",
+    "checked_at": "2026-07-11T03:44:28Z",
     "valid_until": "2026-07-11T06:47:04Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-11T00:11:52Z",
+    "checked_at": "2026-07-11T03:44:28Z",
     "valid_until": "2026-07-10T20:54:47Z"
   }
 ]
