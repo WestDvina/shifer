@@ -29,7 +29,12 @@ function formatMsk(validUntil) {
   if (!validUntil) return '';
   const d = new Date(validUntil);
   const msk = new Date(d.getTime() + 3 * 3600000);
-  return msk.toISOString().replace('T', ' ').slice(0, 16) + ' MSK';
+  const day = String(msk.getDate()).padStart(2, '0');
+  const month = String(msk.getMonth() + 1).padStart(2, '0');
+  const year = msk.getFullYear();
+  const hh = String(msk.getHours()).padStart(2, '0');
+  const mm = String(msk.getMinutes()).padStart(2, '0');
+  return `${day}-${month}-${year} ${hh}:${mm} MSK`;
 }
 
 function timerClass(validUntil) {
