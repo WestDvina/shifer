@@ -122,6 +122,9 @@ def build(iso_answers):
 def main():
     print("Step 1: Scraping MS Q&A...", file=sys.stderr)
     questions = scrape()
+    if len(questions) == 0:
+        print("ERROR: No questions found — вероятно, Microsoft изменил вёрстку Q&A", file=sys.stderr)
+        sys.exit(1)
     print(f"  ISO-related questions: {len(questions)}", file=sys.stderr)
 
     print("Step 2: Extracting ISO links from answers...", file=sys.stderr)
