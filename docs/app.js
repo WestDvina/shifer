@@ -155,18 +155,22 @@ function showRequestModal() {
   document.getElementById('request-form-view').classList.remove('hidden');
   document.getElementById('request-result-view').classList.add('hidden');
   document.getElementById('request-modal').classList.remove('hidden');
+  document.documentElement.style.overflow = 'hidden';
 }
 
 function hideRequestModal() {
   document.getElementById('request-modal').classList.add('hidden');
+  document.documentElement.style.overflow = '';
 }
 
 function showFaqModal() {
   document.getElementById('faq-modal').classList.remove('hidden');
+  document.documentElement.style.overflow = 'hidden';
 }
 
 function hideFaqModal() {
   document.getElementById('faq-modal').classList.add('hidden');
+  document.documentElement.style.overflow = '';
 }
 
 function onOsChange() {

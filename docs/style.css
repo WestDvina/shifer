@@ -253,7 +253,14 @@ footer {
   padding: 2rem;
   max-width: 520px;
   width: 90%;
+  max-height: 85vh;
+  overflow-y: auto;
+  scrollbar-width: none;
   z-index: 101;
+}
+
+.modal-content::-webkit-scrollbar {
+  display: none;
 }
 
 .modal-close {
