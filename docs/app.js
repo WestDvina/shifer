@@ -1,6 +1,6 @@
 const DATA_URL = 'data.json';
 const POLL_INTERVAL = 60000;
-const TICK_INTERVAL = 30000;
+const TICK_INTERVAL = 1000;
 
 let data = [];
 
@@ -18,9 +18,10 @@ function formatCountdown(validUntil) {
   if (diff <= 0) return null;
   const h = Math.floor(diff / 3600000);
   const m = Math.floor((diff % 3600000) / 60000);
-  if (h > 0) return `${h}ч ${m}м`;
-  if (m > 0) return `${m}м`;
   const s = Math.floor((diff % 60000) / 1000);
+  if (h > 0) return `${h}ч ${m}м`;
+  if (diff < 300000) return `${m}м ${s}с`;
+  if (m > 0) return `${m}м`;
   return `${s}с`;
 }
 
@@ -79,7 +80,7 @@ function renderCards() {
           <span>👤 ${d.author || '?'}</span>
         </div>
       </div>
-      <div class="card-timer ${timerCls}">${countdown || (noTimer ? '' : 'истекла')}${countdown ? '<br><span class="timer-msk">до ' + formatMsk(d.valid_until) + '</span>' : ''}</div>
+      <div class="card-timer ${timerCls}" ${countdown ? `data-msk="${formatMsk(d.valid_until)}"` : ''}>${countdown || (noTimer ? '' : 'истекла')}</div>
       <a class="btn btn-download ${noTimer ? 'expired' : cls}" href="${noTimer ? '#' : (d.is_valid ? d.iso_url : '#')}"
          ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'}>
         ${noTimer ? 'Истёк срок' : (d.is_valid ? 'Скачать' : 'Недоступна')}
@@ -111,6 +112,7 @@ function updateTimers() {
     if (!d.is_valid) {
       timerEl.textContent = 'истекла';
       timerEl.className = 'card-timer timer-red';
+      timerEl.removeAttribute('data-msk');
       return;
     }
 
@@ -118,8 +120,10 @@ function updateTimers() {
     timerEl.className = `card-timer ${timerClass(d.valid_until)}`;
     if (countdown) {
       timerEl.textContent = countdown;
+      timerEl.dataset.msk = formatMsk(d.valid_until);
     } else {
       timerEl.textContent = '';
+      timerEl.removeAttribute('data-msk');
       card.classList.add('no-timer');
       card.classList.remove('valid', 'expired');
     }
