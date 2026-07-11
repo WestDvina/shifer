@@ -20,7 +20,10 @@ function formatCountdown(validUntil) {
   const m = Math.floor((diff % 3600000) / 60000);
   const s = Math.floor((diff % 60000) / 1000);
   if (h > 0) return `${h}ч ${m}м`;
-  if (diff < 300000) return `${m}м ${s}с`;
+  if (diff < 300000) {
+    if (m > 0) return `${m}м ${s}с`;
+    return `${s}с`;
+  }
   if (m > 0) return `${m}м`;
   return `${s}с`;
 }
