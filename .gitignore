@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .venv/
 *.egg-info/
+gather.py
+project_context.txt
