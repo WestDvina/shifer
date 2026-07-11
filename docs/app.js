@@ -20,10 +20,7 @@ function formatCountdown(validUntil) {
   const m = Math.floor((diff % 3600000) / 60000);
   const s = Math.floor((diff % 60000) / 1000);
   if (h > 0) return `${h}ч ${m}м`;
-  if (diff < 300000) {
-    if (m > 0) return `${m}м ${s}с`;
-    return `${s}с`;
-  }
+  if (diff < 300000) return `${m}м ${s}с`;
   if (m > 0) return `${m}м`;
   return `${s}с`;
 }
@@ -32,11 +29,11 @@ function formatMsk(validUntil) {
   if (!validUntil) return '';
   const d = new Date(validUntil);
   const msk = new Date(d.getTime() + 3 * 3600000);
-  const day = String(msk.getDate()).padStart(2, '0');
-  const month = String(msk.getMonth() + 1).padStart(2, '0');
-  const year = msk.getFullYear();
-  const hh = String(msk.getHours()).padStart(2, '0');
-  const mm = String(msk.getMinutes()).padStart(2, '0');
+  const day = String(msk.getUTCDate()).padStart(2, '0');
+  const month = String(msk.getUTCMonth() + 1).padStart(2, '0');
+  const year = msk.getUTCFullYear();
+  const hh = String(msk.getUTCHours()).padStart(2, '0');
+  const mm = String(msk.getUTCMinutes()).padStart(2, '0');
   return `${day}-${month}-${year} ${hh}:${mm} MSK`;
 }
 
