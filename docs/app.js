@@ -47,8 +47,16 @@ function versionLabel(v) {
 
 function renderCards() {
   const container = document.getElementById('cards-container');
-  const valid = data.filter(d => d.is_valid);
-  const expired = data.filter(d => !d.is_valid);
+  const oneHourAgo = Date.now() - 3600000;
+
+  const filtered = data.filter(d => {
+    if (d.is_valid) return true;
+    if (!d.valid_until) return false;
+    return new Date(d.valid_until).getTime() > oneHourAgo;
+  });
+
+  const valid = filtered.filter(d => d.is_valid);
+  const expired = filtered.filter(d => !d.is_valid);
 
   container.innerHTML = '';
 
@@ -82,9 +90,11 @@ function renderCards() {
 }
 
 function updateStatus() {
-  const valid = data.filter(d => d.is_valid);
+  const oneHourAgo = Date.now() - 3600000;
+  const visible = data.filter(d => d.is_valid || (d.valid_until && new Date(d.valid_until).getTime() > oneHourAgo));
+  const valid = visible.filter(d => d.is_valid);
   document.getElementById('valid-count').textContent =
-    `Доступно ссылок: ${valid.length} / ${data.length}`;
+    `Доступно ссылок: ${valid.length} / ${visible.length}`;
 }
 
 function updateTimers() {
