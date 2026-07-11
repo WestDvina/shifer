@@ -9,7 +9,7 @@
   --card-bg: #161b22;
   --border: #30363d;
   --text: #e6edf3;
-  --muted: #8b949e;
+  --muted: #9ea8b3;
   --accent: #58a6ff;
   --green: #3fb950;
   --red: #f85149;
@@ -26,8 +26,9 @@ body {
   line-height: 1.5;
 }
 
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+a:hover { text-decoration: underline; text-underline-offset: 2px; }
+.btn, .btn-download { text-decoration: none; }
 
 header {
   border-bottom: 1px solid var(--border);
