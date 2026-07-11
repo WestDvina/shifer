@@ -136,6 +136,17 @@ def main():
     valid = sum(1 for d in data if d["is_valid"])
     print(f"  Unique: {len(data)}, Valid: {valid}", file=sys.stderr)
 
+    def sort_key(d):
+        is_invalid = not d["is_valid"]
+        ts = 0.0
+        if d.get("valid_until"):
+            try:
+                ts = datetime.fromisoformat(d["valid_until"].rstrip("Z")).timestamp()
+            except ValueError:
+                ts = 0.0
+        return (is_invalid, -ts)
+    data.sort(key=sort_key)
+
     with open("docs/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print("Written to docs/data.json", file=sys.stderr)
