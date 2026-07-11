@@ -80,7 +80,7 @@ function renderCards() {
           <span>👤 ${d.author || '?'}</span>
         </div>
       </div>
-      <div class="card-timer ${timerCls}" ${countdown ? `data-msk="${formatMsk(d.valid_until)}"` : ''}>${countdown || (noTimer ? '' : 'истекла')}</div>
+      <div class="card-timer ${timerCls}">${countdown ? `<span class="timer-countdown">${countdown}</span><br><span class="timer-msk">до ${formatMsk(d.valid_until)}</span><span class="timer-help" data-tip="Время до конца действия ссылки">?</span>` : (noTimer ? '' : 'истекла')}</div>
       <a class="btn btn-download ${noTimer ? 'expired' : cls}" href="${noTimer ? '#' : (d.is_valid ? d.iso_url : '#')}"
          ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'}>
         ${noTimer ? 'Истёк срок' : (d.is_valid ? 'Скачать' : 'Недоступна')}
@@ -110,20 +110,20 @@ function updateTimers() {
     if (!d) return;
 
     if (!d.is_valid) {
-      timerEl.textContent = 'истекла';
+      timerEl.innerHTML = 'истекла';
       timerEl.className = 'card-timer timer-red';
-      timerEl.removeAttribute('data-msk');
       return;
     }
 
     const countdown = formatCountdown(d.valid_until);
     timerEl.className = `card-timer ${timerClass(d.valid_until)}`;
     if (countdown) {
-      timerEl.textContent = countdown;
-      timerEl.dataset.msk = formatMsk(d.valid_until);
+      const cdSpan = timerEl.querySelector('.timer-countdown');
+      const mskSpan = timerEl.querySelector('.timer-msk');
+      if (cdSpan) cdSpan.textContent = countdown;
+      if (mskSpan) mskSpan.textContent = 'до ' + formatMsk(d.valid_until);
     } else {
-      timerEl.textContent = '';
-      timerEl.removeAttribute('data-msk');
+      timerEl.innerHTML = '';
       card.classList.add('no-timer');
       card.classList.remove('valid', 'expired');
     }
