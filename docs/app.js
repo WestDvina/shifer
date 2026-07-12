@@ -190,13 +190,17 @@ function generateRequest() {
   const exampleTitle = `Please provide a link to the Windows ${os === 'win10' ? '10' : '11'} ISO image`;
   document.getElementById('example-title').textContent = exampleTitle;
 
-  const text = `Здравствуйте. Я нахожусь в России и не могу скачать официальный ISO-образ с сайта Microsoft — загрузка заблокирована для моего региона.
+  const text = `Здравствуйте!
 
-Сгенерируйте, пожалуйста, прямую ссылку для скачивания ISO-образа ${osLabel} ${version} (русский, ${archLabel || '64-bit (x64)'}).
+Я нахожусь в России и не могу скачать ISO-образ Windows 10/11 с официального сайта из-за региональных ограничений. Официальная страница загрузки и Media Creation Tool недоступны.
 
-Обычная установка, не обновление. Нужен именно чистый ISO-образ для установки системы.
+Пожалуйста, предоставьте прямую временную ссылку для скачивания официального ISO-образа со следующими параметрами:
+- Версия: ${osLabel} ${version}
+- Язык: Русский (ru-RU)
+- Архитектура: ${archLabel || '64-bit (x64)'}
+- Редакция: Multi-Edition (Home/Pro)
 
-Спасибо.`;
+Благодарю!`;
 
   document.getElementById('request-text').value = text;
   document.getElementById('request-form-view').classList.add('hidden');
