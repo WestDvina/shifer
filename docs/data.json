@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-13T11:50:08Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-13T10:37:40Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-12T21:33:14Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-12T18:33:17Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-12T14:13:53Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-12T19:01:31Z",
+    "checked_at": "2026-07-12T19:31:22Z",
     "valid_until": "2026-07-12T08:51:14Z"
-  },
-  {
-    "id": "5943856",
-    "title": "ÐÐ¾Ð¼Ð¾Ð³Ð¸ÑÐµ, Ð¿Ð¾Ð¶Ð°Ð»ÑÐ¹ÑÑÐ°, Ñ Ð¾Ð±ÑÐ°Ð·Ð¾Ð¼ Win 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5943856",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=023cf505-11f3-452e-b005-f0a9aa9e95b0&P1=1783840031&P2=602&P3=2&P4=yaXVN6MTcmwtS7tx%2fkjOvSfggEAeOLLkyvXngulOEqBv0ZUzJ23vZbHdc%2ffP%2feEizr6Xn3auiaTgTY2pPnk7R0C22jQesKX6vhwsdG9cbiLu3stTAJKW5p7uC1fZsVfwXBIRe6uNQa1JDd7M8F7eTEtvYojXF9xhYNPyqUp%2bhmNEZLO4Uy6tHXJkxSZ%2f%2bIc68X7GPcX0o6LUBGwK7HeZZmhkBLUmmx1gB4G6rstIhsCPUtEq3vEqSrKDhE5dm1zOG%2bf%2fndbw1neAqPRgr708cr02N9XvJSEXZA%2b8pbegpR43%2brPwQWUAr5yBswdJwHovS6PJ%2fjBnVc2E8UKImSYJbw%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-12T19:01:31Z",
-    "valid_until": "2026-07-12T07:07:11Z"
   }
 ]
