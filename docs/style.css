@@ -99,7 +99,6 @@ header h1 {
 .empty-desc {
   color: var(--muted);
   font-size: 0.9rem;
-  max-width: 400px;
   margin: 0 auto 1.5rem;
   line-height: 1.6;
 }
