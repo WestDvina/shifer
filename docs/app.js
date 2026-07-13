@@ -87,7 +87,7 @@ function renderCards() {
       </div>
       <div class="card-timer ${timerCls}">${countdown ? `<span class="timer-countdown">${countdown}</span><br><span class="timer-msk">до ${formatMsk(d.valid_until)}</span><span class="timer-help" data-tip="Время до конца действия ссылки">?</span>` : (noTimer ? '' : 'истекла')}</div>
       <a class="btn btn-download ${noTimer ? 'expired' : cls}" href="${noTimer ? '#' : (d.is_valid ? d.iso_url : '#')}"
-         ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'}>
+         ${noTimer || !d.is_valid ? '' : 'target="_blank" rel="noopener"'} ${d.is_valid && countdown ? 'onclick="ym(110712171,\'reachGoal\',\'download\')"' : ''}>
         ${noTimer ? 'Истёк срок' : (d.is_valid ? 'Скачать' : 'Недоступна')}
       </a>
     `;
@@ -168,6 +168,7 @@ function showRequestModal() {
   document.getElementById('request-result-view').classList.add('hidden');
   document.getElementById('request-modal').classList.remove('hidden');
   document.documentElement.style.overflow = 'hidden';
+  ym(110712171, 'reachGoal', 'request-iso');
 }
 
 function hideRequestModal() {
