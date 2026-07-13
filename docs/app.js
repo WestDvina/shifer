@@ -240,3 +240,20 @@ function copyAndOpenAsk() {
 fetchData();
 setInterval(fetchData, POLL_INTERVAL);
 setInterval(updateTimers, TICK_INTERVAL);
+
+(function() {
+  var w = window, d = document;
+  var s = d.createElement('script');
+  s.async = true;
+  s.src = 'https://mc.yandex.ru/metrika/tag.js?id=110712171';
+  var n = d.getElementsByTagName('script')[0];
+  n.parentNode.insertBefore(s, n);
+  w.ym = w.ym || function() { (w.ym.a = w.ym.a || []).push(arguments); };
+  w.ym.l = 1 * new Date();
+  w.ym(110712171, 'init', {
+    webvisor: true,
+    clickmap: true,
+    accurateTrackBounce: true,
+    trackLinks: true
+  });
+})();
