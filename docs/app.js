@@ -93,6 +93,18 @@ function renderCards() {
     `;
     container.appendChild(card);
   });
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔗</div>
+        <h2 class="empty-title">Нет активных ссылок</h2>
+        <p class="empty-desc">Все ссылки истекли. Новые появляются, когда кто-то запрашивает образ в Microsoft Q&A.</p>
+        <button class="btn btn-empty" onclick="showRequestModal()">Запросить ISO</button>
+        <p class="empty-hint">Страница проверяет наличие ссылок каждую минуту</p>
+      </div>
+    `;
+  }
 }
 
 function updateStatus() {
