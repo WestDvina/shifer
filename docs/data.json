@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-14T13:11:13Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-14T09:38:59Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-13T11:50:08Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-13T10:37:40Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-12T21:33:14Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-13T15:31:21Z",
+    "checked_at": "2026-07-13T16:01:32Z",
     "valid_until": "2026-07-12T18:33:17Z"
-  },
-  {
-    "id": "5944096",
-    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ ISO-Ð¾Ð±ÑÐ°Ð· Windows 10 Ð¸Ð·-Ð·Ð° ÑÐµÐ³Ð¸Ð¾Ð½Ð°Ð»ÑÐ½ÑÑ Ð¾Ð³ÑÐ°Ð½Ð¸ÑÐµÐ½Ð¸Ð¹ Microsoft.",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5944096",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=6f42cf2a-c604-4fd7-9046-94167791f357&P1=1783865633&P2=602&P3=2&P4=OLkfQbyI%2foEUZbmKu%2bqkkvo%2fg%2fyWrXRIbGnzLyPOzgxmBxJVH245YMcxxrctE08jAMDrSiDU6sMfgNzxDiX6SPtwIwwEUuaf39%2bV1MaYRMThuthPzezai4kibe3hd5YP9rjDnhXVkn0ZYz%2bIM352iK7mfXIBd5nv7CAVYYc1U%2f1zXavs43%2bVk%2fxTV4x%2b2cpQwVtF5%2fHdbTNdVZBKHSH7hp5cI6xkE2v1RnBb3G28F59PAe1sqXrBRcZ9bFJtIBffO4KWPojk9AdqJNXXGA3GkH3nwhQJjXgNTIKUurAIWHyVL5jQWUVqJaOJSOqr%2bF%2bHERXKVxIQKjspOd3XLvHlwQ%3d%3d",
-    "author": "Paulo GM",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-13T15:31:21Z",
-    "valid_until": "2026-07-12T14:13:53Z"
   }
 ]
