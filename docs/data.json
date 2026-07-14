@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-15T03:39:58Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-15T03:06:12Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-14T21:32:26Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-14T13:11:13Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-14T09:38:59Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-14T05:01:34Z",
+    "checked_at": "2026-07-14T05:31:25Z",
     "valid_until": "2026-07-13T11:50:08Z"
-  },
-  {
-    "id": "5944559",
-    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO-Ð¾Ð±ÑÐ°Ð· Windows 11 (Ð Ð¾ÑÑÐ¸Ñ)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5944559",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=7c1948b2-0be5-48d3-b30f-06a0625e8862&P1=1783939060&P2=602&P3=2&P4=lShSvPriLXsov59B1vRxs5V%2fi%2b%2baQCqg6mHf51kD7OGTpIuMzNPMitcdbG83PEchDonQivt%2fNLVv9qMc23eBWlTxmI1MeoQLd840TgXEOMkdeJVVBZolwkOFrlhjip%2b5My8O5PI9R8kJtskNoOrvlOsmpbOw9U9k2vguYfYCLTYo7k4oCDVK%2btJ7L6GBQMje1cOy%2b7UpMO823w%2b3vHnoXA34%2bIHqd0P%2bYk%2fT1oUVCKW7o4ygwZ8PnaoVntoLXMJEuGjyJ%2f2C7tIsxtSf2lGhUbjL7t5j%2bHcHF8yorS7Wj6LVkfsjddGrn57FpinHFmHCAgdJvuodjjbvZRqV4WtuGA%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-14T05:01:34Z",
-    "valid_until": "2026-07-13T10:37:40Z"
   }
 ]
