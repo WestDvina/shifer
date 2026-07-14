@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T15:33:14Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T14:01:48Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T11:38:10Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T05:44:59Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T03:39:58Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-15T03:06:12Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-14T21:32:26Z"
   },
   {
@@ -132,24 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-14T19:01:29Z",
+    "checked_at": "2026-07-14T19:31:30Z",
     "valid_until": "2026-07-14T13:11:13Z"
-  },
-  {
-    "id": "5945198",
-    "title": "ÐÐ°Ðº ÑÐºÐ°ÑÐ°ÑÑ Windows 11 Ð¸Ð· Ð Ð¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5945198",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=5cad96c1-6b81-474a-babc-28b0d261f20f&P1=1784021939&P2=602&P3=2&P4=tb8PuWO7sVJhXb9eX8TK3w3y2oY9bTPFbVDyHEC%2bXp6UR0mG%2f4YkTTZ4YsO%2f1U0G3f8fWsbaRS2ltiMaaycQyl2N%2bwgTRYvlaa8hS7x4Ty5JQ%2bXlKl%2fYY3xQgUHKO639vY9RvkvK91kpttTuv%2fbhmH0nvplissAvMDDG46Ryx8YNCKtssUnltgr56Y9RfIY341ghl4gTD%2fMS%2b9Gzkrxt9KjgsnRhGfLvjlr786uFMFKwb0oSC6wDyfGbq4ugZHtPoDdK16TPXweD7Sq2f3cReXb2s2ztNyP40ne4aXgt1vLQ4eDKSeR96jRjTAUWypzdQSnKUMTYS4dgZ2oZ%2fgf4Pg%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-14T19:01:29Z",
-    "valid_until": "2026-07-14T09:38:59Z"
   }
 ]
