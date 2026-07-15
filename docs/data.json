@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-16T01:56:21Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T15:33:14Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T14:01:48Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T11:38:10Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T05:44:59Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T03:39:58Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-15T03:06:12Z"
   },
   {
@@ -132,24 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-15T02:31:20Z",
+    "checked_at": "2026-07-15T03:01:33Z",
     "valid_until": "2026-07-14T21:32:26Z"
-  },
-  {
-    "id": "5945400",
-    "title": "Direct download link for Windows 11 ISO (Russian, x64)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5945400",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=6bc91884-fc49-4827-9862-e0dc70d20bdc&P1=1784034673&P2=602&P3=2&P4=U4q2WPIpxyGlAj19sE%2brmzvvjEhcVvzGQjjVVWOVyKjWNSV1nWk%2b9ngrQ5O9rebvskFhdIbXjsMh9IG9iu6CSbmMZz9aV92y1o2XOx7pjCKmG%2bPV5K%2fTFeb9CRcArVcktx8BPIOTiYZ%2bODCJU1p%2b4tBR%2b0nLzHMRP4UI68Izoo9ynkdJFmWIVxqptcQ0Bg9sfKB75EaMKu4qY5Aw39yyLg7EME%2fxTZyynsprkAZ3wH31wKm%2bbq1OtByMcqemC9DGrl9fxxcSbbdVC5LkqAbhh%2bfZTfGA%2bM%2b60Rn8AQY6tBbkoVnRypRMMNmPtr0gmU3DzU0FtaKwKsBcwVFp85OsxQ%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-15T02:31:20Z",
-    "valid_until": "2026-07-14T13:11:13Z"
   }
 ]
