@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-16T19:13:07Z"
   },
   {
@@ -28,9 +28,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-16T07:20:47Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-16T01:56:21Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-15T15:33:14Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-15T14:01:48Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T07:01:29Z",
+    "checked_at": "2026-07-16T07:31:25Z",
     "valid_until": "2026-07-15T11:38:10Z"
-  },
-  {
-    "id": "5946150",
-    "title": "ISO Ð¾Ð±ÑÐ°Ð· Windows 11 Pro",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5946150",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=cbff817c-5c01-46e8-9fe5-5633199b6a5c&P1=1784094299&P2=602&P3=2&P4=KuWNjjQdb9PpArFa0qTQqi%2bacAGXSpWzYPA5cVwCN7jKaPpkL7ngec23nEqNualcGi0FtCcLIgDxkXVvokD0Apt8s6pszcbxFhqqjrxNsmMuBssr1GplnqKAlEdEy%2bLEnPaXKgUi52VWi7%2bvRDzJISyoFlZfZEMZdiIBJE%2fIi13dIuEkq8PMmbNLc4EUwTP4uGXD1mTvl5mH4sutMNSIjWPwOEnyqTyXTDWHPQ9sS3kiuwG6Q5DkqI5LZfayMAVjX8YD5eIGduOk3hLEXkUAWSJpAgN5aVCLieENnVlWuVPjc3ESSnx3c8ey33aTAwGq4yJ7A7wyewbyNipxltLpSg%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-16T07:01:29Z",
-    "valid_until": "2026-07-15T05:44:59Z"
   }
 ]
