@@ -1,5 +1,22 @@
 [
   {
+    "id": "5949211",
+    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ iso ÑÐ°Ð¹Ð» windows 11",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5949211",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=2b384b14-86e2-482d-9212-2669b9aaaabf&P1=1784317552&P2=602&P3=2&P4=RkEUbWSvOFICIqt7ysle8UyZIds%2bhrPgh%2bKYRtjNxFrvliNzK1KPobiG0nnRQZHoVMWfnXxewHDY%2fLnI03M7AtyAk432DICnxI5I0dc8gefjbPjYZXP1jO%2btSoxohVv%2fiVidjJscQ1E%2bnecQ%2f8JNMn3ak0g0%2bRpIVDvYzSKS0npGKfuFmCPjEINRHzl%2fn54BYfK2by8Yvs8ikZVQ12u%2bGBcMdT%2faIpcNP8xyLEDw3LingCJq%2b89W5LKxMP71kvfjYBFNstyfbSSdJk%2b8leKt8oZqxkdW%2b76hrahIHZJPMnhzR0WPvKxjfyeb8GI6U3mf3thC%2b0dliiMf0BkbOc5RBg%3d%3d",
+    "author": "Estrella721",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-07-16T20:01:20Z",
+    "valid_until": "2026-07-17T19:45:52Z"
+  },
+  {
     "id": "5948994",
     "title": "Request for a direct temporary link to Windows 11 ISO (Russian, x64)",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5948994",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-16T19:31:05Z",
+    "checked_at": "2026-07-16T20:01:20Z",
     "valid_until": "2026-07-17T16:31:57Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-16T19:31:05Z",
+    "checked_at": "2026-07-16T20:01:20Z",
     "valid_until": "2026-07-17T11:48:00Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T19:31:05Z",
+    "checked_at": "2026-07-16T20:01:20Z",
     "valid_until": "2026-07-16T19:13:07Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T19:31:05Z",
+    "checked_at": "2026-07-16T20:01:20Z",
     "valid_until": "2026-07-16T07:20:47Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-16T19:31:05Z",
+    "checked_at": "2026-07-16T20:01:20Z",
     "valid_until": "2026-07-16T01:56:21Z"
   }
 ]
