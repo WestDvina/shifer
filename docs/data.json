@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-19T18:03:24Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-19T15:05:55Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-19T09:33:41Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-18T09:47:32Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-17T21:08:20Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:31:00Z",
+    "checked_at": "2026-07-18T19:01:04Z",
     "valid_until": "2026-07-17T19:45:52Z"
-  },
-  {
-    "id": "5948994",
-    "title": "Request for a direct temporary link to Windows 11 ISO (Russian, x64)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5948994",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=01e895c6-2f18-48da-b08d-99c46c88a683&P1=1784305917&P2=602&P3=2&P4=gKD08TORpd1GWQwwfb4p%2fkofNSfAKD08t4FGDZRojZtbdx1bbzW1Fhz3T1hnuWaAGAngvj%2fRjU9H28Ft%2biQHwqgXT1TrLEPV5BT%2b1Hp7L2neARBCA%2fEwrB0%2fr65oJJQj4Aq7p8A9YSwCMbccUupf4EF%2bXQpH1QzTYsjT%2fElOdGyn9ftjzTV4kQUjuQV9hELNJGXQ6smL97a8VYLS5tubJs8SFGJchrKxU0x8ew%2fNV%2fVn8arE6olqeSNMGcGftJgy16D90nObst62olSz5QZ67%2bUj79ET4Taxs6%2fQrePz3EK17Tj5%2bQsYZxXMDDtzuV7Tl7eOiHgBKEH27SLWzCg1kw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-18T18:31:00Z",
-    "valid_until": "2026-07-17T16:31:57Z"
   }
 ]
