@@ -1,5 +1,22 @@
 [
   {
+    "id": "5950847",
+    "title": "ÐÐ°Ð³ÑÑÐ·ÐºÐ° Windows 10 22H2",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5950847",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=926f0095-9663-42ea-9b17-c3547c56504f&P1=1784484204&P2=602&P3=2&P4=kzci1wg6kh1oemZjREQ0PXx7af%2bgeqRz16OBOw31AQwAfFXpo3IqIamV83NWyJ%2f1pP9Bm6SnvEGyK7xTWmRYtd0DIOpmxUiMFgE%2fGQK3TrWa3Eox1CxrVn0Rvhgt4viF%2foXlOsyqkdxBNWRaac0rjg2FlAY9JnLe12%2b%2budzVstYjMAX6lgTeMMYy3DFKYi%2fb576TfG5TUHn%2bF1cvZ9rhMq0waRRTEOg339o3eu2BhzTPUYNiNaZwcUTJFei3RqjBr51oSxiZNkpzu36dLULRHcU2ey%2fGaarDSiZ6S28eWj8mILhBNyxy%2f7%2f3G5Xkra0EuefXWDABVQaKF1kRh1sGDw%3d%3d",
+    "author": "Paulo GM",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-07-18T18:07:31Z",
+    "valid_until": "2026-07-19T18:03:24Z"
+  },
+  {
     "id": "5950723",
     "title": "cÐºÐ°ÑÐ°ÑÑ iso Ð¾Ð±ÑÐ°Ð· 10 windows",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5950723",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-19T15:05:55Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-19T09:33:41Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-18T09:47:32Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-17T21:08:20Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-17T19:45:52Z"
   },
   {
@@ -98,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-18T18:01:00Z",
+    "checked_at": "2026-07-18T18:07:31Z",
     "valid_until": "2026-07-17T16:31:57Z"
   }
 ]
