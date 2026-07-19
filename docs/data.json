@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-19T14:01:02Z",
+    "checked_at": "2026-07-19T14:30:52Z",
     "valid_until": "2026-07-20T07:39:08Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-19T14:01:02Z",
+    "checked_at": "2026-07-19T14:30:52Z",
     "valid_until": "2026-07-20T04:13:25Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-19T14:01:02Z",
+    "checked_at": "2026-07-19T14:30:52Z",
     "valid_until": "2026-07-19T18:03:24Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-19T14:01:02Z",
+    "checked_at": "2026-07-19T14:30:52Z",
     "valid_until": "2026-07-19T15:05:55Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-19T14:01:02Z",
+    "checked_at": "2026-07-19T14:30:52Z",
     "valid_until": "2026-07-19T09:33:41Z"
-  },
-  {
-    "id": "5949704",
-    "title": "Ð¡ÑÑÐ»ÐºÐ° Ð½Ð° Ð¾Ð±ÑÐ°Ð· Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5949704",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=f6df2d89-3e39-41e3-a365-9088456fe36d&P1=1784368052&P2=602&P3=2&P4=kGzT2VmlnJzvkb3e54NcIRDsSpNmrM8Xp3TfmZ%2b52c4RqIpy8SSR%2bczCTSrL7DOEna4N3dx7QJaVkFhHbzhtAf4h%2fn%2fNb7PEsR3tl%2fsx3BcpiLX1DkX6J%2bjIq%2fbFMp51IplWatQGAHjTwoFO7JvHlek12eYjhQZo5g37rnBS25oU4s9GP%2faZmFfjIuu9JvqrdK8LWtYHsrLa5NUamf0FNFtyqmE6ta00B%2bq81caiBSoTS6ouueWUYZAfEIXf5DAyEi6gyNSzfS%2bfgCVKVnL%2bFrEfaS%2bVBz34q8bVXEVmdRCuvHQimH92SMuzaQ9226W0E3jDbOady3UhHooN5YAQ8g%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-19T14:01:02Z",
-    "valid_until": "2026-07-18T09:47:32Z"
   }
 ]
