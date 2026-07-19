@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-19T18:40:31Z",
+    "checked_at": "2026-07-19T19:01:05Z",
     "valid_until": "2026-07-20T07:39:08Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-19T18:40:31Z",
+    "checked_at": "2026-07-19T19:01:05Z",
     "valid_until": "2026-07-20T04:13:25Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-19T18:40:31Z",
+    "checked_at": "2026-07-19T19:01:05Z",
     "valid_until": "2026-07-19T18:03:24Z"
   },
   {
@@ -64,24 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-19T18:40:31Z",
+    "checked_at": "2026-07-19T19:01:05Z",
     "valid_until": "2026-07-19T15:05:55Z"
-  },
-  {
-    "id": "5950563",
-    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5950563",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=077b07fe-d680-4192-bb8f-f64974f1ef8f&P1=1784453621&P2=602&P3=2&P4=Tk%2by5kPuCrRjr5tmVv0TzGQhrXBiXp%2fEI5ItV3y6%2b4RPC8r%2buWZR4hpVLGmNmhz2TqXMVXp4VRW%2bmSkBDPjT9740zilW1HBxGFBpnvlcw00gJv8HTYHXj4i7NWOXmTnwhammWTq6JhMcPKEib05RUGiVJOVUqe%2boIOSvJyMvGZgVdbKghWLbTYBjjhWJ4ugEZONgJooQ5reEZhvIvv17QJKNZisjhQ%2fiWWKqj%2baETpo9UATkHcgeAIZHtYGgiR%2bJ%2fwZ9Vr5Bkks15FVdim0onUuc8QCQggOBc8Y6ReMSDuVTGbhtlKV0axtC1RArP3qCJjXbUgct2CQrz0XQPS4F%2bw%3d%3d",
-    "author": "Ramesh Srinivasan",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-19T18:40:31Z",
-    "valid_until": "2026-07-19T09:33:41Z"
   }
 ]
