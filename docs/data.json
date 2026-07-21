@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-22T06:45:57Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-21T22:51:03Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-21T18:48:10Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-21T18:38:14Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-21T12:03:32Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-21T16:30:56Z",
+    "checked_at": "2026-07-21T17:01:05Z",
     "valid_until": "2026-07-21T10:18:55Z"
-  },
-  {
-    "id": "5951760",
-    "title": "iso-Ð¾Ð±ÑÐ°Ð· windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5951760",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=915fbbe5-50b8-4477-a350-f373e8118cb4&P1=1784623124&P2=602&P3=2&P4=x%2blGt%2fISWrRFzcgyjgE3BpDuchD51qHDUCZQMRlW5WX2M2fEqdwjXYoF5AYy9YMSJNilAlrvoeFMa1pSNzObNkarJZb834F9J8EBbalsRX1%2bU5JNnE%2fnsMA6S5I870PmDYm8k5nt4mjnbe9g1D0Aa6Gr7g%2fUfx2ONQPGYrKEVzOsELmX6WTwONkLm1VFVFGsRGnjg5jiPkIXW16xdXlPHjenDamek%2bvWUv5lEkyYb9aXyYiICA9ZK4kRWeZRwxbPxoLv%2b5qN47gh1Cca3gZQONT1REpnqE2Wxfu%2bFqI%2b4Fdip1YOt6NkFK4NHmlQVcCAQHXps6dAJI%2bs3GeWrdEEmQ%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-21T16:30:56Z",
-    "valid_until": "2026-07-21T08:38:44Z"
   }
 ]
