@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T07:31:01Z",
+    "checked_at": "2026-07-22T08:01:04Z",
     "valid_until": "2026-07-22T21:09:32Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-22T07:31:01Z",
+    "checked_at": "2026-07-22T08:01:04Z",
     "valid_until": "2026-07-22T19:33:05Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T07:31:01Z",
+    "checked_at": "2026-07-22T08:01:04Z",
     "valid_until": "2026-07-22T17:09:38Z"
   },
   {
@@ -64,24 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-22T07:31:01Z",
+    "checked_at": "2026-07-22T08:01:04Z",
     "valid_until": "2026-07-21T22:51:03Z"
-  },
-  {
-    "id": "5952355",
-    "title": "ÐÐ°Ðº ÑÐºÐ°ÑÐ°ÑÑ windows 11 Ð² Ð Ð¾ÑÑÐ¸Ð¸?",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5952355",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=e3c434e3-bd87-4c44-b376-270363bd2e35&P1=1784659690&P2=602&P3=2&P4=UNu9J6aRcTdAuYrVOLVe6X%2fuxiNqOjUstWuYHHDqQ4s5mKRgrMqBpo8mzvR0%2f5AHvH0OXI%2bhbsF8vbMfwgus5i8yGrcZf7wh%2bUwfj9yF6S9g0jUpRaq%2bBI7VEDS1s8BtQ0TQjtcDdUH2AQMtXVTUEYIIMFLtsDYtBfskb22245tFMV9qC%2b6RM%2fzfBYfQ%2bHTuXhqqASkqpthImypLBvhk3tZen7hi16RGjl4TWjIzkuFzPqmGQesbynh0ucIJ%2fE6jrWp%2b5IIQGiUoAD6ph26%2bbfBXxh0m3VvtaFDgOXdkv5cMj7Bhg6xlEdRsMkT%2fyu%2fsscyO5ExyjnMdrQJ9eShg8w%3d%3d",
-    "author": "John Jefferson Doyon",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-22T07:31:01Z",
-    "valid_until": "2026-07-21T18:48:10Z"
   }
 ]
