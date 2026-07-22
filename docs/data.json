@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T05:01:09Z",
+    "checked_at": "2026-07-22T05:30:56Z",
     "valid_until": "2026-07-22T21:09:32Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-22T05:01:09Z",
+    "checked_at": "2026-07-22T05:30:56Z",
     "valid_until": "2026-07-22T19:33:05Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T05:01:09Z",
+    "checked_at": "2026-07-22T05:30:56Z",
     "valid_until": "2026-07-22T17:09:38Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-22T05:01:09Z",
+    "checked_at": "2026-07-22T05:30:56Z",
     "valid_until": "2026-07-21T22:51:03Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-22T05:01:09Z",
+    "checked_at": "2026-07-22T05:30:56Z",
     "valid_until": "2026-07-21T18:48:10Z"
-  },
-  {
-    "id": "5952348",
-    "title": "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐºÐ°ÑÐ°ÑÑ ISO Windows 11 Ð² Ð Ð¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5952348",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=c4b0fcd8-8298-4d14-8a76-b5bf9957aed3&P1=1784659094&P2=602&P3=2&P4=ESQOUNbtWoEojuMdmlq14wzLTLIEpVLY11GJ3DRcPKWBP88EgHoT%2fsEKxuGPreL50RVTlWT2zrl6wj33WY9RP48PpyZm%2b0GfuxkfJdCUvFoSEtosZosiRrG1Bm8%2b8b2xfHBnabyiowp2rOiQDBG8H47QaAqCfnfGlhgAFsIG6mEJf79nznEr7FYvuQjc18t1fpUomKp5usOZmfxLOZiYWGdHKDtFNt7Trq48Xfet5%2f5UyWWzQcqRmu8Ji8ZRl5jw3XMz1%2fewEJFCebm%2balREsxUY0kl%2bmFZ%2fwJZgRLrodagOnzig24a6SMCROK%2fVTRn7F62Vl34Hn7abO1seQMbjiA%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-22T05:01:09Z",
-    "valid_until": "2026-07-21T18:38:14Z"
   }
 ]
