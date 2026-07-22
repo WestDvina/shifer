@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T13:01:09Z",
+    "checked_at": "2026-07-22T13:30:59Z",
     "valid_until": "2026-07-23T12:45:58Z"
   },
   {
@@ -30,8 +30,25 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-22T13:01:09Z",
+    "checked_at": "2026-07-22T13:30:59Z",
     "valid_until": "2026-07-23T12:17:21Z"
+  },
+  {
+    "id": "5954105",
+    "title": "ÐÑÐ¾ÑÑ Ð¿ÑÑÐ¼ÑÑ ÑÑÑÐ»ÐºÑ Ð½Ð° Win11 Pro Ð´Ð»Ñ Ð°ÐºÑÐ¸Ð²Ð°ÑÐ¸Ð¸ ÑÐµÑÐµÐ· ÑÐ¸ÑÑÐ¾Ð²ÑÑ Ð»Ð¸ÑÐµÐ½Ð·Ð¸Ñ",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5954105",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=e95655b9-24a4-4f3e-8f11-808d7c33ec7a&P1=1784801778&P2=602&P3=2&P4=DOlgroZNgmrSwpud3jOf6fEP83kgeESweZo4hHv6emhz7ctXDtnXyB5T9TUFG6wdlMhT6jf%2f5GTNbfZ0noNtlBoRVf%2f1sFwZ5%2fd%2bzx2QxzXNC9YI8lYKBjxtKIfW%2fEpSIIxoqM%2fyGc5El4fowZH0lCXgzbfvYvxP5NyWDzs6guph61dU4pydNcd3MYDtyQ2nw%2bjXquR2KZjH8P3CpAb%2biLsq%2bi3Y3pNsZ4YBkava%2bcAcy%2b3PnGp5Sbg9JQFF%2fWbPnboDBbUakBskgqKWb6LDR%2buFzcIgwhkVDOOSaVlQJaXNn3UGM3btmqM%2b7QI%2fhNtuNhDNCDMUf%2b7d9wujfBZM0w%3d%3d",
+    "author": "DaveM121",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-07-22T13:30:59Z",
+    "valid_until": "2026-07-23T10:16:18Z"
   },
   {
     "id": "5953521",
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T13:01:09Z",
+    "checked_at": "2026-07-22T13:30:59Z",
     "valid_until": "2026-07-22T21:09:32Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-22T13:01:09Z",
+    "checked_at": "2026-07-22T13:30:59Z",
     "valid_until": "2026-07-22T19:33:05Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-22T13:01:09Z",
+    "checked_at": "2026-07-22T13:30:59Z",
     "valid_until": "2026-07-22T17:09:38Z"
   }
 ]
