@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-23T21:43:21Z",
+    "checked_at": "2026-07-23T22:01:05Z",
     "valid_until": "2026-07-24T21:13:06Z"
   },
   {
@@ -28,9 +28,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-07-23T21:43:21Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-07-23T22:01:05Z",
     "valid_until": "2026-07-23T22:00:24Z"
   }
 ]
