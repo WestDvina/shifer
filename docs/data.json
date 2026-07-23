@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-23T19:01:09Z",
+    "checked_at": "2026-07-23T19:18:49Z",
     "valid_until": "2026-07-23T22:00:24Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-23T19:01:09Z",
+    "checked_at": "2026-07-23T19:18:49Z",
     "valid_until": "2026-07-23T12:45:58Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-23T19:01:09Z",
+    "checked_at": "2026-07-23T19:18:49Z",
     "valid_until": "2026-07-23T10:16:18Z"
   }
 ]
