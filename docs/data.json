@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-23T17:45:43Z",
+    "checked_at": "2026-07-23T18:01:11Z",
     "valid_until": "2026-07-23T22:00:24Z"
   },
   {
@@ -30,25 +30,8 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-23T17:45:43Z",
+    "checked_at": "2026-07-23T18:01:11Z",
     "valid_until": "2026-07-23T12:45:58Z"
-  },
-  {
-    "id": "5954037",
-    "title": "ÐÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ISO Windows 10 22H2 (Ð ÑÑÑÐºÐ¸Ð¹, x64)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5954037",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=9783c86e-23fa-416a-af82-b29aac41fc12&P1=1784809041&P2=602&P3=2&P4=jIxhZbcUMdjie6uOqQsCBrpJfB5Zl0IVuhCysBRLKNt4MZwKabHX0A8GdnMhrqNBvWZRd0cbK%2bUrOIwSTdD%2fhj%2bR%2bSojuSZ9jFI373NQqKRegH9Ybx85CDE6vzTlYJABtVJ4qEgtUpIApdC%2fnr164KyZvaaC4o4WLKU%2b4Ln9OtmbIY8Ep%2bukQS392AWHl3qWMPZK8O%2bjHfXTb8Dz2FCkK14FD%2bZfV3M7622r4%2fN9m5v8f5LLUWZRa6VgqEryoPWgyYv8bXS7TAbyZwCVKPe%2f1NIPKPmiVWXNmeEOXArIY6LpEXxdE7DRSM9g7zQbuK88JsK32l9L5kdT0kwEc2KJPQ%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-23T17:45:43Z",
-    "valid_until": "2026-07-23T12:17:21Z"
   },
   {
     "id": "5954105",
@@ -64,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-23T17:45:43Z",
+    "checked_at": "2026-07-23T18:01:11Z",
     "valid_until": "2026-07-23T10:16:18Z"
   }
 ]
