@@ -1,5 +1,22 @@
 [
   {
+    "id": "5958176",
+    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ ISO-Ð¾Ð±ÑÐ°Ð· Windows 11 Ñ ÑÐ°Ð¹ÑÐ° Microsoft Ð¸Ð·-Ð·Ð° Ð¾ÑÐ¸Ð±ÐºÐ¸ 715-123130",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958176",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=85b5c1b7-2cf9-4844-b3bc-e37e02d31d13&P1=1785232604&P2=602&P3=2&P4=uD7TQ7VclQP6JN6mdmEhf9PExMof8N16%2figq8t%2fstAZAARaJEe%2bXFHKlr4nE3mezr0Z%2bxvC80teUQVnK1KgwIHOXMZsDcwpwH%2fvWwpVRQqUuruFCrO781xNUtdg2xdSdyLY6P9Chuyp%2fWHnss8nN8izvsxByd2ZpzFzLBp1fc3v1%2f55eaPKy15Hkq2ywkwUVr%2fPKkFZcENSW0p7bj5UKizD8hpOWPg3fT8a5uwA0QRChFwfm5Qsp4wNGe6u9QB%2bPTeWg4f0dntxDg%2fTLqgCUAh%2bKZMUDTkeSx7bn6toJYQ2vPUEguw%2fwRcm9n9SpLahoATnbfJxsDxdHxsRHCqu9aw%3d%3d",
+    "author": "Estrella721",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-07-27T10:01:04Z",
+    "valid_until": "2026-07-28T09:56:44Z"
+  },
+  {
     "id": "5957955",
     "title": "I'm in Russia and can't download the official Windows 11 ISO image from the Microsoft website.",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5957955",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T09:31:06Z",
+    "checked_at": "2026-07-27T10:01:04Z",
     "valid_until": "2026-07-28T04:39:19Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T09:31:06Z",
+    "checked_at": "2026-07-27T10:01:04Z",
     "valid_until": "2026-07-27T20:57:11Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T09:31:06Z",
+    "checked_at": "2026-07-27T10:01:04Z",
     "valid_until": "2026-07-26T18:40:48Z"
   },
   {
@@ -64,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T09:31:06Z",
+    "checked_at": "2026-07-27T10:01:04Z",
     "valid_until": "2026-07-26T11:42:36Z"
-  },
-  {
-    "id": "5956710",
-    "title": "ÐÐ¾Ð±ÑÑÐ¹ Ð´ÐµÐ½Ñ. Ð¯ Ð½Ð°ÑÐ¾Ð¶ÑÑÑ Ð² Ð Ð¾ÑÑÐ¸Ð¸. ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ Ð¾Ð±ÑÐ°Ð· Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5956710",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=43d1c334-0ce9-4098-a5cc-bb548f45e4c0&P1=1785039610&P2=602&P3=2&P4=NNUU8bI0f0%2f29PdaMgUttDEi3PW1SKqu7KuGmIN2Yi4MpOE6x6rcAUypa13EN8ngbgKIpiX9r23QwP3oroJo7lNdOi9APjKyIFDdBz%2fLVj1LmJtmDae8qym0GnB7m7dlTHJjA%2fQ7NSEErbSRY6kJKpjIVqN8S%2fhdpXwunavGNqc8CGueX6oN3FOJdxGk8qo0NLbohIqgxbWdTlPWBUBbvjg%2ffK%2bBVRGldUxA4Ua9B9CUmkuSOD4vhCpsi78ckvIDcyzuQWPbiqr%2fqwv%2buYzHIetE%2bUQ0AQzdRZb%2fBTkQKrVUsrvzpW0dVXIWmnWC3Sr2DClAgzSgeYoSXoSKWruYkA%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-27T09:31:06Z",
-    "valid_until": "2026-07-26T04:20:10Z"
   }
 ]
