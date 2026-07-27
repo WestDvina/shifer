@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T04:07:28Z",
+    "checked_at": "2026-07-27T04:31:01Z",
     "valid_until": "2026-07-27T20:57:11Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T04:07:28Z",
+    "checked_at": "2026-07-27T04:31:01Z",
     "valid_until": "2026-07-26T18:40:48Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T04:07:28Z",
+    "checked_at": "2026-07-27T04:31:01Z",
     "valid_until": "2026-07-26T11:42:36Z"
   },
   {
@@ -64,24 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T04:07:28Z",
+    "checked_at": "2026-07-27T04:31:01Z",
     "valid_until": "2026-07-26T04:20:10Z"
-  },
-  {
-    "id": "5956631",
-    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÑ Ð¾Ð±ÑÐ°Ð· Windows 11 Ñ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ° Ð¸Ð·-Ð·Ð° Ð¾Ð³ÑÐ°Ð½Ð¸ÑÐµÐ½Ð¸Ð¹",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5956631",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=f3bde2b9-0088-41d7-a2b8-f6a983d2523e&P1=1785024271&P2=602&P3=2&P4=C5aSpeTv7PW4wIXQIXuMNMn02gWFslCxissmgwbDZirdUTQ6SQP%2b%2bh6ujgsUcrcTDbqoBlYTf8t52Y5hLFtnaPiLJhpyfLGRgGLb4PTOM9ksiNs6d6RAGwP6iYut3%2bLOGWDQJhtfHxbvpyJ%2bCShNMxBWxG2HiilhQWc8WneQBD29PruaBzTZ74ERPtmLpYhYCVOnrDlOquvsxkqsG1dtJ6BiORTkrrrsGQD3le%2f1s4Ukx6n%2fdK8g1Jwa3G3OBYrn9WfKYBwujcz%2fEXTM%2b1DMJHfusldjz1cpZtMHe%2bOoDH6omyFsMoxaMb2EwJyyZx5scG2MG5x8w1f4zBmNumB52Q%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-27T04:07:28Z",
-    "valid_until": "2026-07-26T00:04:31Z"
   }
 ]
