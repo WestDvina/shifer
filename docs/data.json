@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T12:30:58Z",
+    "checked_at": "2026-07-27T13:01:05Z",
     "valid_until": "2026-07-28T12:20:49Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T12:30:58Z",
+    "checked_at": "2026-07-27T13:01:05Z",
     "valid_until": "2026-07-28T10:13:41Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T12:30:58Z",
+    "checked_at": "2026-07-27T13:01:05Z",
     "valid_until": "2026-07-28T09:56:44Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T12:30:58Z",
+    "checked_at": "2026-07-27T13:01:05Z",
     "valid_until": "2026-07-28T04:39:19Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T12:30:58Z",
+    "checked_at": "2026-07-27T13:01:05Z",
     "valid_until": "2026-07-27T20:57:11Z"
-  },
-  {
-    "id": "5957140",
-    "title": "ÐÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ISO-Ð¾Ð±ÑÐ°Ð· Windows 10 Pro 64-bit (ÑÑÑÑÐºÐ¸Ð¹) Ð´Ð»Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ Ð½Ð° ÑÐ¸ÑÑÑÐ¹ ÐºÐ¾Ð¼Ð¿ÑÑÑÐµÑ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5957140",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=3aca55b4-679c-47c7-802a-fb404ac6d151&P1=1785091248&P2=602&P3=2&P4=LDF2GsMcUJwM3q5OMoxtxFOveABTPC1BHzq9zfZ9EZ%2floJIkQ9j9276JotB9ofoKnlKZJLbi8w5W%2boVwIHXkIploy4M7PwhVcyR8AwTYszrYpC5jnyaLoi8m82Te0iT56miuabb96DIn4SWw4ltEIQ8O%2bMeCEHV25QflTzVfBOpMX%2f%2fc5XwcYVaXwoivQaC5sRBUQD4LqFJo2LLxheiponNDBTVVo9ySKy777cAtrYC6v8%2f6e9J%2fGHJucbsTzuidO8ZMv%2bJN1qdwPxe3cy4wqOQWb7oUzNmk7GEo0SHW9GAbr7W%2fdWYqfgA48gAcXjURBp3oBiXxvADARwClW1tiaw%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-27T12:30:58Z",
-    "valid_until": "2026-07-26T18:40:48Z"
   }
 ]
