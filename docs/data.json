@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T11:30:53Z",
+    "checked_at": "2026-07-27T12:01:15Z",
     "valid_until": "2026-07-28T10:13:41Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T11:30:53Z",
+    "checked_at": "2026-07-27T12:01:15Z",
     "valid_until": "2026-07-28T09:56:44Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T11:30:53Z",
+    "checked_at": "2026-07-27T12:01:15Z",
     "valid_until": "2026-07-28T04:39:19Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-27T11:30:53Z",
+    "checked_at": "2026-07-27T12:01:15Z",
     "valid_until": "2026-07-27T20:57:11Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-27T11:30:53Z",
+    "checked_at": "2026-07-27T12:01:15Z",
     "valid_until": "2026-07-26T18:40:48Z"
-  },
-  {
-    "id": "5956899",
-    "title": "I can't download Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5956899",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=ddfd47dd-fc48-4e7e-97fd-42edb9faca4e&P1=1785066156&P2=602&P3=2&P4=EzR7lvoGxPWTAchRVlXw6gNpqEBiif%2bqU5i6oFBIlg5BwIZKs5HURaEgC03JGUEMPjxiLCjxJx4BLd3%2bAAMC%2bRQbaMhqb8Z2n4k%2f0MiRw3f4bjtAZJs9jxKLZN9lSt3g2RGCM5hlR9%2bHsqNu6MjSsXAyWbsEzV%2beXqWsJgexJ4pTN1Gv7fCvs6n%2ftaAv8an1AIomwd2gn8%2b46MDQ42BiMrk6zVDwIDWEvvtGg64ldcVjUZMsx5AY98M7Z%2beli3446k87NCT6vuMDbvXwLlHrS4bWH6N5Y7T%2bQYHnJd%2fCrObRu914J2nRgRIppiI%2fWGmAxm4ZuNuVBRpfFu%2biYfdWOA%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-27T11:30:53Z",
-    "valid_until": "2026-07-26T11:42:36Z"
   }
 ]
