@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-29T00:34:24Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T22:11:36Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T19:55:36Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T17:40:31Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 7951198208,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T13:10:22Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T12:20:49Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T10:13:41Z"
   },
   {
@@ -132,24 +132,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T07:18:06Z",
+    "checked_at": "2026-07-28T07:30:56Z",
     "valid_until": "2026-07-28T09:56:44Z"
-  },
-  {
-    "id": "5957955",
-    "title": "I'm in Russia and can't download the official Windows 11 ISO image from the Microsoft website.",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5957955",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=95e0a3d7-163f-462b-b42c-fc1cd3171695&P1=1785213559&P2=602&P3=2&P4=UwLkpSc%2fzTNcYBFeNpDU4n0H4LjUr7CN%2bBXluhEH1WoP5VfyQZ7MKeAUtFOoRJoP8cP0NChYyCGXcIbJZf7udq2mQUCghfLce6bejVheGcMgt4Ttarg2mFcxHTeUmbF3z55IFv57QhE01h49VWJjsNsAs2o2WSjXoflkTYFAs3hOihajiL88oFHh1wAHYpRNVF0ippi8U64ApEURmEQt2D9HCZxHmQMde2w8RrBcGWFF8R4Eb2XQ%2b5ZeJ%2byArm3P4BD0tDf9WDi%2bWSbfORusSnodRQ302m%2bfAKfA8p4PhZL%2bNf6Ngq9i9m2XEzcK7qDx9%2fDVwvW85SZLDNQ%2be6tV%2fw%3d%3d",
-    "author": "Ramesh Srinivasan",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-28T07:18:06Z",
-    "valid_until": "2026-07-28T04:39:19Z"
   }
 ]
