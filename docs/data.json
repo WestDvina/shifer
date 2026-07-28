@@ -1,5 +1,22 @@
 [
   {
+    "id": "5958960",
+    "title": "ÐÑÐ¸Ð±ÐºÐ° 0x80080005 - 0x90018 Ð² Media Creation Tool Ð¿ÑÐ¸ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐµ Windows 11 ISO",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958960",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=56bc30c1-85b2-4397-8cfa-f4c26e285a1f&P1=1785285264&P2=602&P3=2&P4=MRLlHaaOc4bL6ggVTcAl46zy0sUT7nbbPT4imDX6U5n1j%2fzVk%2fFf%2b6GrSxpFdkKN5RTQNEJJvk4cGHhsi2wL3Fr8w9gookWbntEz6qBy60iMtNMpioMj2HPqd4nxQSID7KPvKXsvqXMF71w4sF0WugLSTcrPCH%2bmImdS2slhEAaep2XAjT%2fFeClYdDCTo1Ddl7d%2b4QY1R9Ypbbx7O5DwnHpLep3%2fhmNEFitokF00xOXU%2bF%2fDe3HwUniy%2fs6GiGbfJQcunYnbkxWwm7vaT5A06ng5ZC7SpwxPHw1kEz68Yyfxj1ZDwIIjMmZDEcEiGOJ%2fHL06ADVHS2SHYah4twVz3Q%3d%3d",
+    "author": "Ramesh Srinivasan",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-07-28T01:01:04Z",
+    "valid_until": "2026-07-29T00:34:24Z"
+  },
+  {
     "id": "5958956",
     "title": "ÐÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð´Ð»Ñ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ñ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ISO-Ð¾Ð±ÑÐ°Ð·Ð° Windows 10",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958956",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T22:11:36Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T19:55:36Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 7951198208,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T13:10:22Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T12:20:49Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T10:13:41Z"
   },
   {
@@ -98,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T09:56:44Z"
   },
   {
@@ -115,7 +132,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-28T04:39:19Z"
   },
   {
@@ -132,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-28T00:30:58Z",
+    "checked_at": "2026-07-28T01:01:04Z",
     "valid_until": "2026-07-27T20:57:11Z"
   }
 ]
