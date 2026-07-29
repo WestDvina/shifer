@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-29T15:33:00Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-29T11:10:08Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-29T00:34:24Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-28T22:11:36Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-28T19:55:36Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T03:40:02Z",
+    "checked_at": "2026-07-29T04:01:06Z",
     "valid_until": "2026-07-28T17:40:31Z"
-  },
-  {
-    "id": "5958390",
-    "title": "Windows 11 arm64",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958390",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_Arm64_v2.iso?t=295d3d21-9a21-4387-8678-e67fdfa2fd78&P1=1785244222&P2=602&P3=2&P4=MJtoeQlyRszw3%2bvI%2fR19tRLOdWS3IFPaGzgW7tbAK2ZGIonJ1U0oEIhyzu%2bYEvz4Lsxs0VTI2cui7cmWThRtLl%2ffpd9Z4swOmSckeLh8y1fJahfkElY49cdYo%2fSEaLEBhjUX11WqPFrxt5VoCalhOeK43po6uNSjNPfOB3ekaB%2ffSybCdIQ5u04yP2ia8Hlr03j%2biF4mKDmesMM0gRUAfxK%2bvjskpHe7d7fH8INWg6TI18B%2fpCB4qSA9ML9MWEXyeJvyJhVdyfridiWbIpoy7gsmSZWZhxiPY0HG9dDWvSn8B5Bc8TVifFES6hom0JaCv7de9AkKimfx7PENeQo%2fUw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "arm64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-29T03:40:02Z",
-    "valid_until": "2026-07-28T13:10:22Z"
   }
 ]
