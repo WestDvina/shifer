@@ -13,7 +13,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T16:31:02Z",
+    "checked_at": "2026-07-29T16:52:31Z",
     "valid_until": "2026-07-29T15:33:00Z"
   },
   {
@@ -30,41 +30,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-29T16:31:02Z",
+    "checked_at": "2026-07-29T16:52:31Z",
     "valid_until": "2026-07-29T11:10:08Z"
-  },
-  {
-    "id": "5958960",
-    "title": "ÐÑÐ¸Ð±ÐºÐ° 0x80080005 - 0x90018 Ð² Media Creation Tool Ð¿ÑÐ¸ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐµ Windows 11 ISO",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958960",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=56bc30c1-85b2-4397-8cfa-f4c26e285a1f&P1=1785285264&P2=602&P3=2&P4=MRLlHaaOc4bL6ggVTcAl46zy0sUT7nbbPT4imDX6U5n1j%2fzVk%2fFf%2b6GrSxpFdkKN5RTQNEJJvk4cGHhsi2wL3Fr8w9gookWbntEz6qBy60iMtNMpioMj2HPqd4nxQSID7KPvKXsvqXMF71w4sF0WugLSTcrPCH%2bmImdS2slhEAaep2XAjT%2fFeClYdDCTo1Ddl7d%2b4QY1R9Ypbbx7O5DwnHpLep3%2fhmNEFitokF00xOXU%2bF%2fDe3HwUniy%2fs6GiGbfJQcunYnbkxWwm7vaT5A06ng5ZC7SpwxPHw1kEz68Yyfxj1ZDwIIjMmZDEcEiGOJ%2fHL06ADVHS2SHYah4twVz3Q%3d%3d",
-    "author": "Ramesh Srinivasan",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-29T16:31:02Z",
-    "valid_until": "2026-07-29T00:34:24Z"
-  },
-  {
-    "id": "5958956",
-    "title": "ÐÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð´Ð»Ñ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ñ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ISO-Ð¾Ð±ÑÐ°Ð·Ð° Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5958956",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=10ab0cd7-d5c6-49a3-8fc3-814e9395421e&P1=1785276696&P2=602&P3=2&P4=uMVJq53LDL3fXrbcXTDoUwOZBZoGfEVnGJFKJmslcdwGiI7ZniLGcH1bLkfC%2bbCBSz2tYLyoTMNyxq2gW9gz2z%2bD3TUzukkgp1e0YxYJ6VckOQ4xA7gX6in6uGLGR%2fTfW2%2bs23NKFswovszc44VDzCIF9691p5EvvEqdnhWudYa0WfeiV%2fYvnjKcgyubNj889x89IfaDe5FUIfoEsIVY1OnDzSwns%2bTv1E847FajfgcCgeWWQCY61f8Lk0M48rg9KYeJPBN4JW%2bPrxudooL71LsSpHCNp%2bl6xHIgWMvdVxcz3oFN4zjX7WcFtQ4hpBtPHYp3%2bBowwuN8G3wh%2fQMmXg%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-07-29T16:31:02Z",
-    "valid_until": "2026-07-28T22:11:36Z"
   }
 ]
