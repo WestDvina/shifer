@@ -1,22 +1,5 @@
 [
   {
-    "id": "5962337",
-    "title": "Rufus windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5962337",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=ca2e32d2-3074-4d8f-913a-4733e2111f93&P1=1785569808&P2=602&P3=2&P4=xihnZxkqC%2b3fWmaRS8G6hz6X42Ef3FK3c4CmAvb%2b7QWmq0ipzBNnokTxYjRWujUeLlwQHK3ba4HXLZvdkpx7I4RbACy4Ls7yFaIE75GMm23Za3xu3YhUZWYTUnJ0X0RXKZYMDUq%2bt0mFMNDV8oPgnRsmm08ikYpa7ZuM4Bcz4Sn4bXwUp5C2KTJt7Z4RvrEAJkUlFPaEpbdcMrGKipMP02QXrE61roAU%2feTmA7yXMUQ4yefYAlN5WdHlSg0K%2bkgS8nmD%2bY1UjZkAKkfdQRnmdiWgWjesnT03X4lN85gmLe%2fQ7t2DW9N4rWMuZTRVDkywXbddrPPgsD8bqTm5VqGU3A%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-07-31T08:30:55Z",
-    "valid_until": "2026-08-01T07:36:48Z"
-  },
-  {
     "id": "5962085",
     "title": "Request for a temporary direct download link for Windows 11 25H2 ISO (Russian, x64)",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5962085",
@@ -30,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-31T08:30:55Z",
+    "checked_at": "2026-07-31T09:01:01Z",
     "valid_until": "2026-07-31T23:34:07Z"
   },
   {
@@ -47,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-07-31T08:30:55Z",
+    "checked_at": "2026-07-31T09:01:01Z",
     "valid_until": "2026-07-31T17:30:20Z"
   },
   {
@@ -64,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-07-31T08:30:55Z",
+    "checked_at": "2026-07-31T09:01:01Z",
     "valid_until": "2026-07-31T16:59:27Z"
   },
   {
@@ -81,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-07-31T08:30:55Z",
+    "checked_at": "2026-07-31T09:01:01Z",
     "valid_until": "2026-07-31T08:11:42Z"
   }
 ]
