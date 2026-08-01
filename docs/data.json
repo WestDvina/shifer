@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-02T08:43:58Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-01T23:12:12Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-01T17:59:27Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-01T13:39:59Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-01T12:39:26Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-01T13:01:07Z",
+    "checked_at": "2026-08-01T13:22:10Z",
     "valid_until": "2026-08-01T07:36:48Z"
-  },
-  {
-    "id": "5962085",
-    "title": "Request for a temporary direct download link for Windows 11 25H2 ISO (Russian, x64)",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5962085",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=b2ef39e9-cbe7-4baf-bfe6-848430aa1c1f&P1=1785540847&P2=602&P3=2&P4=YrjyGZ%2b0XFeeDM3Cocucfxlw%2foz%2flswZqqs7MviK2RPPCrPUYfPQkjfodZWaYuXSWF%2bfIP4o42HoVnDZQMyup8c3gndvAe6kdt0FyjFi1ix8wB1mckltfCakeRvIQff4kL7RNCntHddNrOgkFXaTHo5FoZVbRyjWGz%2buSsAplwlt%2b7%2bsjQLiMipZ6U8MuWYo2wsgQGxTLSM4SMaXFJD%2fs2zJwGACAngu4i9qA3AB5%2b2eRj98EculXGTmiGTiUnA2%2fL2vo5%2benlOW4V%2bqiVwZuhRHW06Op%2fKAXflcrfsfH%2b%2fFcv83uDHYMu7OMXdb8gvb1CqSqMr1SpvkVFx8kgX6Pg%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-01T13:01:07Z",
-    "valid_until": "2026-07-31T23:34:07Z"
   }
 ]
