@@ -1,5 +1,22 @@
 [
   {
+    "id": "5964255",
+    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ ISO-Ð¾Ð±ÑÐ°Ð· Windows 11 25H2 (Ð Ð¾ÑÑÐ¸Ñ)",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5964255",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=1e25c1e8-01ad-4601-8af8-27d7ba725ebc&P1=1785788121&P2=602&P3=2&P4=OlxGf%2fg1JnzSSZXQqV49V6weEiPVBjHt3eg7Kn%2bt9fYFP2zlJnSaAFk7REoceKFrimW6KbsDLljlaKSsWvs%2fou10TwNdfqxCYEqiFjYIUAqnE2K%2b1ZRYmdMbay5oaYyUgz2wWvMuLu%2bpWHCoEyV5oFBLWmTJO6Mh%2bTyg1g3OGtX2alnOYdryIeMaNaaWhQsG1tLWlml4e4UX96qDJfJstzCxNZe2w4sotLxbGce9rGaYPwZHAYv5cEZh7Q3fKCIPab7D%2fmNHL0AUPnrrVZ0Uz6ONKbLH4rxkPBP0u3LWDRIza8VIPjAf%2bpV8%2bdEtZ0GWdh66D2etAcMUG7TO%2fnKq%2fg%3d%3d",
+    "author": "Jonathan Deives",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-08-02T20:30:59Z",
+    "valid_until": "2026-08-03T20:15:21Z"
+  },
+  {
     "id": "5964229",
     "title": "Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ðµ Windows 11",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5964229",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T19:35:59Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T19:34:49Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T19:05:13Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T14:32:22Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T11:44:31Z"
   },
   {
@@ -98,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-03T00:42:56Z"
   },
   {
@@ -115,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-02T15:20:53Z"
   },
   {
@@ -132,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-02T20:01:04Z",
+    "checked_at": "2026-08-02T20:30:59Z",
     "valid_until": "2026-08-02T15:06:24Z"
   }
 ]
