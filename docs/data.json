@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-04T13:41:03Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-04T13:28:14Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-04T01:23:00Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-03T20:15:21Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-03T19:35:59Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-03T19:34:49Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-03T19:05:13Z"
   },
   {
@@ -132,24 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-03T17:01:08Z",
+    "checked_at": "2026-08-03T17:30:58Z",
     "valid_until": "2026-08-03T14:32:22Z"
-  },
-  {
-    "id": "5963998",
-    "title": "ÐÑÐ¸Ð±ÐºÐ° Ð¿ÑÐ¸ Ð¿Ð¾Ð¿ÑÑÐºÐµ ÑÐºÐ°ÑÐ°ÑÑ Ð¾Ð±ÑÐ°Ð· IOS Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5963998",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=06214027-5fef-4105-ab09-b3401c080e55&P1=1785757471&P2=602&P3=2&P4=VaKWBpuCQDPVkVsZSYcqm%2fX%2fMMEGyZoFkf7XAIDZ4DorYqliN3F2FUWW8gpethtmUNJLHqWtmrIZ0tfbSfOoF4oWkDieC5Ig6Hrt%2ffl5j4og4UpOq%2b92wZ21dug%2fCkRLT4pe6DfqeQnhV7TLNyLEpygJCY6RoZ0jFCyxGmj8HxPdNooe9M93%2bWmWXpcbHKIBODf6%2bfof6MoHbiAJ6Gfxr4QA76T3osPY7dQH%2fi2eNB3FHqCdDXpiPMASKSWoOPWG0xzupfPhIrefCT6%2f33PdXDTP2M3hZa%2bT9IB83DUte70AKrgS5yOuwMBXGBoiyk9ttkf1Yoi2nCOyMILgG8nVZA%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-03T17:01:08Z",
-    "valid_until": "2026-08-03T11:44:31Z"
   }
 ]
