@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T11:33:37Z",
+    "checked_at": "2026-08-06T12:01:15Z",
     "valid_until": "2026-08-06T19:06:54Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T11:33:37Z",
+    "checked_at": "2026-08-06T12:01:15Z",
     "valid_until": "2026-08-06T19:05:46Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T11:33:37Z",
+    "checked_at": "2026-08-06T12:01:15Z",
     "valid_until": "2026-08-06T17:36:19Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T11:33:37Z",
+    "checked_at": "2026-08-06T12:01:15Z",
     "valid_until": "2026-08-06T14:48:51Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-06T11:33:37Z",
+    "checked_at": "2026-08-06T12:01:15Z",
     "valid_until": "2026-08-06T10:43:25Z"
-  },
-  {
-    "id": "5966446",
-    "title": "windows 11 64 Ð±Ð¸Ñ ISO",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5966446",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=e251bebe-8977-45d0-8bbf-821720bb4c21&P1=1785963024&P2=602&P3=2&P4=XfJsIx6GcbHfvPDnFJjfgyrQoSXO%2b0CjAxrfp169G%2flp5XweRBgMCKVqfsAXOnkGFFODZGP%2bGMeZK%2bfKlXdsOtx2reKk%2b51qAjE0N%2fC%2ftKBOdJvy421FlisRCvbqBEgZwfSQTccqbH%2fwSQ2%2br3lxgl0q1oJ5TWtAPBWlRC%2bS3F7QHmcst%2bCL9VNZo9A8BmCas%2f2KO2tFpGzt1JPgjUXGiAxDlA%2fMeKF2GyDhqT4ES7fb2a2gGwzEBsHMmXW2HZsL7eLUtnWSqS%2bU9en9UY23NPuTJ7OG91ckj4KBsO8tVvYuoYcIs0t83%2bo6mRLMnFMgUxff6JBnkJgrqvqBnNoo4A%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-06T11:33:37Z",
-    "valid_until": "2026-08-05T20:50:24Z"
   }
 ]
