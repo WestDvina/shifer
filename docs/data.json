@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-06T19:06:54Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-06T19:05:46Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-06T17:36:19Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-06T14:48:51Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-06T10:43:25Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-06T06:15:00Z",
+    "checked_at": "2026-08-06T06:31:02Z",
     "valid_until": "2026-08-05T20:50:24Z"
-  },
-  {
-    "id": "5965999",
-    "title": "ÐÑÐ¾ÑÑ Ð¿ÑÑÐ¼ÑÑ ÑÑÑÐ»ÐºÑ Ð½Ð° windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5965999",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=76115a92-e65a-45f2-891e-923da5724b94&P1=1785935805&P2=602&P3=2&P4=LMKbDdRp2AZQaOBxQJkbv7YJxpue5hEtHRgR%2fohI%2bZJJ2Vy6ija4FGXcJn2ZwbPG2y7EpsHDKDxnjKOB6U2qGtq%2f0%2fHcnFDE0eSGxVWxS%2fMcAO8oycxytvP3xJ1D%2fbxqCAF%2b37jtwRWUCN2i%2fTBgqzKLMFLvrtBI%2fLnfNGCUQiexpwFDpakCqnah0YDn1b3wdcDpAxrW82KMbThPLksvTU3dgjxd%2fhOzNjA7h3xx32ys2qS9sKoRh2RSdrSrLa5Frpo9%2bblCpzhdaiIPbswsJQdI5Y0Uo2A1TYxxVPcSXqGASkLRn753PZ%2fCqp3feC0wF7zK7Cj07ir8YNalnr83%2bQ%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-06T06:15:00Z",
-    "valid_until": "2026-08-05T13:16:45Z"
   }
 ]
