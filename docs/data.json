@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-07T23:15:01Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-07T16:25:16Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-07T16:07:26Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-07T14:51:40Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-07T12:28:28Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-07T03:01:03Z",
+    "checked_at": "2026-08-07T03:30:54Z",
     "valid_until": "2026-08-06T19:06:54Z"
-  },
-  {
-    "id": "5967516",
-    "title": "Request for a temporary direct link to Windows 11 ISO, Russian x64",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5967516",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=62e1ccba-898a-4cea-8e55-2022277a1359&P1=1786043146&P2=602&P3=2&P4=P5P0ghmo5RF7c2cCQgs1iUHm52t32O3u5NJUKD88wIhRbtSlfxNoi8vAKwapdbxtH3Wj6w1uoIK7OdUlGiGiBVsUvNlLTXThggoFKEi0ktYV4fzwgyc25MS25cLtwMab1w5HlIoSior7JU835Uwf5it6OGrSG54xojQ1lq04vnC58VTc6DUN7MS9PLKSdw%2bM4QsqPX0DytGgR%2br1c14DBbgkZjHSxCUBMjbWzXGq3%2b91nW3HuVIVRfsvPBb9TWoThb04RVQEiSpI4zxgUj4OtnST284Vpc3geVFAIRNSsfSFVeYi5mEJZtVE%2bOrR2K2DPHJ5GvEubnz4c8NYIxGpmg%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-07T03:01:03Z",
-    "valid_until": "2026-08-06T19:05:46Z"
   }
 ]
