@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:01:07Z",
+    "checked_at": "2026-08-07T05:23:47Z",
     "valid_until": "2026-08-07T23:15:01Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:01:07Z",
+    "checked_at": "2026-08-07T05:23:47Z",
     "valid_until": "2026-08-07T16:25:16Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-07T05:01:07Z",
+    "checked_at": "2026-08-07T05:23:47Z",
     "valid_until": "2026-08-07T16:07:26Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:01:07Z",
+    "checked_at": "2026-08-07T05:23:47Z",
     "valid_until": "2026-08-07T14:51:40Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:01:07Z",
+    "checked_at": "2026-08-07T05:23:47Z",
     "valid_until": "2026-08-07T12:28:28Z"
-  },
-  {
-    "id": "5967517",
-    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO Ð¾Ð±ÑÐ°Ð· Windows 11 Ð´Ð»Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ Ð½Ð° Ð½Ð¾Ð²ÑÐ¹ ÐÐ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5967517",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=6a5f7a2b-b6fd-4250-81f5-d29917770a0a&P1=1786043214&P2=602&P3=2&P4=YlzwmtHMXtf17S1sJ7bXUjfQgp7ILiZ8%2bx3sETLY8bnGIr8w%2ff8Kn2tgAUt%2bENQGyooEBVapeaB9RlNpuayVrc%2bcM7N7DykwRphcP8DGSoGpz%2fPTnTvpQ75GxqgEMZh5jT0%2bRIudpXqmtGb3GEtw57450cGullrVC3xT0M1srnQxF9Y68uYq7UY5oA34lxP0Hrqv%2b%2bgY6WsRww28MgQefOHZlNtjctXd3GzjESDJ%2b%2fKy9SUJwgvOvz8srx5sTMbyMgJUbseD4GRxqe8Vzkd9rn9i4z0ydyV5L%2f06lqj2c6zH16GqdO2q2yrRPUzbhVJrmP1vI9VLHalF1%2fo3Z2WVwg%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-07T05:01:07Z",
-    "valid_until": "2026-08-06T19:06:54Z"
   }
 ]
