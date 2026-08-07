@@ -1,5 +1,22 @@
 [
   {
+    "id": "5968880",
+    "title": "ÐÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ iso Ð¾Ð±ÑÐ°Ð· windows 11pro x64 Russia",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5968880",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=2f4eadc6-9e88-44fb-9e27-c0301c112ff3&P1=1786168043&P2=602&P3=2&P4=TVemaS%2fAqEcQ9W9A6AyQkyDAPI1Jy%2fiw%2fZo41aTNxnEitvceWjrnHiCvWMmV5C3JrGJSsYPWR6uSxqOJOlm4geAe8SF6YSAArMAJLBYLKxFiIeZ9t6Ut8Q%2bg0sq3ilGnmr6Bub5MHDtx6puYW0pzzUJamBfApThmNjCNdYb0mcYWlDDRnP8Q4UbrWb8hPF%2fhXrf6tlXHttL%2blkfTR2QoMlqkV4tcoBWLFSYN%2bfOiP0HOs69PZVNymFZJoeuQcyoCiKbnpCo24sssAO7kxEjghm2FrCA1SbRimHldKcnsC2d3iOvy4zY8tkKGE7UAo5fRoSj%2f0XGY3SZyQIjRM8IP9A%3d%3d",
+    "author": "Estrella721",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-08-07T06:01:08Z",
+    "valid_until": "2026-08-08T05:47:23Z"
+  },
+  {
     "id": "5968667",
     "title": "ÐÑÐ¾ÑÑ Ð¿ÑÑÐ¼ÑÑ ÑÑÑÐ»ÐºÑ Ð´Ð»Ñ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ñ ISO-Ð¾Ð±ÑÐ°Ð·Ð° Windows 11 (ÑÑÑÑÐºÐ°Ñ Ð²ÐµÑÑÐ¸Ñ,x64)",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5968667",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:30:59Z",
+    "checked_at": "2026-08-07T06:01:08Z",
     "valid_until": "2026-08-07T23:15:01Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:30:59Z",
+    "checked_at": "2026-08-07T06:01:08Z",
     "valid_until": "2026-08-07T16:25:16Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-07T05:30:59Z",
+    "checked_at": "2026-08-07T06:01:08Z",
     "valid_until": "2026-08-07T16:07:26Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:30:59Z",
+    "checked_at": "2026-08-07T06:01:08Z",
     "valid_until": "2026-08-07T14:51:40Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-07T05:30:59Z",
+    "checked_at": "2026-08-07T06:01:08Z",
     "valid_until": "2026-08-07T12:28:28Z"
   }
 ]
