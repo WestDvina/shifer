@@ -1,5 +1,22 @@
 [
   {
+    "id": "5969528",
+    "title": "Request for a temporary direct link to Windows 11 ISO, Russian x64",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5969528",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=a07bf1e6-dd33-489b-b694-d012eed53f9b&P1=1786218996&P2=602&P3=2&P4=DbxCb8IJTMc0mqRIq5rR40ctazP15YOERkARICzH7O3IxmulkpBcu%2f76LFQSGRRisCXBxIWL5K%2b2RWUP5IWMtSoFnC2D%2bMTDOeMQ%2b4%2bJfYNOoX%2fR7TNGEVfAhgH%2fHfaQ7SK3Oz6jVzEjXUciNtg3BY2r%2b%2fr3tjpbPZ7ac%2fB9qAvRP2RZNB6vRD4x8BTI65xP8DIl%2bObfG198hC03XEYch0iNy0HnE9UpmzyKCCSz%2f%2fUfbAXAxUTpzom7y%2fHN16EFtDr577g2QE5sPy9gCA9WwGeAsKIsmeuaaudR2965xSIW07ADRk5uFE1fKlrSxY5WLphs5tfWWAzYbratCYzA1A%3d%3d",
+    "author": "David-M",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-08-08T07:15:21Z",
+    "valid_until": "2026-08-08T19:56:36Z"
+  },
+  {
     "id": "5969247",
     "title": "Windows 10",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5969247",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-08T15:39:13Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-08T05:47:23Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-07T23:15:01Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-07T16:25:16Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-07T16:07:26Z"
   },
   {
@@ -98,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-07T14:51:40Z"
   },
   {
@@ -115,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-08T07:01:05Z",
+    "checked_at": "2026-08-08T07:15:21Z",
     "valid_until": "2026-08-07T12:28:28Z"
   }
 ]
