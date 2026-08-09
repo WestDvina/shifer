@@ -1,22 +1,5 @@
 [
   {
-    "id": "5970123",
-    "title": "ÐÑÐ¶Ð½Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Win 11 25H2",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5970123",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=33e0bfc0-f494-4985-8d0d-c9e7ca22de11&P1=1786305416&P2=602&P3=2&P4=IlN00QflCYLG%2fk5DwmQRFpkx6WmfcRwMN%2bJ3LxhyptXNZ%2f%2fzaucXVs9O5UdzmWy98oRBFwwNJW2vx%2bdi12zis3dLN5%2f3lLjYVXQFuAIlgHBWJrXTM%2bW59dcynZS%2b7V29ZISXCy%2fPzVrM2BiupbLfi%2fGtkyKP1b6T6kDhycQd4BnwOeuXm9XE0tiwBFqUkzWaja2crcYLlmgCvlQTFGB9lA5qpYAr1qDEnde%2fIwIzTgU7f%2fgGG02QqXWSL6VzXplwQC71tMUTlXl3NPPpATPim0bhkFkhZSXiVZd76x7dkSpHfm21SJQQUdsGWcyM8W%2bWlXDdYxoS0awlmDIKlPBlGQ%3d%3d",
-    "author": "Pavel Poddubny",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-08-09T12:30:58Z",
-    "valid_until": "2026-08-09T19:56:56Z"
-  },
-  {
     "id": "5970142",
     "title": "Windows 10  Russian x64 ISO",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5970142",
@@ -30,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-09T12:30:58Z",
+    "checked_at": "2026-08-09T12:51:12Z",
     "valid_until": "2026-08-09T19:55:17Z"
   },
   {
@@ -47,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-08-09T12:30:58Z",
+    "checked_at": "2026-08-09T12:51:12Z",
     "valid_until": "2026-08-09T15:12:21Z"
   },
   {
@@ -64,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-09T12:30:58Z",
+    "checked_at": "2026-08-09T12:51:12Z",
     "valid_until": "2026-08-09T09:45:13Z"
   },
   {
@@ -81,24 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-09T12:30:58Z",
+    "checked_at": "2026-08-09T12:51:12Z",
     "valid_until": "2026-08-08T19:56:36Z"
-  },
-  {
-    "id": "5969247",
-    "title": "Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5969247",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=ae9f2979-1289-4f84-8e68-18da5dfb3002&P1=1786203553&P2=602&P3=2&P4=cDJj08EWTrdDOmtVvl2fn1ZqzJH1e7JYl3WuKjqTR%2fPF97N4%2b9Oq9N4IBt8AWzoqKxlBi35D3Mhc7at3mXLhrWgDIr1JwK%2fHpgPzpTirBt8TTrZ%2fTW5NnU6%2fH7i4O5p15oWeM%2fBgRidI9sqqa6AiA%2fJqzAqo4eGIg%2bipP1xRZVbuPQ3AeB1xz2X4z3d5jHX%2bpuSvIpMN9Rz37RJ%2fLGmhtBGgFDrEFghulFVyduIHbFwUg%2fnyXzA6D81%2bAlCwIxjY4i8SnJ%2frk6jC4KrVKE0mbXobXI65QSoJsMyIssekhJ%2flu1XhVEYri56k32xupJPKkyR439tjvjbODKDMik81BQ%3d%3d",
-    "author": "Pavel Poddubny",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-09T12:30:58Z",
-    "valid_until": "2026-08-08T15:39:13Z"
   }
 ]
