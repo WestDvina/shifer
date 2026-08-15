@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-16T19:24:38Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-16T12:39:23Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T17:00:37Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T15:37:02Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T15:12:37Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T12:56:58Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T09:09:41Z"
   },
   {
@@ -132,24 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
+    "checked_at": "2026-08-15T19:47:42Z",
     "valid_until": "2026-08-15T07:18:46Z"
-  },
-  {
-    "id": "5974723",
-    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ iso ÑÐ°Ð¹Ð» windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5974723",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=10d83ab2-58fe-4305-9b88-ea75fe8a8efa&P1=1786732995&P2=602&P3=2&P4=nMyB2Vm1yuBnf2pSB2iRzb6lepOyxLiCD91izctjUSpqrw8T%2fz%2f0tK5VV%2bk6iFhInUUhotW%2bAi4eiSsF7RGXS8u0LmXOLHRzibygFfSlGB8FPnVUP%2bhNYP49LnsC%2baDxVDYTDmWw9FlM5zHrvll%2baNE0jVgYnlWIs%2b1WuB0fJnwnxD%2ffyiafbVpdNSrs0q5UG7K09fh43wOIazCezrWW47zZRDzup1n2wVthgEd087E4D6yqwgQskKqvnjWS%2fvBgJ%2fkecRTcLGmQim2RydROTmLPYeeK4F2kHyBSEczFCj0AoJhPwCLrLo9%2bEOhy4CoFvUzmBcQ0FoghnP8LQq%2bGuw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-15T19:30:42Z",
-    "valid_until": "2026-08-14T18:43:15Z"
   }
 ]
