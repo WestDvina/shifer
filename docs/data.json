@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-17T11:38:43Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-17T03:27:03Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-16T23:04:20Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-16T19:24:38Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-16T12:39:23Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-15T17:00:37Z"
   },
   {
@@ -115,24 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T13:30:47Z",
+    "checked_at": "2026-08-16T13:52:49Z",
     "valid_until": "2026-08-15T15:37:02Z"
-  },
-  {
-    "id": "5975467",
-    "title": "ÐÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ ISO Windows 11 Ð´Ð»Ñ Ð Ð¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5975467",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=35782f6b-6f6e-4c36-83e1-2f77cb84fbf9&P1=1786806757&P2=602&P3=2&P4=iV1%2boJQBuGrtGUR9xCmT4nMO3WQIlCWctt37bYZ4%2fsvpTsi7FOqWFaoHcjt90YZnj8L8hUkSEU1FYKnqdw8ghwhKFJbxBJl3TKJ7T0MSRaIrQr4%2bayDAlES3Vwsf8swil9Gbpoteo42oessJI9wsG0XY3Lsrd%2f0p4SabfHw8A0yeLH72W7cPFMTIgmJfcVcgo151JU5GjCb0famAU8g086LdcpfnP2WDxvD2lf9WcrzwOwzRdtccJOwlF6Zdw%2bwGrZEOGTXzFlw12LRsfW4aFiI5TUNN6lbN4MeetN1jgVfK9DCqRmju%2fGRczDhlDKQqRKCmL7jVvGfBdG3bfPQCrg%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-16T13:30:47Z",
-    "valid_until": "2026-08-15T15:12:37Z"
   }
 ]
