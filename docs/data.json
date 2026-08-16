@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-17T03:27:03Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-16T23:04:20Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-16T19:24:38Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-16T12:39:23Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-15T17:00:37Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-15T15:37:02Z"
   },
   {
@@ -115,24 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-16T11:00:51Z",
+    "checked_at": "2026-08-16T11:20:17Z",
     "valid_until": "2026-08-15T15:12:37Z"
-  },
-  {
-    "id": "5975355",
-    "title": "ISO Ð¾Ð±ÑÐ°Ð· Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5975355",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=3234e5b3-a85c-4d31-84a5-4b37a02098be&P1=1786798618&P2=602&P3=2&P4=LOurquArpTRxEWMUXrD1fD7NeYOL2XVTiltnAg5AZqSPhQgxrXqjgFXbHrCMzEldWGlJZVsWbYbFnpaessDU8acaX5o%2f8gDKXfpDCsS26qj8gg5k%2ba8ocFUPXyfvfIcJjKxzh4wID4crzZ1pEIIcGTsrxW2VH%2bHiiN9zQflRT9ri10R8TgXZEyCL6PM%2bONWx2s7OykUnTp8%2f%2fd8ciVGXKu7Pr27Ofaxr7NpnWW65Ayag5mhmjjWDuHFbxI%2b6UjL9sq1eEAOy4BTaNiltjE4EUi%2fBRgBmyVi%2bI%2bRH97wxUmGqdv%2fLmszuk0F1z4ZE3vR0%2fUJkgf19kxPShweL9RRM5g%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-16T11:00:51Z",
-    "valid_until": "2026-08-15T12:56:58Z"
   }
 ]
