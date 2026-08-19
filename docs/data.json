@@ -1,5 +1,22 @@
 [
   {
+    "id": "5979267",
+    "title": "Windows 11 25H2 ISO download error 715-123130",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5979267",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=6c51d852-5e8a-4b4f-9a90-8636963b6bfa&P1=1787184142&P2=602&P3=2&P4=kSFfEaBwba3Z9ros1dCZI7fV51anpQlLzXCnqbTC2SQVH50%2fw6Z7%2br7SvL%2fKdRQdQTJsJDNC8gh4DCs72Eg5nKD500bkp4vbDxqfqaKaSjACi2g1Ma2sD2eTsPuLaD7aHdoWYoENAEwurMjXyHHLsy46lflWEpupTSW0x71j4A3dYkgMuRQ7UVJ7%2b7z0v4HrRheO7e2kJ68VpNZy33YjEehsNyat9uBJ0rY4rE2zNW8TcUuAtXLYSJy0U60skUM4uAnapuNPLb5xpO4yg9zrSUJ5htnCbfEmv52xfgACUbbYbMkXa6H3xg637oShLGXjfTpOIrJCcCm2xKchggHMCw%3d%3d",
+    "author": "Paulo GM",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-08-19T00:30:48Z",
+    "valid_until": "2026-08-20T00:02:22Z"
+  },
+  {
     "id": "5978590",
     "title": "ÐÐµ ÑÐ´Ð°ÑÑÑÑ ÑÐºÐ°ÑÐ°ÑÑ ISO Windows 11 â Ð¾ÑÐ¸Ð±ÐºÐ¸ 715-123130 Ð¸ 0xC1900500-0x20000",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5978590",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T00:00:55Z",
+    "checked_at": "2026-08-19T00:30:48Z",
     "valid_until": "2026-08-19T11:14:50Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-19T00:00:55Z",
+    "checked_at": "2026-08-19T00:30:48Z",
     "valid_until": "2026-08-18T13:05:38Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-19T00:00:55Z",
+    "checked_at": "2026-08-19T00:30:48Z",
     "valid_until": "2026-08-18T11:36:18Z"
   }
 ]
