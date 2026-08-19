@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-19T13:43:34Z",
+    "checked_at": "2026-08-19T14:01:02Z",
     "valid_until": "2026-08-20T11:00:57Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T13:43:34Z",
+    "checked_at": "2026-08-19T14:01:02Z",
     "valid_until": "2026-08-20T01:08:30Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-19T13:43:34Z",
+    "checked_at": "2026-08-19T14:01:02Z",
     "valid_until": "2026-08-20T01:00:45Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T13:43:34Z",
+    "checked_at": "2026-08-19T14:01:02Z",
     "valid_until": "2026-08-20T00:02:22Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-19T13:43:34Z",
+    "checked_at": "2026-08-19T14:01:02Z",
     "valid_until": "2026-08-19T11:14:50Z"
-  },
-  {
-    "id": "5977806",
-    "title": "Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5977806",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=9a8b7f23-2e34-44b1-ba3a-6d5699723122&P1=1787058338&P2=602&P3=2&P4=jHC5HokaVGo4RWgFUro%2fqU0JYPpLEg4E2NktYOmLJP%2bwatPP8hM2eg%2bZHM%2fJuWQOoFPtjCPrAHfJalGi3FXptWFMb6gFRedrwffsYJmkicj079Ck%2bzlpmBJqDtBc0YCK14n97JaobkJ6o9g8nzFlDbMC1pZMvVJcNcOl%2bffnjVM91JQptd19b5LmgAoRieYLuz7T4RZPaaBVTLDTZCMk9xgj9yw%2b0MBWleRU%2bWQ8isIP9cwx5ZoHY1INQvfiLf3M7J2RRR88rFSRwaxt8VgHu4lE2INguqXP22JCR0XLPwkQ525sFTJQy2qxXSS0CwD2EiwzDM8vTde%2fR4Hi1sIelA%3d%3d",
-    "author": "Ramesh Srinivasan",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-19T13:43:34Z",
-    "valid_until": "2026-08-18T13:05:38Z"
   }
 ]
