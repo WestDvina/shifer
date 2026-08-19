@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T08:30:48Z",
+    "checked_at": "2026-08-19T08:54:17Z",
     "valid_until": "2026-08-20T01:08:30Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-19T08:30:48Z",
+    "checked_at": "2026-08-19T08:54:17Z",
     "valid_until": "2026-08-20T01:00:45Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T08:30:48Z",
+    "checked_at": "2026-08-19T08:54:17Z",
     "valid_until": "2026-08-20T00:02:22Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-19T08:30:48Z",
+    "checked_at": "2026-08-19T08:54:17Z",
     "valid_until": "2026-08-19T11:14:50Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-19T08:30:48Z",
+    "checked_at": "2026-08-19T08:54:17Z",
     "valid_until": "2026-08-18T13:05:38Z"
-  },
-  {
-    "id": "5977456",
-    "title": "ÐÐµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ Windows 11 home",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5977456",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=e101c575-e912-4813-a1be-4d50bcd65625&P1=1787052978&P2=602&P3=2&P4=id6OHu6BPIijQ78hXfiSe%2bpo4FXFiwxy3Z5yNmWw8cKfe3EiajW2Z0%2fbkiwmgXLOlJFTaIW95mv6MtnBC%2bLoEfNaApiW47Ob5zuVlo%2bXi2vuCtqxalZ0qQE4Pcq8Qk67m9rSv2lP%2fDn%2b63sz3SdQpZM5qxsKK5rXep8nzrT1TaR4LRCUSuSLbkmzGBPSUX1QnS9ucdVjlYVkpaqjRrihBwEYUeSd9EPHaTwWMtMN68SiSxDxzq2HsbOroncfkE6bQAQT0x6D4sq8EK5xWwOxNCA5ZT8GGmClXpgyRsKUwe9EjfrFQ6bJhgnOeljNQnzudJVdovz0mi5Dib1UigGfjg%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-19T08:30:48Z",
-    "valid_until": "2026-08-18T11:36:18Z"
   }
 ]
