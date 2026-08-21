@@ -1,5 +1,22 @@
 [
   {
+    "id": "5982358",
+    "title": "Windows 11 ISO download Russia",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5982358",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=1a058e38-4d36-4465-8516-06541defa5da&P1=1787435651&P2=602&P3=2&P4=bVvRZAwSQmrJu6bsh5Lkvzu7%2fv5PZzeKja7oNzJVi7qGWOfrs3LamjW6l1VPSmyjF%2fvx%2bm%2f8gx6Eaou1cM%2fsKXN9g8tjrwhfWyROyovRjiqo9vcbR0fxjBEKYTGHoEglkGiTZ8xD%2bnfGNjOErrlLPj5ql0LT%2f0mOgnmltIjQfjC1yUyYeQ0J87DrJjC%2bD9qTMAQtSRTAB1ip4CRwcjaba1WuODRNgSBeESflK3ys%2ffo4EK7tZ%2fhy95n0qcTXPjxjud7%2fUA382OKjgcsOBzxeGf%2bLmu1DQQe4MfxnFtQj4tmianIJZR%2bmNKFdvf5A6JxPIVqX4EOtBUGneV4CrOPFOQ%3d%3d",
+    "author": "John Jefferson Doyon",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-08-21T21:59:51Z",
+    "valid_until": "2026-08-22T21:54:11Z"
+  },
+  {
     "id": "5981905",
     "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO Windows 11 25H2, ÑÑÑÑÐºÐ¾Ð¹ Ð²ÐµÑÑÐ¸Ð¸ Ð´Ð»Ñ Ð²Ð¾ÑÑÑÐ°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑÐµÐ¼Ñ",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5981905",
@@ -13,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-22T12:47:00Z"
   },
   {
@@ -30,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-22T11:30:19Z"
   },
   {
@@ -47,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-22T10:40:12Z"
   },
   {
@@ -64,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-22T07:49:35Z"
   },
   {
@@ -81,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-21T22:18:30Z"
   },
   {
@@ -96,9 +113,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T21:38:49Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-08-21T21:59:51Z",
     "valid_until": "2026-08-21T21:46:04Z"
   }
 ]
