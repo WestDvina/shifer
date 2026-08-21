@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-22T07:49:35Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-21T22:18:30Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-21T21:46:04Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-21T07:44:33Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-21T05:18:55Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-20T14:28:24Z"
   },
   {
@@ -115,24 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T08:01:01Z",
+    "checked_at": "2026-08-21T08:20:03Z",
     "valid_until": "2026-08-20T14:09:51Z"
-  },
-  {
-    "id": "5979676",
-    "title": "Window 10 help",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5979676",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=94abd218-a108-4e87-835f-d33ed6d7fa56&P1=1787223657&P2=602&P3=2&P4=WRpcn1gHyfF0hX%2fV1NH74YQxo%2beN07KnmQcDg2mZegPkisROSV%2b3toPk84rNS4mjiwqsrHVeyeiUu3xd8J%2fzMWVxEnPyeJ9jvAyaSHEEXbyuOS5pjXecYeKD9gtHSpBTnzPPJ9uZmGk9AiwaikgLZjN8wB4JUITCjORE3NyaTk0jrGrf1KgG8mGJqFf%2bazJeuZ3dRfTgGh6NsliqLD%2fmAdVSQIq8tpywECxLQV%2f9tzDvqjWszOEuNAFB1H1Jl4cJ%2bSWPfrcZl60gizJYSyNXGW5dReMhDFZDD%2fIB5QZIIjO36ml9u1XIFXWszyb9h2%2fHEnJVKav%2bcICjo2KQDMqYyw%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-21T08:01:01Z",
-    "valid_until": "2026-08-20T11:00:57Z"
   }
 ]
