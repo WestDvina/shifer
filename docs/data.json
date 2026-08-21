@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T10:30:38Z",
+    "checked_at": "2026-08-21T11:00:56Z",
     "valid_until": "2026-08-22T07:49:35Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T10:30:38Z",
+    "checked_at": "2026-08-21T11:00:56Z",
     "valid_until": "2026-08-21T22:18:30Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T10:30:38Z",
+    "checked_at": "2026-08-21T11:00:56Z",
     "valid_until": "2026-08-21T21:46:04Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T10:30:38Z",
+    "checked_at": "2026-08-21T11:00:56Z",
     "valid_until": "2026-08-21T07:44:33Z"
   },
   {
@@ -81,24 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T10:30:38Z",
+    "checked_at": "2026-08-21T11:00:56Z",
     "valid_until": "2026-08-21T05:18:55Z"
-  },
-  {
-    "id": "5979874",
-    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO Windows 11 25H2, ÑÑÑÑÐºÐ¾Ð¹ Ð²ÐµÑÑÐ¸Ð¸ Ð´Ð»Ñ Ð²Ð¾ÑÑÑÐ°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑÐµÐ¼Ñ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5979874",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=27c631ec-8e6e-478f-b992-da07898679a0&P1=1787236104&P2=602&P3=2&P4=Owa7NPZpLLYP5erwqU6bkF%2fmZaGMLQXxIxjH8KVFTF0GboJsJsHpy1ZE4nCgQ5uN1zQ31066Q%2bAis5DzuyGs8T4rh8pdLv65evB%2b%2bRwxo1TRiXpMP0ncpQp6BfCB7%2fqxY1Jj0IZokLCZeU9phRdrr4QpBDFadTRm687J7RllSjTFEhVjkKEJmO3bmMOr4w5LW7Wv5d5KNkzddZKtrN3aL2D4Zsmn%2ba2WeJ88Xe5mJ3BWP739QXqmriDxV2kG%2f1EaXjgcBAFuSOnDBka4eVWP2RMr8JEBwB7DFgz5htQA%2bwYGe10%2b1D3PI7ha41Lp2wmT%2fvFvhkSFw8R9VpiuK%2fWBjA%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-21T10:30:38Z",
-    "valid_until": "2026-08-20T14:28:24Z"
   }
 ]
