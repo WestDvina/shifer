@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-22T07:49:35Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-21T22:18:30Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-21T21:46:04Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-21T07:44:33Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-21T05:18:55Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T10:00:58Z",
+    "checked_at": "2026-08-21T10:30:38Z",
     "valid_until": "2026-08-20T14:28:24Z"
-  },
-  {
-    "id": "5979852",
-    "title": "Ð½ÐµÐ¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ iso",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5979852",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=3646cdaf-8843-4feb-8b2c-4476ed07df68&P1=1787234991&P2=602&P3=2&P4=iXPr096zeddn7MCw7OcQ2IyxE6TaGQvh9hPvGOUjtfrHXUW2t8YTD6ckRCpQL7OlYK%2baSLe9xVubIF7s93%2fgXRdjsFSYQUoLbNGz9PTeqhb%2fjikJ3nIElLhvVSjZT3RRoGutVdDJG1x7F8Bg3NxJ4%2f4Phn1nlb47hAGJsfT65Qp3m0y6hU4TDitiEKrs3CgzXwqVko67wH62hYlm6jNnDfCGVMuNJXVstVszHJHqTExs6cJYeIde6DxEJCNLYcEn7ajMMPGZIcWjgrj8XLt9EJFnN22Vm6CAdAvOLPjowYf8vxeNfPXOHIwSIXahzdZWORVDzSeRU0Q8GQOkAmfYyw%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-21T10:00:58Z",
-    "valid_until": "2026-08-20T14:09:51Z"
   }
 ]
