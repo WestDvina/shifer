@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-22T12:47:00Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-22T11:30:19Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-22T07:49:35Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-21T22:18:30Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-21T21:46:04Z"
   },
   {
@@ -98,24 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-21T14:00:59Z",
+    "checked_at": "2026-08-21T14:30:46Z",
     "valid_until": "2026-08-21T07:44:33Z"
-  },
-  {
-    "id": "5980476",
-    "title": "ÐÐ¾ÑÐ»Ðµ Ð¿Ð¾Ð¿ÑÑÐºÐ¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ windows 11 Ð½Ð° Ð²ÐµÑÑÐ¸Ñ 25H2 Ð¿ÑÐ¾Ð¿Ð°Ð»Ð° Ð¿Ð°Ð½ÐµÐ»Ñ Ð·Ð°Ð´Ð°Ñ, Ð¿Ð¾Ð¿ÑÑÐºÐ¸ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð½ÑÐ¸Ð²Ð°ÑÑÑÑ Ð¾ÑÐ¸Ð±ÐºÐ¾Ð¹.",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5980476",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=dd2ebb17-2c81-4b1d-a573-9e074ad76f2a&P1=1787289535&P2=602&P3=2&P4=IhM96HuOHI0qJ%2fFD4T5tf0IOmd7dPuqv%2f2djFe7fwR0iFOV53izHgkVLFEb5ILRcHkjeo0LZ%2bQ82UnBg60UXZTIWH7sBn1k%2b8WQ6ndkHqJnsMUXC9nECd7S6SgaiLZRPNwuo0Ij1exF16PNm2WWawCcCsRWlSjh1sxbLv1Gb0YrqnhjrsQbIrUNSMZQsNLRwYbCDmO4DZH8wTd2F%2bQf0x8a4i0v%2fKiQvz%2fsFPbWLOp78NJBuzRPyFCUoC6hNlnpbzlNmv5NrMVIApOkaGIWN6CJSmR6mapdf2ecKqig7IRrAG63yaQ%2bb5oyS5g1cA3TJM8GROZOcqYa897paTtaOdg%3d%3d",
-    "author": "DaveM121",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-21T14:00:59Z",
-    "valid_until": "2026-08-21T05:18:55Z"
   }
 ]
