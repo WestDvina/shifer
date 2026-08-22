@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-23T10:57:18Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-22T21:54:11Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-22T12:47:00Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-22T11:30:19Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-22T10:40:12Z"
   },
   {
@@ -98,25 +98,8 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-22T07:49:35Z"
-  },
-  {
-    "id": "5981291",
-    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO Windows 11 25H2, ÑÑÑÑÐºÐ¾Ð¹ Ð²ÐµÑÑÐ¸Ð¸ Ð´Ð»Ñ Ð²Ð¾ÑÑÑÐ°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑÐµÐ¼Ñ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5981291",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=00e1f0b0-f5b1-4733-ac88-21ad142e2c0b&P1=1787350710&P2=602&P3=2&P4=max%2fnN32%2bKfa9ijAirlk5W2AQS%2bStBm0WPRWYSWKcU0zMpSaq4aAv51rt4cwsuea42BLfdfm9uf1YRsciLTvOQPjxZDhj8%2f2%2b4dtN2qVb92DwjBZdzFiZI8ZgBFyoOrtvPqbQEm3oC4hmSDexJk%2fzYLO2eUoT5xDK0Z2yUEDuKwZ9tmFPVjt9vZ6MeNL2InrYRHMhtAhToE%2b2%2bFpfcDSoXLZzHQDROsEBD6OGeIpn93rhnQ9ObjP1Pul1moHC9f85cmYifIuKZg1Rjdhub%2bCHe308KHPAS%2f3ghMAh8KpVPqknFE%2bfKGwkuxLDaMm3jjGznc1ZUfW%2bPisx0xMm7YlJQ%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
-    "valid_until": "2026-08-21T22:18:30Z"
   },
   {
     "id": "5981295",
@@ -132,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-22T14:30:45Z",
+    "checked_at": "2026-08-22T14:48:22Z",
     "valid_until": "2026-08-21T21:46:04Z"
   }
 ]
