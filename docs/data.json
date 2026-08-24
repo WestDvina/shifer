@@ -13,25 +13,8 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T23:43:19Z"
-  },
-  {
-    "id": "5983467",
-    "title": "ÐÑÐ¶Ð½Ð° Ð¿ÑÑÐ¼Ð°Ñ ÑÑÑÐ»ÐºÐ° Ð½Ð° Windows 10 22H2 Ð ÑÑÑÐºÐ¸Ð¹ x64 ISO. Ð¡ÑÑÐ»ÐºÐ¸ Ð½ÑÐ¶Ð½Ñ Ð´ÐµÐ¹ÑÑÐ²ÑÑÑÐ¸Ðµ (24 ÑÐ°ÑÐ°). Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾!",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5983467",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=0455a3e1-3572-4fad-a446-6d84287decdc&P1=1787614941&P2=602&P3=2&P4=m4T03SfCIUrosMKvDOhgB%2fqGz4SD1TmO1ZU0x84ZF8z5nna9vr%2f3WS7f99J%2f1a8WhU%2fzdJqyeQGyZ1v0KP6aGxmPomgVtUkOGmi1VXx%2fuaXFJtoesH1OvuFgujxUWbDJrqTzUcXsjw6tZQsGKiY26AJ7RLFVJ%2fbqve4I76Kw6ksoMWKgG115A1W4e%2fjrHHBJohnKiIMFg7Gf%2b4YfJXsNXna%2f5QFWFwtpdVpm%2fFA0EnyXWuqj11ROcxNaJHWw65x9guYoXdpmVzBEZcZzJt9980S2FRut7Aq%2bMHQ8SdL29w8kYh9YKYW%2b5dHvEs560MVQuwX6FWOJGOvDUx%2b8%2b6kqmw%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 5835063296,
-    "checked_at": "2026-08-24T06:00:54Z",
-    "valid_until": "2026-08-24T23:42:21Z"
   },
   {
     "id": "5983356",
@@ -47,25 +30,8 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T23:40:50Z"
-  },
-  {
-    "id": "5983451",
-    "title": "Windows 11 25H2 ISO download blocked in Russia â error 715-123130",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5983451",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=80ebd14c-8f34-4fb0-ba8e-d32695ed9d53&P1=1787611775&P2=602&P3=2&P4=hrovdeZoQ0ySK%2bUjhXGoOf0ESEybO2ARJmZRH8zI7SMDIYazeIHLTxM3jGYjmlyMIesOd%2fk%2fJt%2fO6LS%2bwPGa%2bSC4YwhM3weH7BDc7YuTEP7p%2f2JLPz28zXmBMP2Ct3PebYov%2fxUXN9ClZsOqKfE%2fhH0KpnyA22WXDfm509Mn9iImAVfs97BNcy%2fkKn7N4Tg3lOGOt%2b3b7BNdutVVJ%2bRLlIDHAEyZVPY5HPyS15MPfWvIvUViYZpTi1%2bFs0QDyRUayC3P3hFGzQA%2bgG%2bzC9FUcemnceTmvkWACfaDWrzVAUeYaNNcuJnsWwlhByZhcwuKDXfoEv5Yxnq554y8CzlH%2fg%3d%3d",
-    "author": "Estrella721",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-08-24T06:00:54Z",
-    "valid_until": "2026-08-24T22:49:35Z"
   },
   {
     "id": "5983361",
@@ -81,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T18:14:31Z"
   },
   {
@@ -98,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T17:43:49Z"
   },
   {
@@ -115,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T17:15:59Z"
   },
   {
@@ -132,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T14:02:18Z"
   },
   {
@@ -149,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T12:37:11Z"
   },
   {
@@ -166,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-24T01:04:55Z"
   },
   {
@@ -183,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-24T06:00:54Z",
+    "checked_at": "2026-08-24T06:03:58Z",
     "valid_until": "2026-08-23T21:31:29Z"
   }
 ]
