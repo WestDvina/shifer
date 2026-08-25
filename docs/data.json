@@ -13,24 +13,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-25T19:35:25Z",
+    "checked_at": "2026-08-25T19:45:51Z",
     "valid_until": "2026-08-25T18:20:02Z"
-  },
-  {
-    "id": "5984223",
-    "title": "ÐÐ°Ð¿ÑÐ¾Ñ Ð¿ÑÑÐ¼Ð¾Ð¹ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ISO Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5984223",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=b3ab9ddb-35a2-4f18-aceb-bd064ba0bd4d&P1=1787678230&P2=602&P3=2&P4=EsVNWASe9DuGmlVR1x9MHva6dPypjI%2fyT7kE%2fpxnwK0g5EZpss0e7Lue5CT%2fPUFPB1eHeleknTT8YfmHXUitWnH2%2fqjDCt%2f9K0230GPqo%2f5Hv4%2fxbgBmA2Dw7XNN8QzKBECJQ%2b0FitWcs9YU%2ffD%2bIoOPetOSUL3QWSUCERjAHRBNdo2xTPplx44xEJ4nsEL5YIV3HwbLM1N7AZhGfc3%2fTV%2fZT9UrYdE%2bs3s0vGy2rEdQSXg%2beB%2bnwcHuIhTwKAk81jojRyklgJzRyVeEM24bwqEhGff1gfGfO9XHSjFX1cmboTRHOHGa739s9DwIJ3eU5i8ZolqGTkXUowDo%2bMCOGg%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-25T19:35:25Z",
-    "valid_until": "2026-08-25T17:17:10Z"
   }
 ]
