@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-26T11:18:15Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-26T11:11:37Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-26T02:31:57Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-25T23:57:06Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-25T18:20:02Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-25T17:17:10Z"
   },
   {
@@ -115,24 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-25T13:50:55Z",
+    "checked_at": "2026-08-25T14:00:59Z",
     "valid_until": "2026-08-25T13:38:30Z"
-  },
-  {
-    "id": "5983812",
-    "title": "ISO Windows 11 Ð Ð¾ÑÑÐ¸Ñ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5983812",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=033cd4b0-6864-408f-8bcb-74debb38bcb8&P1=1787650161&P2=602&P3=2&P4=Vgsa2LwY8coiYJ1cv0TJSP8eHw6Fsh0lfxSGxYOJsf6SayCiqlGseSkhhcyK7tvPcsFYZENSBlaAZrouKpzFC98wj8FSGtfhg8miSr2tB2N3cqvj4LuXM%2bVbbpBquHSpc8zH%2bFw8hOdijisSe41dEtiUKn1gy%2fVmZww4T6Z6UCWJHil1I6Y5cAPWQ9bI3L4OZEPDvwmZQmAagQsoD%2btKU%2fqV3lT6oyRkk%2foFBFal1tinm6uqWwGAaPM50VpwTgBcdlGZPcm5jjeMsALgEIsL0qpPVqxoOf9QuPb4lt1ozUeU25QR7WjYjIPKzkSww5wbzjvOrBPaNW3XBdKumKplLA%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-25T13:50:55Z",
-    "valid_until": "2026-08-25T09:29:21Z"
   }
 ]
