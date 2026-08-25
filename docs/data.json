@@ -1,22 +1,5 @@
 [
   {
-    "id": "5984039",
-    "title": "ÐÐ¾Ð»ÑÑÐµÐ½Ð¸Ðµ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ðµ iso windows 11 Ð² Ð Ð¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5984039",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=f63ab3e8-fe3f-4fb7-a4db-0576cfe5d027&P1=1787702226&P2=602&P3=2&P4=YScHWLQz2BxvV8NxrALa%2b1OY7gIaEkp0LOnGuF0LM8ZyTlsfU17PgIWUW%2bZmr00SxXsq0Ej%2fEnT%2fYAS69CeWaQi3Zk%2b%2fx0ifNbssZEHdK%2f10PR0ZWHwv7FAmwsNJ5WiXqDjf8oenGwUjAz6FcKQv0Jm7I43%2fxf1iv%2fs3iJ0urbcJvE9mgw%2bji1XVaXynzk%2fJMfzHIvepiVKkvlIc9oSbrQ02WPey7bEk5WAP%2bpc%2fL%2foHRD14eG7OnHlRgcHqoc2hAPJldIKDkm8pYH6oGSkZ1fCj9UCvSXItIMVtoTPSCBUc7DaFJldDm2ncCbBLbHFyfOpjt7Jnp544ghoVDmGMZQ%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T17:01:06Z",
-    "valid_until": "2026-08-25T23:57:06Z"
-  },
-  {
     "id": "5984292",
     "title": "ÐÐ¾Ð´ Ð¾ÑÐ¸Ð±ÐºÐ¸ 0x1900500-0x20000.",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5984292",
@@ -30,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T17:01:06Z",
+    "checked_at": "2026-08-25T17:30:52Z",
     "valid_until": "2026-08-25T18:20:02Z"
   },
   {
@@ -45,26 +28,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T17:01:06Z",
-    "valid_until": "2026-08-25T17:17:10Z"
-  },
-  {
-    "id": "5984002",
-    "title": "ÐÐ°Ð¹ÑÐµ ÑÑÐ»Ð»ÐºÑ Ð´Ð»Ñ ISO windows 10 22H2 Russian x64",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5984002",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=08a9970e-c486-4bda-a6fa-a2675b79ae30&P1=1787665110&P2=602&P3=2&P4=oCM2VoUZCAS7h02d7HXJoTt5NqmTNeLadHESIUrELUWctrVtYWdDZTw%2f8cJjVQpd9ZCww6y%2f9brSyu2cwsyu%2fsSfmtf3aUuUGYiQOJWYyFUGQ7uYgq2dJMWdh6lMA01WxE5RMobgWf%2bb%2fSeUhG3IB7b7GqvXkdmROzMhz7Gt2Z5mGdE7PdjhfQbpsHRdi1p0wjezcJ3uh2SpM0qEH3i96w5XghlZEyJQIgj1QCkYeyCLFxYM26NrIC0s5yjRjwjMHcvfSNyk6e9o0lKTN5aGHobyU5QM%2f23FBaueD40dc4R6drYxeCCtMbsSgFVqFgEOIOoVo2pcnHob3Ziwet3xow%3d%3d",
-    "author": "David-M",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-25T17:01:06Z",
-    "valid_until": "2026-08-25T13:38:30Z"
+    "checked_at": "2026-08-25T17:30:52Z",
+    "valid_until": "2026-08-25T17:17:10Z"
   }
 ]
