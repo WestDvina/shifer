@@ -76,7 +76,7 @@ def is_iso_request(question):
 
 def scrape_list(max_pages=MAX_PAGES):
     all_questions = []
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=7)
 
     for page in range(1, max_pages + 1):
         print(f"  Fetching page {page}...", file=sys.stderr)
