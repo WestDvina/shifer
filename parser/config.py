@@ -11,4 +11,4 @@ FILTER_KEYWORDS = [
 ISO_LINK_PATTERN = r'https?://[a-zA-Z0-9.-]*microsoft\.com[^"\'<\s]+\.iso[^"\'<\s]*'
 
 PAGE_SIZE = 30
-MAX_PAGES = 1
+MAX_PAGES = 5
