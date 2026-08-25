@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-26T11:18:15Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-26T11:11:37Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-26T02:31:57Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T23:57:06Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T18:20:02Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T17:17:10Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T13:38:30Z"
   },
   {
@@ -132,7 +132,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T13:05:37Z"
   },
   {
@@ -149,24 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-08-25T11:30:43Z",
+    "checked_at": "2026-08-25T11:56:24Z",
     "valid_until": "2026-08-25T09:29:21Z"
-  },
-  {
-    "id": "5983725",
-    "title": "ÐÑÑÐ¼Ð°Ñ ÑÑÐ»ÐºÐ° Ð½Ð° ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5983725",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=66784e7a-f726-416c-bea8-70e8b2b3f3f4&P1=1787645498&P2=602&P3=2&P4=l%2fAO6%2bNzAbwdssTly85Q%2fO%2fwQLhmc0G0vjt75xiF4YJ1t8ZMZfeveHGlOiappxciW%2fuqQRkY6NOqjMhLfISXPu%2bk9Rg3SdLX48vD%2bDC0wtObcHxPRq8Pp%2bi1fYHCg0ezEVAFfMxvLi3gzE%2bEpYm6pjF1k%2feeI6J87qt6yicHsfF7gq2zZW2lMEZ01qAE9TcHV8IETAaX%2fi8CF5yzFb7XrQ%2bSxnOEBSG8YznmAEhryyt3lc8yoakPKtRB08WfAJARqQcwEiB89rHnWJnbFls4NqTIUrmRtkD44Oh75iq%2fc2r9LoRlRvkYeBUGZ5O9MpLudDERQ1jh%2f2xdk7RN8x0qcw%3d%3d",
-    "author": "John DeV",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-08-25T11:30:43Z",
-    "valid_until": "2026-08-25T08:11:38Z"
   }
 ]
