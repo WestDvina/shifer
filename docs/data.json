@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-02T06:19:39Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-01T23:59:17Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-01T22:06:04Z"
   },
   {
@@ -62,9 +62,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 5835063296,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-01T12:28:22Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-01T08:20:57Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-09-01T04:08:58Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T19:59:32Z"
   },
   {
@@ -132,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T16:23:59Z"
   },
   {
@@ -149,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T15:41:33Z"
   },
   {
@@ -166,7 +166,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T11:14:21Z"
   },
   {
@@ -183,7 +183,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T09:10:11Z"
   },
   {
@@ -200,7 +200,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-31T04:51:30Z"
   },
   {
@@ -217,7 +217,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-30T17:02:10Z"
   },
   {
@@ -234,7 +234,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-30T11:23:57Z"
   },
   {
@@ -251,7 +251,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-30T10:21:34Z"
   },
   {
@@ -268,7 +268,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-29T22:13:21Z"
   },
   {
@@ -285,7 +285,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-29T17:28:19Z"
   },
   {
@@ -302,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-29T15:19:08Z"
   },
   {
@@ -319,7 +319,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-29T05:09:52Z"
   },
   {
@@ -336,7 +336,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-28T17:51:39Z"
   },
   {
@@ -353,7 +353,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-28T15:26:39Z"
   },
   {
@@ -370,7 +370,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-28T08:03:27Z"
   },
   {
@@ -387,7 +387,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-28T00:05:21Z"
   },
   {
@@ -404,7 +404,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-27T17:38:58Z"
   },
   {
@@ -421,7 +421,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-27T17:31:01Z"
   },
   {
@@ -438,7 +438,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-27T14:25:09Z"
   },
   {
@@ -455,7 +455,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-27T08:07:13Z"
   },
   {
@@ -472,7 +472,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-27T03:48:00Z"
   },
   {
@@ -489,7 +489,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-26T20:28:27Z"
   },
   {
@@ -506,7 +506,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-26T14:26:04Z"
   },
   {
@@ -523,7 +523,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-26T11:18:15Z"
   },
   {
@@ -540,7 +540,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-26T11:11:37Z"
   },
   {
@@ -557,25 +557,8 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-26T02:31:57Z"
-  },
-  {
-    "id": "5984039",
-    "title": "ÐÐ¾Ð»ÑÑÐµÐ½Ð¸Ðµ ÑÑÑÐ»ÐºÐ¸ Ð½Ð° ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ðµ iso windows 11 Ð² Ð Ð¾ÑÑÐ¸Ð¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5984039",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=f63ab3e8-fe3f-4fb7-a4db-0576cfe5d027&P1=1787702226&P2=602&P3=2&P4=YScHWLQz2BxvV8NxrALa%2b1OY7gIaEkp0LOnGuF0LM8ZyTlsfU17PgIWUW%2bZmr00SxXsq0Ej%2fEnT%2fYAS69CeWaQi3Zk%2b%2fx0ifNbssZEHdK%2f10PR0ZWHwv7FAmwsNJ5WiXqDjf8oenGwUjAz6FcKQv0Jm7I43%2fxf1iv%2fs3iJ0urbcJvE9mgw%2bji1XVaXynzk%2fJMfzHIvepiVKkvlIc9oSbrQ02WPey7bEk5WAP%2bpc%2fL%2foHRD14eG7OnHlRgcHqoc2hAPJldIKDkm8pYH6oGSkZ1fCj9UCvSXItIMVtoTPSCBUc7DaFJldDm2ncCbBLbHFyfOpjt7Jnp544ghoVDmGMZQ%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
-    "valid_until": "2026-08-25T23:57:06Z"
   },
   {
     "id": "5984292",
@@ -591,7 +574,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-25T18:20:02Z"
   },
   {
@@ -608,7 +591,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-01T12:01:09Z",
+    "checked_at": "2026-09-01T12:31:09Z",
     "valid_until": "2026-08-25T17:17:10Z"
   }
 ]
