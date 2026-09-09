@@ -13,8 +13,76 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-10T18:32:23Z"
+  },
+  {
+    "id": "5998883",
+    "title": "Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° windows 11",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5998883",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=8e1e0003-4951-46f2-a236-78cd5bedae9d&P1=1789061828&P2=602&P3=2&P4=WtZ5idLhSVCpyiWzUJhxfIqxs4%2bO6VzpDmHwfhA5GgnB2WveomNUvDTE2klVtQ45Ska4ytl0mIp4lPo9Bw0nqd7NFM8Xr5S6ZccugoVfI38mNG16Icf3Wtze%2flKx5tx%2bYQoyj2XAONnZWXHek5U%2frkfjNScjQNoF69OJet1xzFiFz%2fCy8LEVdgGWDOVRMbNcZ3VtPSZ%2bOWrXqslIqbt7azQGmLZu0st1da23YSFst0iFiP%2f9Of1rhPGPJKLYnjZSCgDK9fWH07Gq%2blcsUdyY2gmMjM4wLlYPqHPcHCUQpsjkM0oMNtB2TgxUFKQjGzUZQJkvmAUfOD6Vp5gnySw1hw%3d%3d",
+    "author": "David-M",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-09-09T19:30:52Z",
+    "valid_until": "2026-09-10T17:37:08Z"
+  },
+  {
+    "id": "5998739",
+    "title": "ÐÐ°Ðº ÑÐºÐ°ÑÐ°ÑÑ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð»ÐµÐ³Ð°Ð»ÑÐ½ÑÐ¹ Ð¾Ð±ÑÐ°Ð· Windows 10",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5998739",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=b6dfd9f4-ea55-4cd1-ac87-5d6f65366ce7&P1=1789054328&P2=602&P3=2&P4=RN8mvv%2bLaiKIz04pSDEESy5hM4xOUNmsSsRUskPZ%2bahclu6yhYAlho648ft8keWuYnlEjOL5RP8R2kjqTJiGsVMTyaDlOlMCqSgGZ3mEfS%2fJaGGNNK56nbkXWGmzHLNWxT3%2fPpOxGB73LiaD%2b2RlX8viGHE54D%2bkabdm5ZCXbEmZbTJ1QkWa0Bb1EFPHid%2bgpVvpCGKS1mkjCgCbfz2tYRZ0tDvoaKAvjDFb4NQ7etNNGVJkCFp41hWGCCm315c%2fbmCLwZlH3YNX59%2fi5EQqPDIs6M%2fIuEVntZUlVL5g%2fL55uIiEpceANblqCjmfWAHMQLAmyfSLeqxHxeXGPlpXRw%3d%3d",
+    "author": "DaveM121",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-09-09T19:30:52Z",
+    "valid_until": "2026-09-10T15:32:08Z"
+  },
+  {
+    "id": "5998334",
+    "title": "Ð½Ðµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ Ð¾Ð±ÑÐ°Ð· Ð´Ð¸ÑÐºÐ° windows 11",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5998334",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=c4573acc-2f3a-47ce-a3fe-494112d543d9&P1=1789030609&P2=602&P3=2&P4=l8Lo2Kd0ibrZweJTkbkbnby9BkVa7PgdQ3PX31VuID5gx04mVlX24a2P3ciebU1nvbgGaAQkUWhBvW7ZWcphQpDzfuBJePL%2bGgluyXWznXEW8frxxtDd8zFtGvxabLiJ1u3SwiS2294JDaXc%2bhUS8L9YnS3o8lVaHfwsQK5YRZqP4vn3fKcplEXrNxRWmRF5%2bUkQJKaJeOW48k8FLZ%2fvL734QZjLlq1lX0Z0TrN%2bZP0kGIdq0wlDRAcXAcGJcloeSVhaw1I65Maq5Rmk1R5tUMrJGrVaAgeAFa%2b9YHC%2fTr6ysWfCO5oACn7KnfsOqa1Y8dYykHMoc93h6v7rIrg5Nw%3d%3d",
+    "author": "DaveM121",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-09-09T19:30:52Z",
+    "valid_until": "2026-09-10T08:56:49Z"
+  },
+  {
+    "id": "5998003",
+    "title": "Request for temporary direct link to Windows 11 25H2 Russian ISO (regional restrictions)",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/5998003",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=822de6a7-558e-43b0-a05a-384d546276cb&P1=1788997461&P2=602&P3=2&P4=dnuo7Pjap6E6bONZW2kjZIlB%2fwCNg%2falTDAKP3ymWF9xy91Gk2xMwSW37CXerYY%2bg4gWDVCfFTuy4Xhgjzo0YfMoosrG87ApnKn7gXE8yDBWsCVKXh8k9hrv7FD%2fxnNaDeMiH%2bmtRNTxYv5kFKTihMZQpwnz44o8GltT%2bUYUY1vTlprmOWfgzKYGqg4Liu92dkesekKIGY6RrCUKjCSqk9yq72Vw0qLNUx3oVAJ88uhkRiK3eD2hkeREKv2atmfA5NcyziLgIF7ZZkUZjIPwI%2bLzx5SdXUOOexy%2blE%2b1g0trW1lebTG1fQcETesxP5dRGvRvqdBk%2bPdcwGd6XE9iQA%3d%3d",
+    "author": "Ramesh Srinivasan",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-09-09T19:30:52Z",
+    "valid_until": "2026-09-09T23:44:21Z"
   },
   {
     "id": "5996262",
@@ -30,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-08T22:50:58Z"
   },
   {
@@ -47,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-08T18:28:05Z"
   },
   {
@@ -64,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-07T23:46:33Z"
   },
   {
@@ -81,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-07T20:52:09Z"
   },
   {
@@ -98,7 +166,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-07T15:23:12Z"
   },
   {
@@ -115,7 +183,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-06T22:35:12Z"
   },
   {
@@ -132,7 +200,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-06T07:28:20Z"
   },
   {
@@ -149,7 +217,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-05T18:35:13Z"
   },
   {
@@ -166,7 +234,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-05T17:34:16Z"
   },
   {
@@ -183,7 +251,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-05T14:57:44Z"
   },
   {
@@ -200,7 +268,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-05T12:44:40Z"
   },
   {
@@ -217,7 +285,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-05T09:37:56Z"
   },
   {
@@ -234,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-04T19:22:39Z"
   },
   {
@@ -251,7 +319,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-04T09:45:53Z"
   },
   {
@@ -268,7 +336,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-09T19:16:33Z",
+    "checked_at": "2026-09-09T19:30:52Z",
     "valid_until": "2026-09-04T00:07:55Z"
   }
 ]
