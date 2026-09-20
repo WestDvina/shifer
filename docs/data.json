@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-21T00:21:01Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T23:36:46Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T23:03:34Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T21:00:44Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T20:21:08Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": true,
     "size_bytes": 7951198208,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T14:28:39Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T09:56:48Z"
   },
   {
@@ -132,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-20T03:35:38Z"
   },
   {
@@ -149,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-19T22:14:37Z"
   },
   {
@@ -166,7 +166,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-19T14:10:03Z"
   },
   {
@@ -183,7 +183,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-18T23:45:12Z"
   },
   {
@@ -200,7 +200,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-18T14:17:11Z"
   },
   {
@@ -217,7 +217,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-18T11:53:10Z"
   },
   {
@@ -234,7 +234,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-18T02:46:50Z"
   },
   {
@@ -251,7 +251,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T23:10:24Z"
   },
   {
@@ -268,7 +268,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T21:59:00Z"
   },
   {
@@ -285,7 +285,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T19:20:57Z"
   },
   {
@@ -302,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T16:50:41Z"
   },
   {
@@ -319,7 +319,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T14:21:28Z"
   },
   {
@@ -336,7 +336,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T10:04:33Z"
   },
   {
@@ -353,7 +353,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T07:39:06Z"
   },
   {
@@ -370,7 +370,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-17T02:36:53Z"
   },
   {
@@ -387,7 +387,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-16T18:17:02Z"
   },
   {
@@ -404,25 +404,8 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-16T16:57:51Z"
-  },
-  {
-    "id": "6001644",
-    "title": "Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6001644",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=93269397-d6ce-4fd0-b6cf-99b79148ef8f&P1=1789555521&P2=602&P3=2&P4=ctcWd1%2bZs7IenP3WubaZNtXjojugsVX%2bDfsa1iq1S1t%2flw1KryAnxj5a%2fYosjJfcBN98QuvuSX0eiBViwWhvB0aLVK9sc0mtMFq3iouYVJd7Cf%2bdT0%2fquaCFkYpKC4GsGd5QDx6LUspnArraYtEzXw4wt8JVzA9zcF3S%2bszUR6W%2bGrQz%2bAc75l36YXNqx94hcK%2fCrfeW7KNhpzI9%2f7O13LnPw8hjoo%2fdGEpBCUOH1S0okLewmhm3DoLytrdAnF9mCQOAn76KUsU75k98HPKqiqcDlYx0k2vj1sA%2bWpioj1uBf8F4x3cDEOl%2bECRFImT1dpTB%2bIGujmuVcvEF30Eotg%3d%3d",
-    "author": "Vikki-T",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
-    "valid_until": "2026-09-16T10:45:21Z"
   },
   {
     "id": "6003378",
@@ -438,7 +421,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-16T01:41:57Z"
   },
   {
@@ -455,7 +438,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-16T00:16:48Z"
   },
   {
@@ -472,7 +455,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T23:17:02Z"
   },
   {
@@ -489,7 +472,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T16:23:52Z"
   },
   {
@@ -506,7 +489,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T12:17:48Z"
   },
   {
@@ -523,7 +506,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T12:02:39Z"
   },
   {
@@ -540,7 +523,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T11:41:23Z"
   },
   {
@@ -557,7 +540,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-15T00:54:53Z"
   },
   {
@@ -574,7 +557,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-14T22:58:41Z"
   },
   {
@@ -591,7 +574,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-20T06:01:32Z",
+    "checked_at": "2026-09-20T06:31:02Z",
     "valid_until": "2026-09-14T06:00:46Z"
   }
 ]
