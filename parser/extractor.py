@@ -59,6 +59,29 @@ def extract_from_jsonld(html):
     return answers
 
 
+def extract_from_html(html):
+    soup = BeautifulSoup(html, "lxml")
+    answers = []
+    for el in soup.select('[data-test-id^="answer-"]'):
+        if el.get("id", "").startswith("answer-"):
+            author_el = el.select_one('[data-test-id="answer-author"] a.profile-url')
+            author = author_el.get_text(strip=True) if author_el else ""
+            role_el = el.select_one('[data-test-id="answer-author"] .has-text-subtle')
+            role = role_el.get_text(" ", strip=True) if role_el else ""
+            text_el = el.select_one('.content[itemprop="text"]')
+            if not text_el:
+                continue
+            text = _html.unescape(text_el.decode_contents())
+            iso_urls = re.findall(ISO_LINK_PATTERN, text)
+            for url in iso_urls:
+                answers.append({
+                    "author": author,
+                    "author_role": role,
+                    "iso_url": url,
+                })
+    return answers
+
+
 def extract_from_question(question):
     qid = question["id"]
     url = question["url"]
@@ -69,14 +92,20 @@ def extract_from_question(question):
         print(f"    Error: {e}", file=sys.stderr)
         return []
 
-    answers = extract_from_jsonld(html)
-    iso_answers = [a for a in answers if a["iso_url"]]
-    if not iso_answers:
-        return []
-
-    for a in iso_answers:
+    answers = extract_from_html(html) + extract_from_jsonld(html)
+    iso_answers = []
+    seen = set()
+    for a in answers:
+        u = a["iso_url"]
+        if not u or u in seen:
+            continue
+        seen.add(u)
         a["question_id"] = qid
         a["question_title"] = question["title"]
+        iso_answers.append(a)
+
+    if not iso_answers:
+        return []
 
     print(f"    Found {len(iso_answers)} ISO link(s) from {iso_answers[0]['author']}", file=sys.stderr)
     return iso_answers
