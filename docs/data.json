@@ -13,7 +13,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-28T14:08:19Z"
   },
   {
@@ -30,7 +30,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-28T04:22:55Z"
   },
   {
@@ -47,7 +47,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-28T04:20:37Z"
   },
   {
@@ -64,7 +64,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-27T15:59:51Z"
   },
   {
@@ -81,7 +81,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-27T10:34:10Z"
   },
   {
@@ -98,7 +98,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-26T15:38:03Z"
   },
   {
@@ -115,7 +115,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-25T12:04:24Z"
   },
   {
@@ -132,7 +132,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-25T06:24:05Z"
   },
   {
@@ -149,7 +149,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-25T02:47:27Z"
   },
   {
@@ -166,7 +166,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-24T23:25:55Z"
   },
   {
@@ -183,7 +183,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-23T23:57:50Z"
   },
   {
@@ -200,7 +200,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-23T23:03:16Z"
   },
   {
@@ -217,7 +217,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-23T23:00:56Z"
   },
   {
@@ -234,7 +234,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-23T02:38:06Z"
   },
   {
@@ -251,7 +251,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-22T23:47:18Z"
   },
   {
@@ -268,194 +268,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
+    "checked_at": "2026-09-28T11:01:09Z",
     "valid_until": "2026-09-22T23:46:52Z"
-  },
-  {
-    "id": "6009075",
-    "title": "ÐÐ±ÑÐ°Ð· Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6009075",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=245c1f39-b1a1-4565-97fc-50ac72972fff&P1=1790120420&P2=602&P3=2&P4=qh2Rnh2MUhK2gzLBTfbbishU7lqD3sWDh4IG8XNpDVuRhgkBnFEEcmb%2bLvdSlEcs5zsoYLv9RziMFNX72UIrtNFa5%2fp%2f7hULxrJI7im7DOwoI6wPswRJYc9Oiq3Mo4z%2fdP3IjfxqLEvdp0IfCxngKwjGNtNz%2f3dJk9LziyTKsTvueHxJdVrjLx%2bhGBiL3WRFS%2f%2bek9sp%2fCEi1ACOSE7Y2hYK7FYVDnUY3I4ehnZ%2bTBF%2fLESl4j76sUybaz9K9Xo8%2fpJlfvNB1%2fTpzKwMOXVF5X2A39oy6AXnATMvYqCdZGgpZiLuKZuMPDhv%2fxm2bWxnCShb6wv2iZTWFtweYeLVEw%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-22T23:40:20Z"
-  },
-  {
-    "id": "6008957",
-    "title": "Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008957",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=bb5dfcb4-51a7-4298-a8b9-e61be3e272cf&P1=1790120352&P2=602&P3=2&P4=f0e7JeH8Xcz0%2f8zuvlNaFkiEkSBMqAih6v%2fGJcI0Pn4VLSKq%2b7FVwCqaYmmxQnQk1DiDS4JmEPX0qgUhB%2b6k57LfsJezqH1X%2b3ciGjvOR7SUlKbKg2ExAzSCeRoMx%2brbG1wFNvwG%2fiKaoNAHlHmpiCUMtFFzpZMZPKTd4yGAhKOhHooPsNdvS9Y8EunsBjE0FJh6XZ6AV%2fEPReSed%2fKOSPn6qeG71eXG3s6BqOQ4YB2Hjn2DfTwzAm9xw5fv2IehjHXXPOBPeShc%2bEuzmpLVZsfPrOG3OCUpuUffrmqxyWSBYxFJo5PtFOOKNZUceIgyE9SPYJwyJvEb%2fVyPuP87rQ%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-22T23:39:12Z"
-  },
-  {
-    "id": "6008670",
-    "title": "Ð¡ÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ðµ Ð¾Ð±ÑÐ°Ð·Ð° Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008670",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=5f54138b-06f6-4fd9-a666-5cabe750e68a&P1=1790038205&P2=602&P3=2&P4=EDQp5T94CKuzueKrm3fNYskgzqZrAy%2fHJqJlYHRFjM08wLIOAHAGqAxLqbVohJAMMbQK5AnrOSIX2HC5WSKimqlu9WcXeZ4avkdCaow7SSFngjLwyZfxhiKmpwzPrc0bYAMEklsAlOBjj4oiz3Lnxf0iCKDd7qtGj1ElonysxUd6GJ%2fQdVsAWB74O7MHS9PQcCuieSSKJGUoRpw090rx941TH6%2bhfBkBjzcRu4vaV5zRKvsEEXkgrsZFxISfHNSfZQezraZ8HKKN4PQWbro25Qy2X%2blYTy%2bQqwDziSb5R5t0I%2baMnFpc44%2b3KKYGqKxzzWrYF8iu0iKjhhSlqwmYlg%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-22T00:50:05Z"
-  },
-  {
-    "id": "6008434",
-    "title": "Ð¡ÐºÐ°ÑÐ°ÑÑ Ð¾Ð±ÑÐ°Ð· Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008434",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=d4255a54-b29b-4761-8cb7-949d26af4bc7&P1=1790038112&P2=602&P3=2&P4=hcql3Ayluv5%2fqkYmzYkCvAKxAev5NI1xp672vGwkNLD6pFxptMcQLhOC2U63pxKF9aVFnXKvedbVuPqh22UIGkeZBPjYz8%2bic4D3oGnarzDMs75xdkocKGmE8sL5zZ5yHWzbFPn0JoBdAE%2bpdoj0NIVGITl3vw8QvMp1vXU75fz9PkdcoxSIQO5uviK9yAG%2b1moLMkFbJkRqpiwGVj1kl18OT6WTYoq3%2bCAkWewkS1jUNvfRyrVnI%2fvOB%2fFlrVb%2bIEpAf9LFcE%2fQtWhLuiouu3MBJJp1QqTpz7Zel41uxRT5Qmja4XBv6rd7sHgxqlpit2T12upq%2f2k00uDs7CEm%2fg%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-22T00:48:32Z"
-  },
-  {
-    "id": "6009075",
-    "title": "ÐÐ±ÑÐ°Ð· Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6009075",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=61882cff-087c-448c-8dbc-6563e72407c7&P1=1790033514&P2=602&P3=2&P4=vFcCwbvuKhyxR7d3%2fxRdSzoOlfrJHCCIaxsLPEszq28BDGkrrxACZ34M9TBusIuBrl7omeIl5n%2bQP9vAjxxj37pPpMiVXQU6LOROW20etA8M0ZFrT0INb%2b2owkn0bFEWSW7yAZleFJrIBMlZv19x%2fkeXC5rIqEpu%2bG%2ftSdKvgkUblWeGVAC2SJFZeNZ6IMk5l6OYOTYB9YemwFF4N1pDbJXb5OfqFXCnA4%2b80m3jQA5BVg%2bjZ40ee9GvXFVwc9nE%2bm5cK0DJe9Fod55U5MMa2TY0vv9oo7WFP39FJZxsGHuu0D7%2bvIwxUwjLvubfeDbJsCL9pQ79Fm%2bL5c9zeSkVpw%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-21T23:31:54Z"
-  },
-  {
-    "id": "6008957",
-    "title": "Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008957",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=5360a62c-cfe1-41c3-a911-16ce3cca86ac&P1=1790033265&P2=602&P3=2&P4=I0BrLvojKuEuXtFA6VTxMjJ2cXZdIo150oQCg6VczfZ8gLAmPM2TUqM1OhdOTMSDYLsYS%2bH%2bbog6C2DrjwahgdvRCuHPQvmIkGaOIJJZ%2f23GLlrVSXaeROlUQLAPPYtbTOAVcBprt0p951Klv3ZUxgc9ypuE8gbBWyJnMI8EDjjKFyV6ldItHZ0EjPXRWVF7TcZn4AN4CFjRruelOu%2bT7PI7g08rnXeMYbJp0pU0SN1TDkEEtsOMdJfXIGh%2b7M%2bJNwXaGMAp1q38xajBCc0YkcSSJ0UAe7YwyjYqgMHKp8PyeqbfvOZK22xc%2bsu9xesgqHGjnQAtLJF0ZkRvwAMa9g%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-21T23:27:45Z"
-  },
-  {
-    "id": "6008670",
-    "title": "Ð¡ÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ðµ Ð¾Ð±ÑÐ°Ð·Ð° Windows 11",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008670",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=62f573d5-e10a-4c48-9a92-60a9493d19d0&P1=1789951020&P2=602&P3=2&P4=krO1Ie5yvc5DjYDWp1BdANlUvmmPa3ZKgRt2jmDsA7UTHqi4ol2%2fMUoNskvDHv%2fRxJYJC9SmH3rdOxpiU%2bYXmfopv0JIl8zAAqQekwKCb105RERYvQ1MZzk4J2QoL5GjY3yN%2f3e4eblJdNlCaFmt00UDzSTk7a6n1Lsd%2bQp9zTpamP5EpIiVx2dKgc4wRy0%2fijBQOGYYaKkqH%2fPx%2bM%2bdGxXsqfu0GxG2UU6MH5Mq%2b5Ji2YT50%2fyNO2zu9NXKZ%2fiGuOQcq3BMqWlXaiVGNRAcq5Njt8QB8RxFcSwhs9QsMVmsOnPz4QrXkHpqoHpHiAwX4LCKezATm12nZ%2fme4LFcUQ%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-21T00:37:00Z"
-  },
-  {
-    "id": "6008629",
-    "title": "ÐÑÐ¸Ð±ÐºÐ° Ð¿ÑÐ¸ ÑÐºÐ°ÑÐ¸Ð²Ð°Ð½Ð¸Ð¸ Windows 11 ISO",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008629",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=4bc8c679-0dff-484f-baf1-1853cadfe6ca&P1=1789947406&P2=602&P3=2&P4=TlWGVMplMHjEw2qMHYnv9EVH7tfE1qG4XMu%2fDe5wyQF9NywisrqUgiydo1GEbBQi8FaTk1IfpxQ2dIWFS6V6gQt%2biXcUOSRkpscEHmpaRsB0Y%2fNf8bOM2wpRvZRnNvT7QK%2fNDTAenvpyh%2b8%2boL1ijAY8mq2Un%2fW4%2fwWhrMIagytZcvZTqJzgwzhtWTs7bbJFXsZ1xkp1X3Z6fpQo7uHKuJdw%2f7qMrKOAIHvA8zBgnk8b3YAAd5Q%2bYEqAIjgGruI%2f%2bRKS6pxuXHjQJsPUkJ5371NKh8fHd5jOBNo81Nn78BWvfSC9YJmDVDULxMhF7d8uXaDJO64SrjPEX8JNvaOiqA%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-20T23:36:46Z"
-  },
-  {
-    "id": "6008434",
-    "title": "Ð¡ÐºÐ°ÑÐ°ÑÑ Ð¾Ð±ÑÐ°Ð· Windows 10",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008434",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=46881491-52db-4bc4-a471-ae23ad26bacf&P1=1789945414&P2=602&P3=2&P4=ojI4LiWWagGlfVLmQFea14vO7Ryv2gRpMDglD2rbJ6h5CtNxBBk3D%2bPagUFDOHLaQAJfoXaerlE4quZbU2SOKU2KVNP%2b7jFhTLRRX0LGqK8ORWxH43wsLKNwgYjbSSMTnVe1eThisBBR%2brK7%2fUjH300yqOchAA%2bSgFpFL7FQZw29gcS58wwjiHpE%2b9TpiiMo81Q03iFRYBj7FE1iNCweciQAM3DLCfHCne4cxneEFF%2bBmaXhjNIq81ozOJHECqiZDQFPZWuJRhHhQx5EzQ0R%2bfvL92bQBCfQBr6RfJHG1kJoApeP97E%2bujZiMLI2NHiiutYdcIf5tId%2btnW5nn6uFw%3d%3d",
-    "author": "Ian-T",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-20T23:03:34Z"
-  },
-  {
-    "id": "6008551",
-    "title": "Ð¯ Ð½Ðµ Ð¼Ð¾Ð³Ñ ÑÐºÐ°ÑÐ°ÑÑ ISO-Ð¾Ð±ÑÐ°Ð· Windows 11 Ð¸Ð· Ð Ð¾ÑÑÐ¸Ð¸. ÐÐ¾Ð¶Ð°Ð»ÑÐ¹ÑÑÐ°, Ð¿ÑÐµÐ´Ð¾ÑÑÐ°Ð²ÑÑÐµ Ð¿ÑÑÐ¼ÑÑ Ð²ÑÐµÐ¼ÐµÐ½Ð½ÑÑ ÑÑÑÐ»ÐºÑ Ð½Ð° ÑÑÑÑÐºÑÑ 64-ÑÐ°Ð·ÑÑÐ´Ð½ÑÑ Ð²ÐµÑÑÐ¸Ñ",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008551",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=504fe2ae-50a4-4e4c-968e-f8f4c9e57768&P1=1789938044&P2=602&P3=2&P4=aGw%2bTZvLrCKboG8F5Et1dbKurGA7TRIzW7XsKEmTC0djI0R9UISdlumm6wQOdv9jsJncXZ195je1O1s43DTZGj6jbxvheg0gqDvb8esvFUZb%2f1TcGWDKKSHvMSAUmovH7qjZ%2fCB4nEPDOFlz69MvOLphHINGDI3iBdQyYqcm%2bWdkHAzBPHFT8TflVNvoEF6l8X48vftas%2bC9bxUUZD4WEpBc%2bQlrbyp%2bt%2bvFZZEGnUxm0OUgADBRbNe73v2yhGpZNix8%2bkDbN40DJuNX661ggYr%2bHgTfuuV7DiQebKVKMfyS7gS5KQ9Bqk2llO952xGKmezkeioyc0QvBXtptAS1Bg%3d%3d",
-    "author": "Haytham-C",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-20T21:00:44Z"
-  },
-  {
-    "id": "6008655",
-    "title": "Windows 11 25H2 ISO â Ð¾ÑÐ¸Ð±ÐºÐ° 715-123130 Ð¿ÑÐ¸ Ð·Ð°Ð³ÑÑÐ·ÐºÐµ Ð¸Ð· ÐÐµÐ»Ð°ÑÑÑÐ¸",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6008655",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=7e80aa22-4f02-4153-aa4d-ee3111e501aa&P1=1789935668&P2=602&P3=2&P4=tvbyQjBMvJObA%2bLJ1LWa%2fQxZs4tefWTzoZbZ6vd0IwuwmL%2f1lzXWAI6RvwncQ9EB70Mrb7kxGTkyjT3XC6Dg0giys2xbmDAYSzon4F40ev2fmRHJHkrObNLVn0YDtVyM%2fW2pwI6E4yDTcr2COjRrzm91zw4eKbtZjRsiKJt1pwHEuqdzogiqGvYgphRwXlSKhVHizXQ32qy2YBYmAT%2f3t2QoUzqTIGM2f%2fuQJRGxr2sj6hplEW8yQwfqnKRrCSH0R3Aw4PbtmnUFrqBQPgaA8hLauvYtxy82bRUkD%2fRxPgPmxMPjufGIg5kX%2b0Kl49dEPOgWwt94J4s2Jwnv3405aw%3d%3d",
-    "author": "Jonathan Deives",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-09-28T10:31:06Z",
-    "valid_until": "2026-09-20T20:21:08Z"
   }
 ]
