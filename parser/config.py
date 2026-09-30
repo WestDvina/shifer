@@ -3,7 +3,7 @@ LOCALE = "ru-ru"
 
 FILTER_KEYWORDS = [
     "ISO", "ссылка", "образ", "скачать", "download",
-    "Russian", "x64", "x86", "22H2", "24H2", "25H2",
+    "Russian", "x64", "x86", "22H2", "24H2", "25H2", "26H2",
     "Win10", "Win11", "Windows 10", "Windows 11",
     "MediaCreationTool",
 ]
