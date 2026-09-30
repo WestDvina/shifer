@@ -18,6 +18,7 @@ def fetch_list_page(page=1):
     url = f"{QUESTIONS_URL}/?orderby=createdat&page={page}"
     resp = SESSION.get(url, timeout=30)
     resp.raise_for_status()
+    resp.encoding = "utf-8"
     return resp.text
 
 

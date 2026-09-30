@@ -16,6 +16,7 @@ SESSION.headers.update(HEADERS)
 def fetch_question_page(url):
     resp = SESSION.get(url, timeout=30)
     resp.raise_for_status()
+    resp.encoding = "utf-8"
     return resp.text
 
 
