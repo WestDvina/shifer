@@ -82,7 +82,7 @@ function renderCards() {
           <span>🔤 ${d.version.lang || '?'}</span>
           <span>🖥 ${d.version.arch || '?'}</span>
           <span>📦 ${formatSize(d.size_bytes) || '?'}</span>
-          <span>👤 ${d.author_url ? `<a href="${d.author_url}" target="_blank" rel="noopener">${d.author || '?'}</a>` : (d.author || '?')}</span>
+          <span>👤 ${d.author_url ? `<a href="${d.author_url}" target="_blank" rel="nofollow noopener">${d.author || '?'}</a>` : (d.author || '?')}</span>
         </div>
       </div>
       <div class="card-timer ${timerCls}">${countdown ? `<span class="timer-countdown">${countdown}</span><br><span class="timer-msk">до ${formatMsk(d.valid_until)}</span><span class="timer-help" data-tip="Время до конца действия ссылки">?</span>` : (noTimer ? '' : 'истекла')}</div>
