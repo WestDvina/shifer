@@ -36,6 +36,23 @@ def parse_version_from_filename(url):
     m = re.search(r'(2[23456]h2)', fname)
     if m:
         info["build"] = m.group(1).upper()
+    else:
+        BUILD_TO_H2 = {
+            "26300": "26H2",
+            "26200": "25H2",
+            "26100": "24H2",
+            "22631": "23H2",
+            "22621": "22H2",
+            "22000": "21H2",
+            "19045": "22H2",
+            "19044": "21H2",
+            "19043": "21H1",
+            "19042": "20H2",
+            "19041": "2004",
+        }
+        b = re.search(r'(2\d{4}|19\d{4})', fname)
+        if b and b.group(1) in BUILD_TO_H2:
+            info["build"] = BUILD_TO_H2[b.group(1)]
 
     if "russian" in fname or "ru-ru" in fname:
         info["lang"] = "Russian"
