@@ -1,5 +1,41 @@
 [
   {
+    "id": "6022422",
+    "title": "Здравствуйте! Не могу скачать ISO Windows 11 из-за региональной блокировки (ошибка 715-123130). Можете дать прямую ссылку на английскую версию x64? Спасибо!",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6022422",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=14ef4d3f-a136-43c5-b26e-095ebaedced0&P1=1790954007&P2=602&P3=2&P4=mRn%2bBzYbU2Wn15%2b56wZ0YP44wxs2bn3HxKYpAtjy5NQ8Nh18a7RPm4JxSK3%2f46Mu1LkktG7Z%2bhNWNZzHUAobbjPu1lYvUUt4uoNek1gQqzrT0mcXE1T3%2bt%2fXB5jFbPmeyic1mv66ow7T6paULa5a7tm6JH3AvGqXOi8sZCcetf5TivcE7DWajT8cO1ZvMTK5Pt29XOh9gYzajQOuPhECAgql4zBiSKH5H26T9dvGIlW%2fnzkYQaMarBRnKf7f2jHokvVEeed6rx%2bds4IO4GTaad%2fUGqhKhs%2fINAu8ObTm39c66BnkhHwTFRlh32ZMyFk%2f6hWsBiVWoa%2fwh7YoRGz%2bMg%3d%3d",
+    "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12983289",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8748939264,
+    "checked_at": "2026-10-01T15:31:10Z",
+    "valid_until": "2026-10-02T15:13:27Z"
+  },
+  {
+    "id": "6021841",
+    "title": "Windows 11 25H2 ISO — ошибка 715-123130 при загрузке из России",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6021841",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=b32786f4-e756-4199-9077-ffaa31bfb265&P1=1790947154&P2=602&P3=2&P4=vsftI9r%2fbaMIsddZKzSB28Bw0l74r3UHMW9%2b65lv7mSMswGbQg64fC%2bnmp9KmPlLZHxqcVH6lIO6pC4LTN6Lntof7BEnvILFUSiPSywV1pcaacjXB%2b1ekwkvnMWehrQ6Dq1DkrjgKApLUpBxY4JtA%2fQv%2fQMnq%2bkCm8LrJn0EyaZxpIYcUoxiwLI%2bOL0YiQQg6Jjgi40v%2fUmnmkTF%2b5FyEIWepcFwqfsUvctLS1zGRmhXUEmrn30YIXvLX66zXq1X1vlhghvEn%2bbZl%2fT2BIS8LQkz1irQ7XB0A00Uv048hmO4OyZyv1%2fPgGMskp5gfsQrOqHkRL60joE4mr9gn0KcKQ%3d%3d",
+    "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12983291",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-10-01T15:31:10Z",
+    "valid_until": "2026-10-02T13:19:14Z"
+  },
+  {
     "id": "6022247",
     "title": "Здравствуйте! Не могу скачать ISO Windows 11 из-за региональной блокировки (ошибка 715-123130). Можете дать прямую ссылку на английскую версию x64? Спасибо!",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6022247",
@@ -14,26 +50,8 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-10-02T12:24:59Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=b503a4de-3f01-491c-befe-9aa679f922fd&P1=1790916173&P2=602&P3=2&P4=KubtjcXa%2fCeicpFgYoXE7siprB%2bR%2bupJWuVBLqMDoVPthNY4biKnHvZvlPZGUk4wBlWMYZl%2ftj%2bm6GnG%2bs8%2fBRavBnTwYTc8%2feNtGpmFX9OPw8RYwDOvOOfTrde5Trry7n52JlJXyCnoMGbri%2fKURu%2fTTJtTrZ8pE%2fdNK5k3fqKMKxvVenzR2ixnAkbXvRLoZGSvrXG0wRvE5yWLttJvMqKAGvjbaQ4kmCw4jxtaXyN5brtERXbnoCH6IJWwM1IPCIKWCX0NKuQNdQqIecW%2fkZOVWPNkq%2fqt4WgbPd3Uz4U073dqEELqN%2fu2wFDLAWIYSZSKp4QAlRokvpoROeRmmQ%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8748939264,
-    "checked_at": "2026-10-01T15:01:28Z",
-    "valid_until": "2026-10-02T04:42:53Z"
   },
   {
     "id": "",
@@ -50,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-10-02T03:55:10Z"
   },
   {
@@ -68,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-10-02T03:55:09Z"
   },
   {
@@ -86,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-30T15:09:26Z"
   },
   {
@@ -104,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-30T09:47:25Z"
   },
   {
@@ -122,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-29T17:28:41Z"
   },
   {
@@ -140,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-29T15:40:50Z"
   },
   {
@@ -158,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-28T14:08:19Z"
   },
   {
@@ -176,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-28T04:22:55Z"
   },
   {
@@ -194,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-28T04:20:37Z"
   },
   {
@@ -212,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-27T15:59:51Z"
   },
   {
@@ -230,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-27T10:34:10Z"
   },
   {
@@ -248,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-26T15:38:03Z"
   },
   {
@@ -266,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-25T12:04:24Z"
   },
   {
@@ -284,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-25T06:24:05Z"
   },
   {
@@ -302,7 +320,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-25T02:47:27Z"
   },
   {
@@ -320,25 +338,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
+    "checked_at": "2026-10-01T15:31:10Z",
     "valid_until": "2026-09-24T23:25:55Z"
-  },
-  {
-    "id": "6011372",
-    "title": "Прошу дать прямую ссылку на скачивание ISO образ Windows 11 Pro",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6011372",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=07d3b21f-deb1-4f5c-bec1-5639d5047005&P1=1790204596&P2=602&P3=2&P4=QYFhz6maV4uslAyZNHI49Zqy9FqNhoT7dopiaA3FAJJsMq8TW1FVC2TpWtW2lAvdNzCmmoAoTjP%2fP1Z8o8WMMpdKX%2fm5iXyNJnMm%2bBR0hCDX46D46tUUYE3Eq4wbm2VaSTJTmCOlKm5YuE6uHjnAj51gpLRRNFvbBPr60iXJAovaV6nQr6vtmqUcb1dvthHd7b3Nj1xIrezckF5mgGTANOe%2bbQH260p3%2ffbF9%2bvayN3clPyenlATL3MOZN80NxRqBwSTKJE%2f7lc%2fentzthO43AVd2q%2bhqxJ1pjgQpkzfB5CFpeT9RqoyNypKondZ6ox9EsxJLzuptV%2bcjW14nod2xg%3d%3d",
-    "author": "Ian-T",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12970437",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-01T15:01:28Z",
-    "valid_until": "2026-09-23T23:03:16Z"
   }
 ]
