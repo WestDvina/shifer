@@ -11,6 +11,39 @@ from extractor import extract_all
 
 P1_PATTERN = re.compile(r'[?&]P1=(\d+)')
 
+RUFUS_LINKS_URL = "https://raw.githubusercontent.com/WestDvina/rufus-RuBeRoID/main/iso_links.json"
+RUFUS_SOURCE_URL = "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json"
+
+
+def fetch_ruberoID():
+    try:
+        resp = requests.get(RUFUS_LINKS_URL, timeout=20,
+                            headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as e:
+        print(f"  RuBeRoID fetch error: {e}", file=sys.stderr)
+        return []
+
+    links = data.get("links", {}) if isinstance(data, dict) else {}
+    published = data.get("published_at")
+    ttl = data.get("ttl_hours")
+    answers = []
+    for url in links.values():
+        if not isinstance(url, str) or "microsoft.com" not in url:
+            continue
+        answers.append({
+            "iso_url": url,
+            "author": "RuBeRoID",
+            "author_role": "bot",
+            "question_id": "",
+            "question_title": "Ссылки от бота RuBeRoID",
+            "question_url": RUFUS_SOURCE_URL,
+            "published_at": published,
+            "ttl_hours": ttl,
+        })
+    return answers
+
 
 def parse_p1_expiry(url):
     m = P1_PATTERN.search(url)
@@ -115,14 +148,22 @@ def build(iso_answers):
             valid_until = ""
 
         if valid and not valid_until:
-            valid_until = datetime.fromtimestamp(
-                now.timestamp() + 86400, tz=timezone.utc
-            ).strftime("%Y-%m-%dT%H:%M:%SZ")
+            published = answer.get("published_at")
+            ttl = answer.get("ttl_hours")
+            if published and ttl:
+                valid_until = datetime.fromtimestamp(
+                    published + ttl * 3600, tz=timezone.utc
+                ).strftime("%Y-%m-%dT%H:%M:%SZ")
+            else:
+                valid_until = datetime.fromtimestamp(
+                    now.timestamp() + 86400, tz=timezone.utc
+                ).strftime("%Y-%m-%dT%H:%M:%SZ")
 
         item = {
             "id": answer.get("question_id", ""),
             "title": answer.get("question_title", ""),
-            "question_url": f"https://learn.microsoft.com/ru-ru/answers/questions/{answer.get('question_id', '')}",
+            "question_url": answer.get("question_url") or
+                f"https://learn.microsoft.com/ru-ru/answers/questions/{answer.get('question_id', '')}",
             "iso_url": url,
             "author": answer["author"],
             "version": version,
@@ -147,6 +188,12 @@ def main():
     print("Step 2: Extracting ISO links from answers...", file=sys.stderr)
     iso_answers = extract_all(questions)
     print(f"  Raw ISO links: {len(iso_answers)}", file=sys.stderr)
+
+    print("Step 2b: Fetching RuBeRoID links...", file=sys.stderr)
+    rubero = fetch_ruberoID()
+    print(f"  RuBeRoID links: {len(rubero)}", file=sys.stderr)
+    iso_answers = iso_answers + rubero
+    print(f"  Total raw links: {len(iso_answers)}", file=sys.stderr)
 
     print("Step 3: Validating & deduplicating...", file=sys.stderr)
     data = build(iso_answers)
