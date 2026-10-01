@@ -37,11 +37,13 @@ def extract_from_jsonld(html):
         text = _html.unescape(answer.get("text", ""))
         author = answer.get("author", "")
         role = answer.get("authorRole", "")
+        answer_url = answer.get("url", "")
         iso_urls = re.findall(ISO_LINK_PATTERN, text)
         for url in iso_urls:
             answers.append({
                 "author": author,
                 "author_role": role,
+                "answer_url": answer_url,
                 "iso_url": url,
             })
 
@@ -72,12 +74,14 @@ def extract_from_html(html):
             text_el = el.select_one('.content[itemprop="text"]')
             if not text_el:
                 continue
+            answer_url = f"https://learn.microsoft.com/ru-ru/answers/a/{el.get('id').replace('answer-','')}"
             text = _html.unescape(text_el.decode_contents())
             iso_urls = re.findall(ISO_LINK_PATTERN, text)
             for url in iso_urls:
                 answers.append({
                     "author": author,
                     "author_role": role,
+                    "answer_url": answer_url,
                     "iso_url": url,
                 })
     return answers

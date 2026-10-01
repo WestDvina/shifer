@@ -5,6 +5,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6022247",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=13c83799-3057-4a6c-912d-905edff1fce6&P1=1790943899&P2=602&P3=2&P4=OLU3iXU8cNffqb2KBTS0CqwhRI4m5KG4e0WMkvcKTB4a7WBsiQYjLH5NySg6oDbyLEm0gM7gNl8mIBCBJt0%2bQr3ekU7rrvbu3X%2f4x4FY2uHUIL3xCoX9VITFK9BVHlf%2f5PNGG%2fKSky8EjsJIXd4G%2bGoUFKdYXMU8sLqQgY1xJHsNsBMYSN9PYS%2fzlp%2b%2f0XLuWWxhmbRqtdEJvvSiYwGm68ScvwQQKYhkIdSF35pBI2nd9frg1SN7egSzTuxRXF%2fsecDHMyDOVIdzFfHzoiNobHiZfip5yuFXLjPqW%2fqiDccuGKFsoPUVl1TU%2fYX0G8hoA9FEvibeTdh9jh%2fc4nOIYA%3d%3d",
     "author": "piohal-3542",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12983040",
     "version": {
       "os": "win11",
       "build": "26H2",
@@ -13,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-10-02T12:24:59Z"
   },
   {
@@ -22,6 +23,7 @@
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=b503a4de-3f01-491c-befe-9aa679f922fd&P1=1790916173&P2=602&P3=2&P4=KubtjcXa%2fCeicpFgYoXE7siprB%2bR%2bupJWuVBLqMDoVPthNY4biKnHvZvlPZGUk4wBlWMYZl%2ftj%2bm6GnG%2bs8%2fBRavBnTwYTc8%2feNtGpmFX9OPw8RYwDOvOOfTrde5Trry7n52JlJXyCnoMGbri%2fKURu%2fTTJtTrZ8pE%2fdNK5k3fqKMKxvVenzR2ixnAkbXvRLoZGSvrXG0wRvE5yWLttJvMqKAGvjbaQ4kmCw4jxtaXyN5brtERXbnoCH6IJWwM1IPCIKWCX0NKuQNdQqIecW%2fkZOVWPNkq%2fqt4WgbPd3Uz4U073dqEELqN%2fu2wFDLAWIYSZSKp4QAlRokvpoROeRmmQ%3d%3d",
     "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
     "version": {
       "os": "win11",
       "build": "26H2",
@@ -30,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-10-02T04:42:53Z"
   },
   {
@@ -39,6 +41,7 @@
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=e1d77fb7-8df5-4200-8756-0f388e6398cd&P1=1790913310&P2=602&P3=2&P4=td7nyxMkz7OqpvRka5MAsdMJ2vKNRDOmS7%2bQnmf9nhk5OOvvJZqYi%2bIJd42q9KjviYQ65Nx7l2PJCVdTs4wCU5wL46C3aTUTfjICe%2bsdoLE%2b3f1rGivGQRLof9MEpPTLR39MaFiAuqiN%2f4qGVjk%2bHrSnFbwnqL6oCssXwsnjlSHUMaU9MoruLuHH9N9jVZGHCWOIpOEur0AGd6WQM%2fu8SCLIK7VNEeydi2b7YHbDB5Z1WeGXc4qGkjhJWB3TMQHBBuzs3nXuvEA9LbcVd%2fzuw%2brSY3HyG1pqHl5sbp0ippzt7jF2n8DR26jLxwWdrFYY3BWymHhkLPGTPQd1qFnD9Q%3d%3d",
     "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -47,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-10-02T03:55:10Z"
   },
   {
@@ -56,6 +59,7 @@
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=e1d77fb7-8df5-4200-8756-0f388e6398cd&P1=1790913309&P2=602&P3=2&P4=kOT43cKHWPD95EiPkV8rCYWW5K%2bpxb515mi9HPlrVgK9mFdhc%2fJuDP9oCNonE91g2yHmXF0u9OTm4D64j75p2%2f0WAxlFRbleO%2fbrksdMYt3EyWwY0B0Iqsk5tLvCjwZRjhUmDyxe%2bGpyKih2HGCDbFZ7Gfa750FlhbyX%2bjAPdD9wf9EXOSS3TDAmfbHLhjvOntb1walbfP5M%2bhCN7%2bb7%2fxJF7hdxPf68ifT%2faqKEqvpA%2bEhiIHf1%2ffBqTAmSwYljujSdeqF1mMRpkMRTxa9DPX9qO7PHP1NzyAU6YNbkr%2bY9xZZ8yZnVatrxl%2fFnW95XDgGCAxzRZsEwNYgf9YLROw%3d%3d",
     "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -64,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-10-02T03:55:09Z"
   },
   {
@@ -73,6 +77,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6018928",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=953b7b4b-d4e1-45eb-8ee1-372b4b20238f&P1=1790780966&P2=602&P3=2&P4=v1oqppU2R%2f2O%2fM2I8KaW0jkm82z4%2bkPosYn756e9k7%2fRGl9OGUD7RE%2ff92588ujzcOBlcVVL9eCPorZXy8c49cSAVaqfWqOUTUUP9WIeIB800tUerwXw8gZNobeQady9Y1SKBQDaeooRiucCRoEg8jDBmLzszwoUsPbOcTpBKvZlyxiw39RvsU7U0dQYn46HPaspBeCX0vKzJ%2frHfB4uEXdUM%2bPfsrIfKX%2fM6LCY4UNMSAJP3I9rGil%2ftDbTZfEP95Bp3xCIYfmowwQ0KB1h3ufPFtwOgVnrLCR3KpujYFRL28tdOH8fywJYzdADUWEJ1CO4zqGlhvGq%2bRdVoOrGDg%3d%3d",
     "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12979911",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -81,7 +86,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-30T15:09:26Z"
   },
   {
@@ -90,6 +95,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016505",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=23730cd1-3989-4a94-9d9e-8147a78738d0&P1=1790761645&P2=602&P3=2&P4=wqf1ygohvAP3jgCm2LR6p4A5Tz0NYqzZfUeYgRgmxDNCd5Cs8cMc2lNed89IUHszcJvWUiQOYSCdZTg7ULvl7hfpdcflWLul6vw1jdL6xKY71vXxk4FoJ%2bcGkj%2fLNxDXncbSpGxfaAgDiFVb2KynjHYvKq5Bm0mzM34DL21QaADN5gtkKWehIDMpV2dXGDKXDJDS%2fvUqdXKwKzcwqDiO9VhugMO7Jyj25PQQNlrq3Pqm2HZfQ4ZL1NdA1d4dap84OkKSSNN%2fOiiqYasd5BfXTV3lKL%2bJyKR7UvCVsbhsu0wRIRxl6wseuuf%2fouEC0A8qoh868k6icTYCy47t2utnRQ%3d%3d",
     "author": "Зехов Алексей",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12979457",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -98,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-30T09:47:25Z"
   },
   {
@@ -107,6 +113,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6018174",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=54ce8e46-c93d-437d-b7e1-c704c047403a&P1=1790702921&P2=602&P3=2&P4=O1NYqzXeM1VY2tfHT%2fcGDhNCVQx4KvCU6iJkJlOaz5QjirQkQLqtQQp23iWAWzv907UiD2lWu%2f6YMI5OqSQurf5FqibXdk3LV6vjCEHRjR3hDq1kqYtjMsxPEWuLKoqABdYsRMp0MljrZsjthaoQE%2bi7%2bYwA0J%2f%2bJyIHZywPq46jNtZWfMD8OwA28kdPhykJQYgBcnruSnwkzrVmWwFZENH%2fQjQnlIW%2flWuooC08564fZzUd1ilO3%2fgRy2m9cSoXVEKPLhgtqiDct2Xc6kNNU9zI54PbCWb7yJKSpw2wpK%2fQbLiMMfhXmgKzse8klyWUyecfiuOldQxA5K9X1rt9Cg%3d%3d",
     "author": "DaveM121",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12978318",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -115,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-29T17:28:41Z"
   },
   {
@@ -124,6 +131,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6017996",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=6eb1f36a-a52f-4643-aaf8-5902135b9ebe&P1=1790696450&P2=602&P3=2&P4=dKEpc5pZkASrt%2fxC8e9MNTAvifOoYZ5BaijFofavf1scLDdohL6%2bSjLRTGwOlk3s7hF%2ftJFlHgsIgvriny2FMd1Xp01CVVjGTDqFYOFqUq8XAJT8k6t3vy1YBzSVKmvWpve0%2bRbf7SBnIAGWSy7JSMjFB3n7j6%2bsfM9Hb%2fQ33Sj%2b6Q1%2b8lO3sarvteivyerJsLbUX6RpruWBv9DTakN3Lv9ytD8823H%2fKcYrMJOmG67J4IsrWAGGEfcuITIIn1PlYSmDT2lrGUVWdSk5mVufXwhr1vl9KMhV1BveyZfP7uvXIQ7B9Comkj%2fDCHSTThVCDePBvmqQvFauMx3XBj532A%3d%3d",
     "author": "David-M",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12978163",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -132,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-29T15:40:50Z"
   },
   {
@@ -141,6 +149,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016702",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=c5647338-8535-4240-9408-2065133e04d8&P1=1790604499&P2=602&P3=2&P4=QKHEg8AUuIToIBDusPZbbkCmNx8aHOj0dTXLjKLqhd17GpI%2b4qezNZpKbg9giMTA8F8LsVO%2fUSFYJg1riz62Aik9MZ3mb1tDuSJX195PvArDeqyEfkOW8RUKtvZRcrlMIpCU%2bzRgzc7LSojaC76LWMpCwifozDFR%2flscwsU2Edv3EJt7OmvBk91b%2f1IRT9ATDMkrtEOiXRg8dVn%2f44hiFwyKNkrKXyzpNx%2fxel8Mg5YavGExjFszMYkAM9%2bLwZS6PIpSouxXAtI4QC8wncOy6p7TVj0KL%2bmXW5WXJgCOxpAm07%2bhCxZdj2sKm%2bsqFhHNl8e1rYIkpEHyEdkN5dAp9A%3d%3d",
     "author": "DaveM121",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12976644",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -149,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-28T14:08:19Z"
   },
   {
@@ -158,6 +167,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016150",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=bd626d12-e1d5-4a8f-9b27-337892bbdb51&P1=1790569375&P2=602&P3=2&P4=Ce1FV1jSt5tOaOmIWn0uVr9lQAEP7apgkpWq3G9VSmBQEHnbvCDgDKgDgQhKLC3bCReHzELCdqpr6UHaDMzhAP%2bS6qzY7YON4JndiKScHWIC0UsDHkq9p1L4GEc%2bUrWe4nbIimt7g7o4pR%2fZbgFUfCoYg2mxznecuNpMcegNXL77FjauiHwMmgOqLUhRmiowFchzWLHtmTlk7AH%2bcMkyABiM%2bD8sVZKn%2bvHb9vC4Q8Yvlaowu69G9GebftMMJ3l%2bQf0iCIfy07M6t3ARZnDw%2bJbFwPDnL%2fqLRmAKu7FClnZoda%2f7MGdDVJTTfZp%2bTexdn08HJzZKg48jrM9q93IO%2bg%3d%3d",
     "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12976242",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -166,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-28T04:22:55Z"
   },
   {
@@ -175,6 +185,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016438",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=34f877f7-6408-4cbf-9dd0-498ea9ce787d&P1=1790569237&P2=602&P3=2&P4=tKBEf1tWOz9giDLCmRmyEEwNrlsGsNqv2baHG4PXpeKlHLakNnYYw0Vf0F9Xm8LdeE7T4BQAwTfyqlNFrmQKZ9H4o5A24m1bIj1K6B%2fpFnVGebNyCn5yqhYWmjqsvvn1QWJoK%2bafSVDefcQeji3QFg5VRirvr8m67YN2EZGogjcAQcYJOC20GfAGCi6dJk9ihDy79C5Q8PD8tG1Kh%2bbpb85ylWx6e4ak1bRhV8PzJa8gcf77MW%2bepqGo6GZph5Awjap9sSj4JHgqqgZIdH1tu8AahRDZKw4Bk2oi3MP1wh7N0Q%2bcMYESdTJZFE7YoNyJeVFGr7zr4LonNsYAn1jqbQ%3d%3d",
     "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12976240",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -183,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-28T04:20:37Z"
   },
   {
@@ -192,6 +203,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016097",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=580ede5c-ac97-49d7-8e08-f1217591fc1e&P1=1790524791&P2=602&P3=2&P4=Ri%2bfKJFhmntHNNNCGz%2bNJwthFFRj1HTGuQusXH8AWyU4mrvkEA6y2sEPUnV7bX0eL3irzMUg60BGY6MjbbRYxqL%2bxCjp%2f9zG6JJtIjtxy683do806olivbRi6bfaUw8pyjHvwqZst6xNvUnpWXT3%2b0dAwAbH%2fa1oRc87RbER467o8Yf2nShMWrrF1YnDUGsFiyVaXCe%2bDV2bYZNgyo6zMIT6HKCeaorNsAm0U2iDBDSWcGbFhO0P7ts3fF9%2fLC%2bZKta4DtH5JxW9NdoLnDnhvcuE7nWjQtgEcI2EvawmBMHsXPhhNpXWdl1PVDLGiNZXa3cSvBoCkG%2fZeJuT%2fSHQbg%3d%3d",
     "author": "Paulo GM",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12975740",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -200,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-27T15:59:51Z"
   },
   {
@@ -209,6 +221,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6015899",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=ef6796f7-600a-4621-95a1-c7a5de9f4bb3&P1=1790505250&P2=602&P3=2&P4=WL8P12L0U23Zz995nkKC8o5tUlgRhE3bGxfea4E%2bHw1KZLtDeNhehFn1hxxHNJNGPxTYM2HmFfsZjAJlquHndbJ7hWbWnRal2D78yRUcggofUFhIze475ghtDcwvLbH%2fI0l%2fG9nlpGYiFCasavuQXplkQeM%2bl60n2Jr%2fNMy6OvX3quZzaFUroTqlVV8Wfc2wurvctfiA6zyluc9%2fpeZoNH%2bRiRVY0fZQYXdf3Zji%2flieEWMZvoySOxwJZ6N%2b6yZ0rdXV%2fwhzYainRbxfKCqzT8baWnxdsi0ijmrAc9lFLwd5hFA%2bNhg6k%2fq%2fsdRdTKiu7xvc5E%2b0IV9dzSqBhy4VZg%3d%3d",
     "author": "DaveM121",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12975569",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -217,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-27T10:34:10Z"
   },
   {
@@ -226,6 +239,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6015083",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=4abed646-45d7-4ae4-bd18-5b40f6935a69&P1=1790437083&P2=602&P3=2&P4=u06l7LYlFQZRtm7lzrtWmae1wbhTxaKIWH5GTT4QXqkZ1UygL2Q89wViilZVufXrP%2bKq2rUo6m0ZEwOPrmE7%2fV%2fJfqw0IkZHXAonZD4OiWexaZI%2fh9vdo0xF1oq0tVS0J42kPFG4Eer%2f0%2fnmSH70zLM%2fP9y2p%2bmXfOVncLlXdNLVJUDpFlgFmo451wlQ5M4UkN%2bkqMgr7DkU9TG7hhYSiKIvFsFPbIz9j8F%2bnkee2Ouh%2bKujpINFikimM40d6cqFk%2f%2bodp7Du58vRGoSYTzu1aOX%2fKIQO%2fWYEXvzRU9qYEmq4GyNjopyOJgIHh1asGKWBQRt1Q1DomRNwag1MnU1bg%3d%3d",
     "author": "David-M",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12974630",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -234,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-26T15:38:03Z"
   },
   {
@@ -243,6 +257,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6013248",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=741cf371-2266-4b57-baae-b47c260b3108&P1=1790337864&P2=602&P3=2&P4=E1lFb3If9CIpPVaIIrumsyIt%2bZu45agzVI4W8ysZgdvQTKpwEtdfm08aVC8hUQdQOu8u%2bPMWTlmLa7nE3gweOgYq3LNfMjk7ZYfNSYqD6%2b%2fDzDrJ6tUeqVxFCMKMDNTw9mI%2beyYR7n%2bLCuXfh%2f%2f2Wd6v5EoUH9m4u3WEm2Al94806fhAjF2rOJivn92McduJY5RG%2bqqSKp2bzCwPFEcB0eeVCtjwjjTuxfSrHofRdb1D2SGHxtT8m0AoiSorxGSTfFRHTpo4RMqPk0HHHr9az5X%2f12Z0OpyioK54eZR8q8qmpNxyQiKquyySljSh2fCg6udgHTE1FqyWYGGFk%2fVvIA%3d%3d",
     "author": "David-M",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12972833",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -251,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-25T12:04:24Z"
   },
   {
@@ -260,6 +275,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6013121",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=f5e27287-8575-4c25-86c7-bf3108512c27&P1=1790317445&P2=602&P3=2&P4=ef1waokieCxI%2f9D7xCmqtwIpD7VbhWFathpTxyHkqt79M%2f10e0rP%2bWFBG2dWsgr0aqlSI%2fg%2fcmoA6GkVtSBXm%2fGG2s2TlqWoMdlalm3rcK35Xjko2d%2bcee%2f%2fGRXgF3D9bED%2b%2fKYnWNAWR4OmiUHBkiLnrTWhSi83xpv62ihAL%2fnOL2%2bA06fl3RhGSZTeoLAyAp5lmvRADtp%2btwCi3haYiCif%2b2S%2fLUI%2bqlPVVpmL%2bE3LB7czICJlQPbXPFJlskLE4MmAZDXDQZ9%2beRObMCryVQICKFJcKvKCuzBJZxlTGHpB9aYjQTAanslHFsPiPa6%2bm7t28Hsjf40lr%2btb2gWRRQ%3d%3d",
     "author": "Vikki-T",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12973037",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -268,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-25T06:24:05Z"
   },
   {
@@ -277,6 +293,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6012626",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=cb46796f-1fbe-4301-bd20-3f739afbd54e&P1=1790304447&P2=602&P3=2&P4=tnY9NczSvjEuH7j4OH%2fMLSw2MaqdE%2bvI%2bwnGneVP6G7%2bA1SNl5pBS4mkQwJWNkhqCSu3xG0e4MuaHFTrSQt%2f0X2VBcE7OWzxYZ2p3HRLNBk0O2O9ri1ga8tl%2fHpyY%2bYvXJSXeuBZHGFwDr%2bPZp8b4Qa35guMfxg3vKx9HtpeOKX3%2fgxbZ40gsNZ317mjS4tXnZ%2f46VyzhZbel77bnd9Dp7%2fCc0H%2fZ%2ftamuqPElpz%2fp3vOQ2SMymYQt4jxpdL7I6XLNLsmmv212JfCAGUGdJm2pTawFd8IPDjAIsIcP7Kts1kl%2fEXYaZvGSlCIrQbo989Lvd3tm3yrFCPQoY%2bYW%2bZ3Q%3d%3d",
     "author": "Emma1-N",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12972283",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -285,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-25T02:47:27Z"
   },
   {
@@ -294,6 +311,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6012109",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=04a68882-baab-4389-8a49-1ccf944763e4&P1=1790292355&P2=602&P3=2&P4=A9Vxm5LQdM5coedEJEaAxvWMXRLliLJJI73a%2fbobTaqXCZBXj7qdbSF8lFXdgF542Y05o7beZNUscja%2bQlShQHk7xWCde%2bVD10kr0sQfePywO0kWfVItY%2byt6JdpzA7FcvudiVa7AOhBGQDE8BIGicf1GWbOu%2bZunDhkqOrH0gfOVMUu4g%2baky0mqpIcwFoyfky1HPhUykwOxEN5%2fzXQ7QJ2J8GQDg8%2bMh4Bi%2b1J3OPJmGnTuC5EqOm0PQNzMQBn5N5LAyhIufDwaDMT%2f1NktKzvpS5ajMUFm8CzIyekrgREVpW8DgWeG6y%2bnqM9Z2Xu%2bcOufEuwX6GQNyOiEBfOkA%3d%3d",
     "author": "Emma1-N",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12972122",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -302,7 +320,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-24T23:25:55Z"
   },
   {
@@ -311,6 +329,7 @@
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6011372",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=07d3b21f-deb1-4f5c-bec1-5639d5047005&P1=1790204596&P2=602&P3=2&P4=QYFhz6maV4uslAyZNHI49Zqy9FqNhoT7dopiaA3FAJJsMq8TW1FVC2TpWtW2lAvdNzCmmoAoTjP%2fP1Z8o8WMMpdKX%2fm5iXyNJnMm%2bBR0hCDX46D46tUUYE3Eq4wbm2VaSTJTmCOlKm5YuE6uHjnAj51gpLRRNFvbBPr60iXJAovaV6nQr6vtmqUcb1dvthHd7b3Nj1xIrezckF5mgGTANOe%2bbQH260p3%2ffbF9%2bvayN3clPyenlATL3MOZN80NxRqBwSTKJE%2f7lc%2fentzthO43AVd2q%2bhqxJ1pjgQpkzfB5CFpeT9RqoyNypKondZ6ox9EsxJLzuptV%2bcjW14nod2xg%3d%3d",
     "author": "Ian-T",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12970437",
     "version": {
       "os": "win11",
       "build": "25H2",
@@ -319,7 +338,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-01T13:23:02Z",
+    "checked_at": "2026-10-01T13:28:47Z",
     "valid_until": "2026-09-23T23:03:16Z"
   }
 ]

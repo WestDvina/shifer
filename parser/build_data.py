@@ -36,6 +36,7 @@ def fetch_ruberoID():
             "iso_url": url,
             "author": "RuBeRoID",
             "author_role": "bot",
+            "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
             "question_id": "",
             "question_title": "Ссылки от бота RuBeRoID",
             "question_url": RUFUS_SOURCE_URL,
@@ -166,6 +167,10 @@ def build(iso_answers):
                 f"https://learn.microsoft.com/ru-ru/answers/questions/{answer.get('question_id', '')}",
             "iso_url": url,
             "author": answer["author"],
+            "author_url": answer.get("author_url") or
+                answer.get("answer_url") or
+                answer.get("question_url") or
+                f"https://learn.microsoft.com/ru-ru/answers/questions/{answer.get('question_id', '')}",
             "version": version,
             "is_valid": valid,
             "size_bytes": size,
