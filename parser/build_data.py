@@ -125,6 +125,13 @@ def build(iso_answers):
     for answer in iso_answers:
         url = answer["iso_url"]
         if url in seen:
+            # Same URL from two origins (e.g. Q&A answer quoting the bot):
+            # prefer RuBeRoID authorship — it reflects the live bot pipeline.
+            if answer.get("author") == "RuBeRoID" and seen[url].get("author") != "RuBeRoID":
+                seen[url]["author"] = "RuBeRoID"
+                seen[url]["title"] = answer.get("question_title") or seen[url]["title"]
+                seen[url]["question_url"] = answer.get("question_url") or seen[url]["question_url"]
+                seen[url]["author_url"] = answer.get("author_url") or seen[url]["author_url"]
             continue
 
         version = parse_version_from_filename(url)

@@ -29,5 +29,6 @@ jobs:
           git config user.name 'shifer-bot'
           git config user.email 'bot@shifer.app'
           git add docs/data.json
-          git diff --cached --quiet || git commit -m 'update data.json'
-          git push
+          if git diff --cached --quiet; then echo 'no changes'; exit 0; fi
+          git commit -m 'update data.json'
+          git push || { git pull --rebase origin main && git push; }
