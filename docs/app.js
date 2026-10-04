@@ -1,4 +1,36 @@
 const DATA_URL = 'data.json';
+// Canonical single source of truth (same file Rufus-RuBeRoID reads).
+// Used as fallback when data.json has no valid link for a key.
+const CANONICAL_URL = 'https://raw.githubusercontent.com/WestDvina/rufus-RuBeRoID/main/iso_links.json';
+const CANONICAL_KEYS = {
+  '10_x64': { os: 'win10', arch: 'x64', build: '22H2' },
+  '10_x86': { os: 'win10', arch: 'x86', build: '22H2' },
+  '11_x64': { os: 'win11', arch: 'x64', build: '' },
+};
+
+function canonicalFallbackEntries(canonical, existing) {
+  const out = [];
+  if (!canonical || !canonical.links) return out;
+  const ttlMs = (canonical.ttl_hours || 22) * 3600000;
+  const base = (canonical.published_at || Date.now() / 1000) * 1000;
+  for (const [key, meta] of Object.entries(CANONICAL_KEYS)) {
+    const url = canonical.links[key];
+    if (!url) continue;
+    const covered = (existing || []).some(d =>
+      d.is_valid && d.version && d.version.os === meta.os && d.version.arch === meta.arch);
+    if (covered) continue;
+    const m = url.split('?')[0].match(/(2[23456]h2)/i);
+    out.push({
+      id: '', title: 'Зеркало RuBeRoID', question_url: CANONICAL_URL,
+      iso_url: url, author: 'RuBeRoID', author_url: 'https://github.com/WestDvina/rufus-RuBeRoID',
+      version: { os: meta.os, build: m ? m[1].toUpperCase() : meta.build, lang: 'Russian', arch: meta.arch },
+      is_valid: true, size_bytes: 0,
+      checked_at: new Date().toISOString(),
+      valid_until: new Date(base + ttlMs).toISOString(),
+    });
+  }
+  return out;
+}
 const POLL_INTERVAL = 60000;
 const TICK_INTERVAL = 1000;
 
@@ -151,6 +183,13 @@ async function fetchData() {
   try {
     const resp = await fetch(DATA_URL + '?_=' + Date.now());
     data = await resp.json();
+    try {
+      const cResp = await fetch(CANONICAL_URL + '?_=' + Date.now());
+      if (cResp.ok) {
+        const canonical = await cResp.json();
+        data = data.concat(canonicalFallbackEntries(canonical, data));
+      }
+    } catch (e2) { console.error('canonical fallback failed', e2); }
     renderCards();
     updateStatus();
     document.getElementById('last-checked').textContent =
