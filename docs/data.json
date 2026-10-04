@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-05T03:05:06Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-05T03:05:06Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-05T03:00:02Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-04T08:46:10Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-03T07:46:24Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-02T15:13:27Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-02T13:19:14Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-10-02T12:24:59Z"
   },
   {
@@ -158,26 +158,8 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-09-30T15:09:26Z"
-  },
-  {
-    "id": "6016505",
-    "title": "Запрос прямой ссылки на ISO Windows 11 25H2, русской версии для восстановления системы",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6016505",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=23730cd1-3989-4a94-9d9e-8147a78738d0&P1=1790761645&P2=602&P3=2&P4=wqf1ygohvAP3jgCm2LR6p4A5Tz0NYqzZfUeYgRgmxDNCd5Cs8cMc2lNed89IUHszcJvWUiQOYSCdZTg7ULvl7hfpdcflWLul6vw1jdL6xKY71vXxk4FoJ%2bcGkj%2fLNxDXncbSpGxfaAgDiFVb2KynjHYvKq5Bm0mzM34DL21QaADN5gtkKWehIDMpV2dXGDKXDJDS%2fvUqdXKwKzcwqDiO9VhugMO7Jyj25PQQNlrq3Pqm2HZfQ4ZL1NdA1d4dap84OkKSSNN%2fOiiqYasd5BfXTV3lKL%2bJyKR7UvCVsbhsu0wRIRxl6wseuuf%2fouEC0A8qoh868k6icTYCy47t2utnRQ%3d%3d",
-    "author": "Зехов Алексей",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12979457",
-    "version": {
-      "os": "win11",
-      "build": "25H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
-    "valid_until": "2026-09-30T09:47:25Z"
   },
   {
     "id": "6018174",
@@ -194,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-09-29T17:28:41Z"
   },
   {
@@ -212,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-09-29T15:40:50Z"
   },
   {
@@ -230,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-04T23:01:10Z",
+    "checked_at": "2026-10-04T23:30:59Z",
     "valid_until": "2026-09-28T14:08:19Z"
   }
 ]
