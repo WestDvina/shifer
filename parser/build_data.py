@@ -11,6 +11,30 @@ from extractor import extract_all
 
 P1_PATTERN = re.compile(r'[?&]P1=(\d+)')
 
+# Links live ~24h; history older than this is dead weight (extra CDN HEADs,
+# slower runs, noise on the site). 5 days is plenty.
+MAX_HISTORY_DAYS = 5
+
+
+def _history_cutoff():
+    from datetime import timedelta
+    return datetime.now(timezone.utc) - timedelta(days=MAX_HISTORY_DAYS)
+
+
+def _parse_ts(value):
+    s = str(value or "").strip()
+    if not s:
+        return None
+    if s.endswith("Z"):
+        s = s[:-1] + "+00:00"
+    try:
+        dt = datetime.fromisoformat(s)
+    except ValueError:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
 RUFUS_LINKS_URL = "https://raw.githubusercontent.com/WestDvina/rufus-RuBeRoID/main/iso_links.json"
 RUFUS_SOURCE_URL = "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json"
 
@@ -203,10 +227,14 @@ def load_previous_answers():
         return []
     if not isinstance(prev, list):
         return []
+    cutoff = _history_cutoff()
     out = []
     for e in prev:
         if not isinstance(e, dict) or ".iso" not in str(e.get("iso_url", "")):
             continue
+        ts = _parse_ts(e.get("valid_until"))
+        if ts is not None and ts < cutoff:
+            continue  # older than MAX_HISTORY_DAYS: dead weight
         out.append({
             "iso_url": e["iso_url"],
             "author": e.get("author", ""),
@@ -264,6 +292,14 @@ def main():
                 ts = 0.0
         return (is_invalid, -ts)
     data.sort(key=sort_key)
+
+    # Prune history: no consumer needs entries older than MAX_HISTORY_DAYS
+    # (the site hides everything expired >1h ago; Rufus reads iso_links.json).
+    cutoff = _history_cutoff()
+    before = len(data)
+    data = [d for d in data
+            if d.get("is_valid") or (_parse_ts(d.get("valid_until")) or cutoff) >= cutoff]
+    print(f"  Pruned {before - len(data)} entries older than {MAX_HISTORY_DAYS}d", file=sys.stderr)
 
     with open("docs/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
