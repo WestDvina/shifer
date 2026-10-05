@@ -1,45 +1,9 @@
 [
   {
     "id": "6025959",
-    "title": "Не могу скачать ISO Windows 10 из-за ошибки 715-123130",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6025959",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=200399f9-221e-42b1-b204-a5a9733f5b5d&P1=1791291314&P2=602&P3=2&P4=TiC1BqSBhTdxKglqHXe3LxfV87N7Kc9JVedE%2fVHdpdQ3FdrHJ5wOJ6Y6R13VB2zHw0xzw1ZOBj6%2bXSxq%2fSYZ2ynxAPukuDIVZhQHnczWTibKCrMq3TtOxg9Bn6GS5LsrYpfVnrKO940I844FO7lh1lLvOmOjsijnAlUPVMWYOuuvneYPb7CuHc4hvRA2tDH%2bEvkE%2bywJQeXKw5JHwYRk3RtxLuJMRHeh2zmK969fZRnI00Y0hxhjfLxEWP8LTVxVt8C4eO7RyLPQO95aVrq72W6wAKrNe01xYp%2besfQSmCupGKvxYnycHFXIDWsPlJp3DqB5epJ6cTHXOrqXkDPrXg%3d%3d",
-    "author": "David-M",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987600",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T15:01:19Z",
-    "valid_until": "2026-10-06T12:55:14Z"
-  },
-  {
-    "id": "6026126",
-    "title": "Не могу скачать ISO Windows 11 из-за ошибки 715-123130",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6026126",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=a7de55a9-63d1-4d3d-aaec-5a26fd29a3f9&P1=1791273150&P2=602&P3=2&P4=GBEfyd0ngrVMMMmJ6RnY6hIXLV120qK55dfJikMjc%2bksoM6gCkOkX3l6F4uxu1nuteOn0yr237un7BalvIRo5%2biWS5uo7jqCsR88DYXtEx6LU%2fqlr%2b7EmfC5kMAr5weuTlKrh%2bai5Ymodvco2sWoKhU9rbO5bgaUxwik0tOqZ40%2fl65KaMuJnPhrCA8UsP%2fU2rfmlV%2bH3QrxxK0ZUagP7qCi%2b9EaQ7wPjF4ioQz%2fLu5isPQvL1ai3hK06X%2buXidMlXaueNwXzkndobNd5bJIWYJXxwKmr82YF4SgVX15dQG8n7sBBfBawwTeDf15r4QrimcC2znsZqaYKYJ4MUpMyA%3d%3d",
-    "author": "DaveM121",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987735",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": true,
-    "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T15:01:19Z",
-    "valid_until": "2026-10-06T07:52:30Z"
-  },
-  {
-    "id": "",
     "title": "Ссылки от бота RuBeRoID",
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=731bb89f-b6d9-4ce1-a841-4d48b06aea56&P1=1791255905&P2=602&P3=2&P4=AT1rx10GchPrejL067%2bd8%2f%2btJO7NGGunjOD%2fd1%2fB7H5gf8pBzRA4uzv1wD8QjS2PJS8bWyhxB%2fbV8KSkxphaFAH8thf58T7wiCC4zbUZqOWXW0jpA2VyZB1Uet47RX7MFuiAWlbHV1NHi%2bZmsKL1F84znEv%2fZTwspQ3X56CHGfrVuCdqkukwjnZRj31rC3VF3yggQyUlv3NXADnwNgJ6W6xVlkmiDukO7iiAORMG%2fXWt5TNVhvlYbKPCSNO47Pil%2fQFFGuScADF33RnGXggrgcUGzxgKjjYxXEgMVlnbXU1wGHOrHH3HdzDk4c34kYYx2KKo4zcKG89stGq9ebmm5w%3d%3d",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=200399f9-221e-42b1-b204-a5a9733f5b5d&P1=1791291314&P2=602&P3=2&P4=TiC1BqSBhTdxKglqHXe3LxfV87N7Kc9JVedE%2fVHdpdQ3FdrHJ5wOJ6Y6R13VB2zHw0xzw1ZOBj6%2bXSxq%2fSYZ2ynxAPukuDIVZhQHnczWTibKCrMq3TtOxg9Bn6GS5LsrYpfVnrKO940I844FO7lh1lLvOmOjsijnAlUPVMWYOuuvneYPb7CuHc4hvRA2tDH%2bEvkE%2bywJQeXKw5JHwYRk3RtxLuJMRHeh2zmK969fZRnI00Y0hxhjfLxEWP8LTVxVt8C4eO7RyLPQO95aVrq72W6wAKrNe01xYp%2besfQSmCupGKvxYnycHFXIDWsPlJp3DqB5epJ6cTHXOrqXkDPrXg%3d%3d",
     "author": "RuBeRoID",
     "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
     "version": {
@@ -50,8 +14,26 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T15:01:19Z",
-    "valid_until": "2026-10-06T03:05:05Z"
+    "checked_at": "2026-10-05T15:31:15Z",
+    "valid_until": "2026-10-06T12:55:14Z"
+  },
+  {
+    "id": "6026126",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=a7de55a9-63d1-4d3d-aaec-5a26fd29a3f9&P1=1791273150&P2=602&P3=2&P4=GBEfyd0ngrVMMMmJ6RnY6hIXLV120qK55dfJikMjc%2bksoM6gCkOkX3l6F4uxu1nuteOn0yr237un7BalvIRo5%2biWS5uo7jqCsR88DYXtEx6LU%2fqlr%2b7EmfC5kMAr5weuTlKrh%2bai5Ymodvco2sWoKhU9rbO5bgaUxwik0tOqZ40%2fl65KaMuJnPhrCA8UsP%2fU2rfmlV%2bH3QrxxK0ZUagP7qCi%2b9EaQ7wPjF4ioQz%2fLu5isPQvL1ai3hK06X%2buXidMlXaueNwXzkndobNd5bJIWYJXxwKmr82YF4SgVX15dQG8n7sBBfBawwTeDf15r4QrimcC2znsZqaYKYJ4MUpMyA%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8748939264,
+    "checked_at": "2026-10-05T15:31:15Z",
+    "valid_until": "2026-10-06T07:52:30Z"
   },
   {
     "id": "",
@@ -68,7 +50,25 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
+    "valid_until": "2026-10-06T03:05:05Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=731bb89f-b6d9-4ce1-a841-4d48b06aea56&P1=1791255905&P2=602&P3=2&P4=AT1rx10GchPrejL067%2bd8%2f%2btJO7NGGunjOD%2fd1%2fB7H5gf8pBzRA4uzv1wD8QjS2PJS8bWyhxB%2fbV8KSkxphaFAH8thf58T7wiCC4zbUZqOWXW0jpA2VyZB1Uet47RX7MFuiAWlbHV1NHi%2bZmsKL1F84znEv%2fZTwspQ3X56CHGfrVuCdqkukwjnZRj31rC3VF3yggQyUlv3NXADnwNgJ6W6xVlkmiDukO7iiAORMG%2fXWt5TNVhvlYbKPCSNO47Pil%2fQFFGuScADF33RnGXggrgcUGzxgKjjYxXEgMVlnbXU1wGHOrHH3HdzDk4c34kYYx2KKo4zcKG89stGq9ebmm5w%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-06T03:05:05Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-06T03:00:02Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-04T08:46:10Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-03T07:46:24Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-02T15:13:27Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-02T13:19:14Z"
   },
   {
@@ -176,25 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
+    "checked_at": "2026-10-05T15:31:15Z",
     "valid_until": "2026-10-02T12:24:59Z"
-  },
-  {
-    "id": "6018928",
-    "title": "Нужна прямая ссылка на ISO Windows 10 22H2, русский x64",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6018928",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=953b7b4b-d4e1-45eb-8ee1-372b4b20238f&P1=1790780966&P2=602&P3=2&P4=v1oqppU2R%2f2O%2fM2I8KaW0jkm82z4%2bkPosYn756e9k7%2fRGl9OGUD7RE%2ff92588ujzcOBlcVVL9eCPorZXy8c49cSAVaqfWqOUTUUP9WIeIB800tUerwXw8gZNobeQady9Y1SKBQDaeooRiucCRoEg8jDBmLzszwoUsPbOcTpBKvZlyxiw39RvsU7U0dQYn46HPaspBeCX0vKzJ%2frHfB4uEXdUM%2bPfsrIfKX%2fM6LCY4UNMSAJP3I9rGil%2ftDbTZfEP95Bp3xCIYfmowwQ0KB1h3ufPFtwOgVnrLCR3KpujYFRL28tdOH8fywJYzdADUWEJ1CO4zqGlhvGq%2bRdVoOrGDg%3d%3d",
-    "author": "KeicH2O",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12979911",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-05T15:01:19Z",
-    "valid_until": "2026-09-30T15:09:26Z"
   }
 ]
