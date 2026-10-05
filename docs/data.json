@@ -1,5 +1,41 @@
 [
   {
+    "id": "6026204",
+    "title": "Win11_25H2_Russian_x64_v2.iso",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6026204",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64_v2.iso?t=4e45b32c-af0e-4ef3-a71b-3acca1966daa&P1=1791304640&P2=602&P3=2&P4=IhLTkXKL0sWLovtJjMsE29vGvVXtcuO%2fTijW44QlEuvBiXYPDsN7vKES6%2forUgKzVVBhTfMwGZAlD9AbAtM1QMuF55jNFILTxDSY0tXQRtP6vLX9s9itSpq%2b6KMdy1GofbPsHiS1HGSM7FvKrW4L8ms%2f%2fGUlAiabC4xgohlesjJjbSGAMUEbdxIIHy%2bET57Ct19O%2bKRGHf6or7DukEV9Raccfa3Ye6wenJmijMdqGnU39bKVcgiF6Q6aAZfmuaBLr%2bi58aiBtuVUS25Rx5sTiEzD%2b1F6m8KPKYEiniPyNqbjaqI2pZ7sTjRqesZeYRZMDLJ1Zl2Rc0Exr7eQw%2fle3Q%3d%3d",
+    "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987988",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8186959872,
+    "checked_at": "2026-10-05T17:01:22Z",
+    "valid_until": "2026-10-06T16:37:20Z"
+  },
+  {
+    "id": "6026289",
+    "title": "Не могли бы вы предоставить прямую временную ссылку для скачивания официального ISO-образа Windows 11 со следующими параметрами:",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6026289",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Russian_x64.iso?t=5976ec4c-2001-43a6-a079-4e4562f32e87&P1=1791304335&P2=602&P3=2&P4=eAMabkREDrbAVRHSDefVRSkAm5VytSUWHkfwYXQ1wjt3LspOxpXdHMItJxF8fsParH5beQmvcOMUFLjsrOCt2JMMjSdEnOI4x9xxuOemsXWtLCpk%2bVANi1up1Db4WH1uUwmOD%2bxXNxTTmfGQJJJ%2bHhKQvukAZuhw568CXQUWz2rTTo2466Ubk3jJGkTSaUn7Rx7VxPS%2fddi09%2fy68250qMBqm56%2bpdM2BGCHBZbZ1scIMmObDLzatoqEepibKSHhhMV6HJSNtiUwtg6wbJLgaP7vc1WGTt3q3xxoaGySdjikqHWS81TynAn5tIacY6SXvZhIp70ISajqoITjyeWgqw%3d%3d",
+    "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987951",
+    "version": {
+      "os": "win11",
+      "build": "25H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 7459577856,
+    "checked_at": "2026-10-05T17:01:22Z",
+    "valid_until": "2026-10-06T16:32:15Z"
+  },
+  {
     "id": "6024390",
     "title": "Ссылка на iso образ Windows 11 pro rus",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6024390",
@@ -14,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T15:50:41Z"
   },
   {
@@ -32,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T12:55:14Z"
   },
   {
@@ -50,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T07:52:30Z"
   },
   {
@@ -68,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T03:05:05Z"
   },
   {
@@ -86,7 +122,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T03:05:05Z"
   },
   {
@@ -104,7 +140,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-06T03:00:02Z"
   },
   {
@@ -122,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-04T08:46:10Z"
   },
   {
@@ -140,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-03T07:46:24Z"
   },
   {
@@ -158,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-02T15:13:27Z"
   },
   {
@@ -176,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-02T13:19:14Z"
   },
   {
@@ -194,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T16:31:07Z",
+    "checked_at": "2026-10-05T17:01:22Z",
     "valid_until": "2026-10-02T12:24:59Z"
   }
 ]
