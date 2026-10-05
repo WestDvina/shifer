@@ -1,5 +1,23 @@
 [
   {
+    "id": "6024390",
+    "title": "Ссылка на iso образ Windows 11 pro rus",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6024390",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=8f80c7d2-e091-4882-ad9a-873ca38f0f27&P1=1791301841&P2=602&P3=2&P4=utIitgHJC4LQtL%2b1p5Mw8GICSNzdwvygg7%2fAQ1JDAkOn6JUz5MARY2XQ7hsh69dpn%2fQJk%2bKzdTeYQSABODfpVufS9Bfx6Uz5oTot6t9UMQ3b8PExLk%2bQAsfkDG5JH3tcGv5sbiWuer29mliPlJv%2b3BdAcxkCj7e8SWK88YCx7hFnG4tHQQ7h3710mB%2bVix%2fd9zzlYMfsPPh0FjGSg0Sh5DmOWmwdhh24w1V7%2bEvcfDVXvS4X12OdCU3beaodnBqO1bukhBw5kVxVUkct6%2foo8Ji79qeJTziCUkTKbZPYgNQV%2bKrl%2bAtSy62RLrK9OiMtx55OkqFiJwUlm8eanltF4Q%3d%3d",
+    "author": "KeicH2O",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987872",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8748939264,
+    "checked_at": "2026-10-05T16:01:17Z",
+    "valid_until": "2026-10-06T15:50:41Z"
+  },
+  {
     "id": "6025959",
     "title": "Ссылки от бота RuBeRoID",
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
@@ -14,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-06T12:55:14Z"
   },
   {
@@ -32,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-06T07:52:30Z"
   },
   {
@@ -50,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-06T03:05:05Z"
   },
   {
@@ -68,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-06T03:05:05Z"
   },
   {
@@ -86,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-06T03:00:02Z"
   },
   {
@@ -104,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-04T08:46:10Z"
   },
   {
@@ -122,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-03T07:46:24Z"
   },
   {
@@ -140,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-02T15:13:27Z"
   },
   {
@@ -158,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-02T13:19:14Z"
   },
   {
@@ -176,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-05T15:31:15Z",
+    "checked_at": "2026-10-05T16:01:17Z",
     "valid_until": "2026-10-02T12:24:59Z"
   }
 ]
