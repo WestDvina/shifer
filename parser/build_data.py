@@ -1,6 +1,7 @@
 import json
 import re
 import sys
+import time
 from datetime import datetime, timezone
 
 import requests
@@ -129,17 +130,29 @@ def parse_version_from_filename(url):
     return info
 
 
-def validate_link(url):
-    try:
-        resp = requests.head(url, timeout=10, allow_redirects=True,
-                             headers={"User-Agent": "Mozilla/5.0"})
-        if resp.status_code == 200:
-            expires = resp.headers.get("expires", "")
-            c_len = resp.headers.get("Content-Length", "0")
-            return True, expires, int(c_len) if c_len.isdigit() else 0
-        return False, "", 0
-    except Exception:
-        return False, "", 0
+def validate_link(url, attempts=3):
+    """HEAD-check with retries. Returns (state, expires, size).
+
+    state True = alive (200), False = definitely dead (404/410),
+    None = unknown (timeout/403/429/5xx after retries) — caller must
+    preserve the previous status instead of flipping to invalid.
+    """
+    for i in range(attempts):
+        try:
+            resp = requests.head(url, timeout=10, allow_redirects=True,
+                                 headers={"User-Agent": "Mozilla/5.0"})
+            if resp.status_code == 200:
+                expires = resp.headers.get("expires", "")
+                c_len = resp.headers.get("Content-Length", "0")
+                return True, expires, int(c_len) if c_len.isdigit() else 0
+            if resp.status_code in (404, 410):
+                return False, "", 0
+            # Other statuses (403/429/5xx): transient, retry.
+        except Exception:
+            pass  # timeout/DNS: transient, retry.
+        if i < attempts - 1:
+            time.sleep(5 * (i + 1))
+    return None, "", 0
 
 
 def build(iso_answers):
@@ -149,13 +162,9 @@ def build(iso_answers):
     for answer in iso_answers:
         url = answer["iso_url"]
         if url in seen:
-            # Same URL from two origins (e.g. Q&A answer quoting the bot):
-            # prefer RuBeRoID authorship — it reflects the live bot pipeline.
-            if answer.get("author") == "RuBeRoID" and seen[url].get("author") != "RuBeRoID":
-                seen[url]["author"] = "RuBeRoID"
-                seen[url]["title"] = answer.get("question_title") or seen[url]["title"]
-                seen[url]["question_url"] = answer.get("question_url") or seen[url]["question_url"]
-                seen[url]["author_url"] = answer.get("author_url") or seen[url]["author_url"]
+            # Identical signed URLs (= same issuance event) from two origins:
+            # keep the first attribution (Q&A answers come first), since the
+            # bot/CI merely republished a link minted for that question.
             continue
 
         version = parse_version_from_filename(url)
@@ -163,10 +172,26 @@ def build(iso_answers):
             continue
 
         valid, expires_str, size = validate_link(url)
+        if valid is None:
+            # Transient failure (timeout/403/429/5xx): preserve previous
+            # status instead of flipping a live link to invalid.
+            valid = bool(answer.get("was_valid", False))
+            size = answer.get("was_size") or 0
+            if valid:
+                print(f"  {url[:60]}...: HEAD inconclusive, keeping previous valid status",
+                      file=sys.stderr)
 
         p1_ts = parse_p1_expiry(url)
         if p1_ts:
             valid_until = datetime.fromtimestamp(p1_ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            # This CDN answers 403 for expired signatures too, so a failed
+            # HEAD is ambiguous — but an expired P1 is definitive: the URL
+            # is cryptographically dead no matter what HEAD said.
+            if now.timestamp() > p1_ts + 3600:
+                if valid:
+                    print(f"  {url[:60]}...: HEAD 200 but P1 expired, marking dead",
+                          file=sys.stderr)
+                valid = False
         elif valid and expires_str:
             try:
                 expires_dt = datetime.strptime(
@@ -242,6 +267,8 @@ def load_previous_answers():
             "question_id": e.get("id", ""),
             "question_title": e.get("title", ""),
             "question_url": e.get("question_url", ""),
+            "was_valid": bool(e.get("is_valid")),
+            "was_size": e.get("size_bytes") or 0,
         })
     print(f"  Previous entries reused: {len(out)}", file=sys.stderr)
     return out
