@@ -189,28 +189,70 @@ def build(iso_answers):
     return list(seen.values())
 
 
+def load_previous_answers():
+    """Previous docs/data.json entries as fallback candidates.
+
+    Q&A support no longer shares direct links, so fresh answers dry up.
+    Re-feeding previous URLs keeps history (re-validated in build()).
+    """
+    try:
+        with open("docs/data.json", encoding="utf-8") as f:
+            prev = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"  No previous data.json: {e}", file=sys.stderr)
+        return []
+    if not isinstance(prev, list):
+        return []
+    out = []
+    for e in prev:
+        if not isinstance(e, dict) or ".iso" not in str(e.get("iso_url", "")):
+            continue
+        out.append({
+            "iso_url": e["iso_url"],
+            "author": e.get("author", ""),
+            "author_url": e.get("author_url", ""),
+            "question_id": e.get("id", ""),
+            "question_title": e.get("title", ""),
+            "question_url": e.get("question_url", ""),
+        })
+    print(f"  Previous entries reused: {len(out)}", file=sys.stderr)
+    return out
+
+
 def main():
-    print("Step 1: Scraping MS Q&A...", file=sys.stderr)
-    questions = scrape()
+    print("Step 1: Scraping MS Q&A (best-effort)...", file=sys.stderr)
+    try:
+        questions = scrape()
+    except Exception as e:
+        print(f"  WARNING: scrape failed, continuing without Q&A: {e}", file=sys.stderr)
+        questions = []
     if len(questions) == 0:
-        print("ERROR: No questions found — вероятно, Microsoft изменил вёрстку Q&A", file=sys.stderr)
-        sys.exit(1)
-    print(f"  ISO-related questions: {len(questions)}", file=sys.stderr)
+        print("  WARNING: no ISO questions (layout change or support stopped sharing links)", file=sys.stderr)
+    else:
+        print(f"  ISO-related questions: {len(questions)}", file=sys.stderr)
 
     print("Step 2: Extracting ISO links from answers...", file=sys.stderr)
     iso_answers = extract_all(questions)
     print(f"  Raw ISO links: {len(iso_answers)}", file=sys.stderr)
 
-    print("Step 2b: Fetching RuBeRoID links...", file=sys.stderr)
+    print("Step 2b: Fetching RuBeRoID links (canonical source)...", file=sys.stderr)
     rubero = fetch_ruberoID()
     print(f"  RuBeRoID links: {len(rubero)}", file=sys.stderr)
     iso_answers = iso_answers + rubero
+
+    print("Step 2c: Reusing previous data.json entries...", file=sys.stderr)
+    iso_answers = iso_answers + load_previous_answers()
     print(f"  Total raw links: {len(iso_answers)}", file=sys.stderr)
 
     print("Step 3: Validating & deduplicating...", file=sys.stderr)
     data = build(iso_answers)
     valid = sum(1 for d in data if d["is_valid"])
     print(f"  Unique: {len(data)}, Valid: {valid}", file=sys.stderr)
+
+    if len(data) == 0:
+        # Never wipe a non-empty file: keep serving stale data over nothing.
+        print("ERROR: nothing to write (all sources empty), keeping previous data.json", file=sys.stderr)
+        sys.exit(1)
 
     def sort_key(d):
         is_invalid = not d["is_valid"]
