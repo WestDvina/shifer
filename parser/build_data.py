@@ -13,8 +13,8 @@ from extractor import extract_all
 P1_PATTERN = re.compile(r'[?&]P1=(\d+)')
 
 # Links live ~24h; history older than this is dead weight (extra CDN HEADs,
-# slower runs, noise on the site). 5 days is plenty.
-MAX_HISTORY_DAYS = 5
+# slower runs, noise on the site). 2 days is plenty.
+MAX_HISTORY_DAYS = 2
 
 
 def _history_cutoff():
