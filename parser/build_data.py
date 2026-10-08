@@ -130,7 +130,7 @@ def parse_version_from_filename(url):
     return info
 
 
-def validate_link(url, attempts=3):
+def validate_link(url, attempts=2):
     """HEAD-check with retries. Returns (state, expires, size).
 
     state True = alive (200), False = definitely dead (404/410),
@@ -139,7 +139,7 @@ def validate_link(url, attempts=3):
     """
     for i in range(attempts):
         try:
-            resp = requests.head(url, timeout=10, allow_redirects=True,
+            resp = requests.head(url, timeout=8, allow_redirects=True,
                                  headers={"User-Agent": "Mozilla/5.0"})
             if resp.status_code == 200:
                 expires = resp.headers.get("expires", "")
@@ -151,7 +151,7 @@ def validate_link(url, attempts=3):
         except Exception:
             pass  # timeout/DNS: transient, retry.
         if i < attempts - 1:
-            time.sleep(5 * (i + 1))
+            time.sleep(3)
     return None, "", 0
 
 
@@ -171,27 +171,28 @@ def build(iso_answers):
         if version["lang"] != "Russian":
             continue
 
-        valid, expires_str, size = validate_link(url)
-        if valid is None:
-            # Transient failure (timeout/403/429/5xx): preserve previous
-            # status instead of flipping a live link to invalid.
-            valid = bool(answer.get("was_valid", False))
-            size = answer.get("was_size") or 0
-            if valid:
-                print(f"  {url[:60]}...: HEAD inconclusive, keeping previous valid status",
-                      file=sys.stderr)
-
         p1_ts = parse_p1_expiry(url)
+        now_ts = now.timestamp()
+        expired = bool(p1_ts) and now_ts > p1_ts + 3600
+
+        if expired:
+            # P1 already in the past: the signature is cryptographically
+            # dead, so there is nothing to confirm on the CDN. Fast path
+            # for the majority of historical links (no network call).
+            valid, size, expires_str = False, 0, ""
+        else:
+            valid, expires_str, size = validate_link(url)
+            if valid is None:
+                # Transient failure (timeout/403/429/5xx): preserve previous
+                # status instead of flipping a live link to invalid.
+                valid = bool(answer.get("was_valid", False))
+                size = answer.get("was_size") or 0
+                if valid:
+                    print(f"  {url[:60]}...: HEAD inconclusive, keeping previous valid status",
+                          file=sys.stderr)
+
         if p1_ts:
             valid_until = datetime.fromtimestamp(p1_ts, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            # This CDN answers 403 for expired signatures too, so a failed
-            # HEAD is ambiguous — but an expired P1 is definitive: the URL
-            # is cryptographically dead no matter what HEAD said.
-            if now.timestamp() > p1_ts + 3600:
-                if valid:
-                    print(f"  {url[:60]}...: HEAD 200 but P1 expired, marking dead",
-                          file=sys.stderr)
-                valid = False
         elif valid and expires_str:
             try:
                 expires_dt = datetime.strptime(

@@ -11,4 +11,6 @@ FILTER_KEYWORDS = [
 ISO_LINK_PATTERN = r'https?://[a-zA-Z0-9.-]*microsoft\.com[^"\'<\s]+\.iso[^"\'<\s]*'
 
 PAGE_SIZE = 30
-MAX_PAGES = 5
+MAX_PAGES = 2
+LIST_ORDER = "updatedat"
+CUTOFF_HOURS = 36

@@ -3,7 +3,7 @@ import sys
 import requests
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
-from config import QUESTIONS_URL, LOCALE, FILTER_KEYWORDS, PAGE_SIZE, MAX_PAGES
+from config import QUESTIONS_URL, LOCALE, FILTER_KEYWORDS, PAGE_SIZE, MAX_PAGES, LIST_ORDER, CUTOFF_HOURS
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
@@ -15,7 +15,7 @@ SESSION.headers.update(HEADERS)
 
 
 def fetch_list_page(page=1):
-    url = f"{QUESTIONS_URL}/?orderby=createdat&page={page}"
+    url = f"{QUESTIONS_URL}/?orderby={LIST_ORDER}&page={page}"
     resp = SESSION.get(url, timeout=30)
     resp.raise_for_status()
     resp.encoding = "utf-8"
@@ -47,12 +47,10 @@ def parse_questions(html):
             if m:
                 answer_count = int(m.group(1))
 
-        author_els = card.select("[data-test-id='question-details-author']")
-        created_at = ""
-        if author_els:
-            ts_el = author_els[0].select_one("local-time")
-            if ts_el:
-                created_at = ts_el.get("datetime", "")
+        lt_els = [t.get("datetime", "") for t in card.select("local-time")]
+        lt_els = [d for d in lt_els if d]
+        created_at = min(lt_els) if lt_els else ""
+        updated_at = max(lt_els) if lt_els else ""
 
         tags = []
         for tag_el in card.select("span.tag span.tag-summary"):
@@ -65,6 +63,7 @@ def parse_questions(html):
             "body": body,
             "answer_count": answer_count,
             "created_at": created_at,
+            "updated_at": updated_at,
             "tags": tags,
         })
     return questions
@@ -77,7 +76,7 @@ def is_iso_request(question):
 
 def scrape_list(max_pages=MAX_PAGES):
     all_questions = []
-    cutoff = datetime.now(timezone.utc) - timedelta(days=7)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=CUTOFF_HOURS)
 
     for page in range(1, max_pages + 1):
         print(f"  Fetching page {page}...", file=sys.stderr)
@@ -92,7 +91,7 @@ def scrape_list(max_pages=MAX_PAGES):
             break
         all_questions.extend(questions)
 
-        last_date = questions[-1].get("created_at", "")
+        last_date = questions[-1].get("updated_at") or questions[-1].get("created_at", "")
         if last_date:
             try:
                 dt = datetime.fromisoformat(last_date.replace("Z", "+00:00"))
