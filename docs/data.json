@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-09T08:01:22Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-09T04:51:28Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-09T03:05:06Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-09T03:05:06Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 8186959872,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-08T13:53:06Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-08T11:46:22Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-08T03:05:06Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-08T03:05:06Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-08T03:00:02Z"
   },
   {
@@ -176,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-07T04:42:42Z"
   },
   {
@@ -194,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-07T03:05:06Z"
   },
   {
@@ -212,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-07T03:05:06Z"
   },
   {
@@ -230,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-07T03:00:02Z"
   },
   {
@@ -248,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-06T16:37:20Z"
   },
   {
@@ -266,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-06T16:32:15Z"
   },
   {
@@ -284,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-06T15:50:41Z"
   },
   {
@@ -302,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-06T12:55:14Z"
   },
   {
@@ -320,97 +320,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
+    "checked_at": "2026-10-08T08:30:58Z",
     "valid_until": "2026-10-06T09:37:19Z"
-  },
-  {
-    "id": "6026126",
-    "title": "Не могу скачать ISO Windows 11 из-за ошибки 715-123130",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6026126",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=a7de55a9-63d1-4d3d-aaec-5a26fd29a3f9&P1=1791273150&P2=602&P3=2&P4=GBEfyd0ngrVMMMmJ6RnY6hIXLV120qK55dfJikMjc%2bksoM6gCkOkX3l6F4uxu1nuteOn0yr237un7BalvIRo5%2biWS5uo7jqCsR88DYXtEx6LU%2fqlr%2b7EmfC5kMAr5weuTlKrh%2bai5Ymodvco2sWoKhU9rbO5bgaUxwik0tOqZ40%2fl65KaMuJnPhrCA8UsP%2fU2rfmlV%2bH3QrxxK0ZUagP7qCi%2b9EaQ7wPjF4ioQz%2fLu5isPQvL1ai3hK06X%2buXidMlXaueNwXzkndobNd5bJIWYJXxwKmr82YF4SgVX15dQG8n7sBBfBawwTeDf15r4QrimcC2znsZqaYKYJ4MUpMyA%3d%3d",
-    "author": "DaveM121",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12987735",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
-    "valid_until": "2026-10-06T07:52:30Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=731bb89f-b6d9-4ce1-a841-4d48b06aea56&P1=1791255905&P2=602&P3=2&P4=lfEcn1n0OmjSafWo4qHsjVhRJQXO37FWtknAn9rur%2fHdEe%2fyWXr%2fxIuXYpjLf2JMvfokYi89GcFwOWcqbrUsRiN5uCB9TQs%2fQ%2fqbj2%2fCLsSJyW%2b9gnxHcf9WdV6XXfteHbNY528g%2buAxdm5%2fvGx6hGwR2qo1TfGQoiqL6HbQPJLO1Q29y1cbFhfYmrxwnliqhEaVNeIUUN%2f1Lg034IOz2lYPEzTD%2bCMCwGN2uAgxiRp%2bOEfjchJd42mINNnZmO4n%2bGyAENyYDLK5qG2K3PeHpGtw17vKYTTUejCYXKhqyCzHvkOv4Jw23BF1M%2fZDbjOB2QeJujORVJbctO6UnMYmDg%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x86"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
-    "valid_until": "2026-10-06T03:05:05Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=731bb89f-b6d9-4ce1-a841-4d48b06aea56&P1=1791255905&P2=602&P3=2&P4=AT1rx10GchPrejL067%2bd8%2f%2btJO7NGGunjOD%2fd1%2fB7H5gf8pBzRA4uzv1wD8QjS2PJS8bWyhxB%2fbV8KSkxphaFAH8thf58T7wiCC4zbUZqOWXW0jpA2VyZB1Uet47RX7MFuiAWlbHV1NHi%2bZmsKL1F84znEv%2fZTwspQ3X56CHGfrVuCdqkukwjnZRj31rC3VF3yggQyUlv3NXADnwNgJ6W6xVlkmiDukO7iiAORMG%2fXWt5TNVhvlYbKPCSNO47Pil%2fQFFGuScADF33RnGXggrgcUGzxgKjjYxXEgMVlnbXU1wGHOrHH3HdzDk4c34kYYx2KKo4zcKG89stGq9ebmm5w%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
-    "valid_until": "2026-10-06T03:05:05Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=d7f3ec54-281d-456d-bbdf-ecbb06c2115c&P1=1791255602&P2=602&P3=2&P4=nh0IpLqyaMp2iFXMUwjZY5SLvpN32oWG0msN2MrfO2HdYswvNY12FqOQ8zkQv2L7aXqxtSo0k1xFPH%2f12HlIU7TH7m6svTmU%2fPBCgcScJiFzHsHjq8mxRL873TWKINUcsKB7LXsm4Uq9uxpjQnktyFvDngF6BMgOL2Dkjap%2bmQjsMKQvxguggN24JVuc85IBHvxRKr38Cf4OhaeYDF0zMwELgV8LOGIHmvO9%2f1y2zFg7anYwESj%2fYvftF3x5O1ExXMZGT%2bN2j1N3ndztGg39X74LifwoZLmliSdjfxxFBDJm9OFPN9sG077OmDnj80oE1g3mLVP67bao2aGa5XQ%2bUg%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
-    "valid_until": "2026-10-06T03:00:02Z"
-  },
-  {
-    "id": "6024292",
-    "title": "Можно ли получить временную ссылку для скачивания windows 11 25h2 x64 — русский iso?",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6024292",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=992b9204-3b52-4a5d-8091-d59de28d0fb0&P1=1791103570&P2=602&P3=2&P4=D8Nimm8u9GUlC56%2fOfaIOAeg00bxD5Kb9mHTam9XFzyQsWs3mWqTp%2bgWO7cHbv8qSCZi71JpyZWkLvvfe6dvKYdSV1%2fSz59fM4JCgUMf44DBVizu6cBbCZNQU45p6kXN98AcJqOoqqB9VKTLQehbJX1EmZqA6pks5zKt3vg9tVYD7IHvLRMc%2bbkB13o%2fnC7SVgYgjgX9vGb16y5ahqjN%2fDobrggR02NWW3RdIA9yVhfJ1FmsiagVfqVnA0ndEdlMXiHC2x6pwWdBqEEqoFnPjUFaf3J3AENK864gTfBSOBYgd0cIW0tGcBDBMfQjQy82jZi3I2VmdsTS94zFgPRfIg%3d%3d",
-    "author": "DaveM121",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12985400",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-08T08:24:27Z",
-    "valid_until": "2026-10-04T08:46:10Z"
   }
 ]
