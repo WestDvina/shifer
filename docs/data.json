@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-12T03:00:02Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-11T21:11:21Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-11T04:55:52Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-11T04:43:27Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-11T03:11:32Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-10T19:45:12Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-10T07:07:04Z"
   },
   {
@@ -176,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-10T03:05:05Z"
   },
   {
@@ -194,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-10T03:05:05Z"
   },
   {
@@ -212,25 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
+    "checked_at": "2026-10-11T14:01:08Z",
     "valid_until": "2026-10-10T03:00:01Z"
-  },
-  {
-    "id": "6030261",
-    "title": "Необходима прямая ссылка для скачивания официального ISO-образа Windows 10 (последняя стабильная версия, 22H2) с серверов Microsoft.",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6030261",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=972c8ce9-0f77-4871-acfd-ac336e7a06c8&P1=1791552931&P2=602&P3=2&P4=C3FuNY43LObBDosoZByZ5Nx8u02QaZx6f%2fjB4phiA%2fje50P6d8ZqMwuOMkjdfg6WfF4rKfVQPCmu3h2H0aRjQWD72qh7pVTVpI6jVVPesTuTb%2bEUEBfUDHd7HqLhLu%2bCxTG7ADp7xQHKTJiN6gWoyKXDxz7zW7rkXXpFaKFDHQyZTCuWVDPPVjFVUn8f8bK2dC4NPn5eN%2fQUn36ZS9ZKP1KLs19A5dSq2PuKCW1C71WsE2Sam%2fFGY3oriWnWu54LbNiwO9ggiqBOBnpMEZPZDgttct4ayVxdL3WbbuRel6JJSf%2f1DgS4GmLBipEfLpJm2pzcZywpSijYvnpAPlyqfA%3d%3d",
-    "author": "David-M",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12992491",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-11T13:31:03Z",
-    "valid_until": "2026-10-09T13:35:31Z"
   }
 ]
