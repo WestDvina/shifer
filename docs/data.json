@@ -1,11 +1,11 @@
 [
   {
-    "id": "6035243",
+    "id": "6035259",
     "title": "Не могу скачать ISO-образ Windows 10 версии 22H2",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6035243",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6035259",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=8a1f55e6-ff44-4f55-a714-47d4f3d2d248&P1=1791952370&P2=602&P3=2&P4=B25PEtwN75NHcZqWRzFTdKX2PZQrLRIaCGeRyHwVZh%2f2rqnix1FnQELN9tKpzwBbtgtEHilnm%2b4uJobpOnvDDcKsBJLkPyCNdqxZRdLyqsv0QpOg6YAriuzPgK6vY0DXGVz0CIZmkRJKj70oZ7s0DXb6Mgkmqy%2bA7vSVusxKTopCykAPZxGX14%2byo%2fcBP06Tn6fxB2A4ysM8Hk4AEg56DbIdKKB%2bsiufu%2fO%2fG3Q%2bY8OVluaeZoOsMKuPtbagQgfupobUdPtoeUEjT8kvycdbx2qAnqvzhig%2fmrGBlcfK9mfwLQY076ql%2fFJpa9%2bVJ%2f561RSM8IU3tdmZzupGYUduHQ%3d%3d",
     "author": "a 62i",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12998557",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12998556",
     "version": {
       "os": "win10",
       "build": "22H2",
@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-14T04:32:50Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-14T04:32:49Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-13T18:38:50Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-12T21:12:40Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -176,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -194,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-12T03:00:02Z"
   },
   {
@@ -212,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T06:31:00Z",
+    "checked_at": "2026-10-13T07:01:15Z",
     "valid_until": "2026-10-11T21:11:21Z"
   }
 ]
