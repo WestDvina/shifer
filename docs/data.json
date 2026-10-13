@@ -1,5 +1,41 @@
 [
   {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=8a1f55e6-ff44-4f55-a714-47d4f3d2d248&P1=1791952370&P2=602&P3=2&P4=B25PEtwN75NHcZqWRzFTdKX2PZQrLRIaCGeRyHwVZh%2f2rqnix1FnQELN9tKpzwBbtgtEHilnm%2b4uJobpOnvDDcKsBJLkPyCNdqxZRdLyqsv0QpOg6YAriuzPgK6vY0DXGVz0CIZmkRJKj70oZ7s0DXb6Mgkmqy%2bA7vSVusxKTopCykAPZxGX14%2byo%2fcBP06Tn6fxB2A4ysM8Hk4AEg56DbIdKKB%2bsiufu%2fO%2fG3Q%2bY8OVluaeZoOsMKuPtbagQgfupobUdPtoeUEjT8kvycdbx2qAnqvzhig%2fmrGBlcfK9mfwLQY076ql%2fFJpa9%2bVJ%2f561RSM8IU3tdmZzupGYUduHQ%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-10-13T05:01:16Z",
+    "valid_until": "2026-10-14T04:32:50Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=8a1f55e6-ff44-4f55-a714-47d4f3d2d248&P1=1791952369&P2=602&P3=2&P4=drKoNXyPmuZIfCgfWJ63nq%2fICMDkl1bYF24VF63HSEpqEaATggXEpkenXILxQLExptSiR4JOCrfcKPHTV4NZrtNW5iYww11llAURMp9vIgnwp7f5EMWEAh3TrM6VpKcSriHnrOxvbof0NESM6DrKAMOGZaHIwHA43QP8%2bixUUhPdAH6rD5O3Hn0PD7iI7IKYNkWZQMcDtV9ZcuL%2fgK%2fgfdj0CjiJ37TtApQ2yi2FAXb%2fu%2bW57aSVcVm2gX4aiBV12UiEuudxsgsVk8MS%2bbwQQl9z5WmsaGvTW0pREZl2a4M7FbLqyp3t4G03GwmOQ%2flsCbO73cX9nXiTZGOQdIDITQ%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x86"
+    },
+    "is_valid": true,
+    "size_bytes": 4115910656,
+    "checked_at": "2026-10-13T05:01:16Z",
+    "valid_until": "2026-10-14T04:32:49Z"
+  },
+  {
     "id": "6034607",
     "title": "Установка Windows 11",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6034607",
@@ -14,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-13T18:38:50Z"
   },
   {
@@ -32,7 +68,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -50,7 +86,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -68,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -86,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -104,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-12T21:12:40Z"
   },
   {
@@ -122,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -140,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -158,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-12T03:00:02Z"
   },
   {
@@ -176,43 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
+    "checked_at": "2026-10-13T05:01:16Z",
     "valid_until": "2026-10-11T21:11:21Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=d1e7390b-656e-4e5a-8aa8-99bd90264a08&P1=1791694552&P2=602&P3=2&P4=V%2bklML6zlD09XYsmRlsdjri%2f8KUcCgDTc59efXkOBOMjMBlrLg49elnJy8OwKGdq%2b1pqLNdj8RDyrCs%2bqBlTXU9TNj0%2bYwTvGVOQ2YftQ31ccMVSiy%2bRRDK1C80Ivrxlw%2b2pWZz%2bRyWAepFbF8YAnaV8kEzjv2Ypj2IQ7XbWf80Wh8GsAT7OOBRFwkDOCQu2sZAlYcQUv6NKYhCgV729NLiA8HQx4ESzfJhbPoJD8tuE2t7NfF72AaqjoEmsu%2fdD7CebCT5k55aEqm6oPBkJ%2bynaTAj1xTlK2ddgCWMfY485mvgXGjD2eNAjQO1ZCj5asdNyxQZP0KGnhNq7%2f8KAbw%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
-    "valid_until": "2026-10-11T04:55:52Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=f5c4acde-7911-4933-b8af-32be7ab35d86&P1=1791693807&P2=602&P3=2&P4=HerKBcV6Xn%2beKUrYyT3DO%2b03HvQmqXaqI%2ftcnJuycq96DUUZIwZWyfk9ALT0kyD85ytBtOZptOiIVOASLFlQMwHHbyGDHeimwJ0ctqQX8pAeMSlwlXRw3A2xBvqPgP1wcSLRDHMInecjjbSSd0dqG1nyGsH4H9CXjJr7yMV5Kbd41vaT0HCqLHnUGceM9nI3HW5reMYdKpOe5hgdLJm3m4%2f5cKdVQIrmOz0%2bhTj0srJVXmcn0OLz9kXzF7KfwjFtQtjpPgYYDkCekQNajicsf6gwP0kLNSPCUiXUkZKPgO3PnZO87n84FHbHtP3tkTobFFmUXUxhLwLC9J8DABdL2Q%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-13T04:31:02Z",
-    "valid_until": "2026-10-11T04:43:27Z"
   }
 ]
