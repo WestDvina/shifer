@@ -1,5 +1,23 @@
 [
   {
+    "id": "6028956",
+    "title": "Прошу прямую ссылку на Windows 11 (русская, x64) для РФ",
+    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6028956",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=ff9dc59e-5693-485f-915e-09d1b07cb7ec&P1=1791997679&P2=602&P3=2&P4=iNL4JfxIm0cwfNx3UWVVQr%2f%2fezHjQ%2b3FiDbFwrwXjlQrIQTnJb14PuqhO8vxqlfP9IrCnL5nKSFJRNrJwMLKEQ3t48AsNot7XXy2xPe25%2frnqkuxRtO2bB3%2fjOzdMmh0PRAKE0EEXWqoGwW%2f1a8XYyGfZsZYDojES%2f%2bN3Gv5xMPDp9PnQwCVbP8PyW2WYVgz3kXffGyqyQP0fiNrQGLVdl12OVUHwA3VOFw97OdRoGSYvBsYrmmMN2hQFDqdOgSjmQmM%2bCLMKZa1PI7b%2fQmcK0qSSryaGFB%2fScrUg0EqXR1vqLHgA%2fWCs7P6V3G0tlyFsvB2E%2fjd1qCJ4qzE6gTMBg%3d%3d",
+    "author": "a 62i",
+    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/12999499",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8748939264,
+    "checked_at": "2026-10-13T17:31:01Z",
+    "valid_until": "2026-10-14T17:07:59Z"
+  },
+  {
     "id": "6035898",
     "title": "Необходима прямая ссылка для скачивания официального ISO-образа Windows 10 (последняя стабильная версия, 22H2) с серверов Microsoft.",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6035898",
@@ -14,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-14T13:54:22Z"
   },
   {
@@ -32,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-14T08:04:41Z"
   },
   {
@@ -50,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-14T04:32:50Z"
   },
   {
@@ -68,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-14T04:32:49Z"
   },
   {
@@ -86,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-13T18:38:50Z"
   },
   {
@@ -104,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -122,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-13T03:05:09Z"
   },
   {
@@ -140,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -158,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-13T00:16:04Z"
   },
   {
@@ -176,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-12T21:12:40Z"
   },
   {
@@ -194,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -212,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-12T05:03:43Z"
   },
   {
@@ -230,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-12T03:00:02Z"
   },
   {
@@ -248,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-13T17:01:19Z",
+    "checked_at": "2026-10-13T17:31:01Z",
     "valid_until": "2026-10-11T21:11:21Z"
   }
 ]
