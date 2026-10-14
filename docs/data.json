@@ -1,6 +1,24 @@
 [
   {
     "id": "",
+    "title": "Добавлено администратором",
+    "question_url": "",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=6a463468-be5d-462e-bda9-49a6e42f9a24&P1=1792090594&P2=602&P3=2&P4=lKl%2f7reB0pXQafJZ6rLv9tX1PjQSfVN7ZaZVuEKI6ojr8Hp36%2bkueim3RQVGzZCxA7coUQOs8kZ2GLaRJxW443dtf53BFsNE7%2bzULsRdLSTIGTG799cRwFToSv5Sw66ADbHwtoVKAdD01kLpBxY8vu6imNp2XhcxqgrASfpvUnn19glyyRZn3Ufh0WYFBVb53INwNLlVddWOwydHC8w1zP6brdt1quAUYzPpjVPI%2ffibMi7lXGssUIcq2gCkVrObUQUonmU9VYqXkBR2DepyXUTSuK9zzEYl5AA8AEM%2bPmNyZUO83y6by6wBws4iCBogUVn7shTNsUYHtX%2bPRMJYUg%3d%3d",
+    "author": "Admin",
+    "author_url": "https://github.com/westdvina",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 0,
+    "checked_at": "2026-10-14T19:26:33Z",
+    "valid_until": "2026-10-15T18:56:34Z"
+  },
+  {
+    "id": "",
     "title": "Ссылки от бота RuBeRoID",
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=28dbac77-0a1f-4fa6-b0d3-591619980798&P1=1792033506&P2=602&P3=2&P4=pZm7hoD06MLe%2fW8qF58pua8ZPv2c23aQltccjqMdrUgTIFJTqf4PgN1v6OA5uBZY9bAeV3698QLmiO5BVSk6OzIa9Zc3USfA1x9UWPlCZt8hFe6dvPyP5DhpWfBEVRKtnbtlyMTcipdaniRXVDCnCRZ6Gd7DJjwBDhIhy1vWZEVyR5LVst0oD1EPa9c%2bLk1ZoNtmFuHrOwQsjyjWhMyrCzel8Lrhy2q18J390CJ6ocFdFLCVclaMD521lAAXN2wM%2fYvkwdu%2fS99cA2xde60wOT0JefMwVjc7gN%2fBRnnul%2fTjXjT5ZY%2bQFScXkdrrhgxy94Bs66swN5Lm8l3z10531Q%3d%3d",
