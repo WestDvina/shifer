@@ -1,5 +1,41 @@
 [
   {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=e24a23cd-8e47-4d95-81af-8dd28ee4873f&P1=1792271467&P2=602&P3=2&P4=U66Hx8sNR9sQ8YAG6PH3AkaRiBUQ6oHazyHuVjOZElGmnAvpu%2bniy3E2Oy6%2f%2fVITO7wNc1fihM%2bve7hfGqd6ZxqsYTy9gnmyjN4%2bOh%2fDOaQEuiei0YUQha%2brtYD%2bQPh05qaYPN6YccwZMTUifdWo8XQpbi8LtGo79TQ2HGUENDae%2biUo98jOJEImCvUdPGLkk%2f%2f1NxwefxfGZR0FED0RBoSaGoaNkF7BGVxxIA68RUMuY22FdbAZ1R%2f2f8QE8REeEn4wr2QQfqae9DQAYflOLnxy3vl7O8tnZlHgzJkL6iFeAah04TKLHGbsGIlzF74l%2bWYtoGlKexFwtkmxX7XTjQ%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-10-16T22:30:57Z",
+    "valid_until": "2026-10-17T21:11:07Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=e24a23cd-8e47-4d95-81af-8dd28ee4873f&P1=1792271467&P2=602&P3=2&P4=Pv9pz4CpT3AoFSjpoHX6RYt6GvFL8Smz8ud8h6B4mYU%2buUB9W8%2bKDbB10MRr%2f6szPM%2bb%2fuIS4CgCgdbCvT8kVmojgKReyt7zGKWzqJ7%2fOrghsgNV2K8yUmAbW9WmvOomgs2taUHCZw48X81qv2ziMxisj41oXK8%2fK%2fdWDz4S4ISeJbPfIOr0A%2f4OPryMRWXq4Lu2Sv6oTGtxb5zJUI2bixUCHkGgmZMiG2HqEWZlOmLG1zISHgT2vgDTV5FgQTFA4ngXgWneYfApCltJ0HzvMFgS1MTt1ozsCmHKrg6XL84x0nAf8w21EppFE6OHi7GCEtUAj1TeljNNzkq3MXlGWw%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x86"
+    },
+    "is_valid": true,
+    "size_bytes": 4115910656,
+    "checked_at": "2026-10-16T22:30:57Z",
+    "valid_until": "2026-10-17T21:11:07Z"
+  },
+  {
     "id": "6040046",
     "title": "Не могу скачать образ диска Windows 11 (ISO) для 64- разрядных устройств.",
     "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6040046",
@@ -14,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-17T12:16:33Z"
   },
   {
@@ -32,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-17T03:05:07Z"
   },
   {
@@ -50,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-17T03:05:07Z"
   },
   {
@@ -68,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-17T03:00:03Z"
   },
   {
@@ -86,7 +122,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T22:16:05Z"
   },
   {
@@ -102,9 +138,9 @@
       "lang": "Russian",
       "arch": "x64"
     },
-    "is_valid": true,
-    "size_bytes": 5835063296,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T21:10:50Z"
   },
   {
@@ -120,9 +156,9 @@
       "lang": "Russian",
       "arch": "x86"
     },
-    "is_valid": true,
-    "size_bytes": 4115910656,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "is_valid": false,
+    "size_bytes": 0,
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T21:10:50Z"
   },
   {
@@ -140,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T03:05:08Z"
   },
   {
@@ -158,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T03:05:08Z"
   },
   {
@@ -176,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-16T03:00:04Z"
   },
   {
@@ -194,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T19:27:18Z"
   },
   {
@@ -212,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T19:27:18Z"
   },
   {
@@ -230,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T18:56:34Z"
   },
   {
@@ -248,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T03:05:06Z"
   },
   {
@@ -266,7 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T03:05:06Z"
   },
   {
@@ -284,7 +320,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-16T22:01:12Z",
+    "checked_at": "2026-10-16T22:30:57Z",
     "valid_until": "2026-10-15T03:00:02Z"
   }
 ]
