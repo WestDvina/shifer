@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-20T03:05:08Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-20T03:05:07Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-20T03:00:03Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-20T00:46:05Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-19T21:12:32Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-19T21:12:32Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-19T03:05:05Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-19T03:05:05Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-19T03:00:01Z"
   },
   {
@@ -176,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T22:16:04Z"
   },
   {
@@ -194,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T21:11:32Z"
   },
   {
@@ -212,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T21:11:32Z"
   },
   {
@@ -230,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T03:05:06Z"
   },
   {
@@ -248,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T03:05:06Z"
   },
   {
@@ -266,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-18T03:00:02Z"
   },
   {
@@ -284,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-17T21:11:07Z"
   },
   {
@@ -302,25 +302,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
+    "checked_at": "2026-10-19T12:31:02Z",
     "valid_until": "2026-10-17T21:11:07Z"
-  },
-  {
-    "id": "6040046",
-    "title": "Не могу скачать образ диска Windows 11 (ISO) для 64- разрядных устройств.",
-    "question_url": "https://learn.microsoft.com/ru-ru/answers/questions/6040046",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=9fd70d2c-2765-4138-bf49-e7f4c92b8ff3&P1=1792239393&P2=602&P3=2&P4=uYHjiLh2yhsxSZClLF5NzAaComjHh7uPCmPBPB13hnigUlLug4weR5NzzIbCNsby0U6ll67wez7MektkftQB1%2bJ2rScv8hRb2CGWQVx3sVBYeJYUrqViVjGdMREZMq9k%2bCg2fAJgPKAwSvIXXHvxzZOMT9kII7ZNuAfazYdKJgVDoy4kPSIe0up6Ew9P6CsbDgMNdf5WdKxslIZXdlBOh4PdxCXttuRurCRaeZaHwm9o%2f75mapeGatBm%2ft8iKbTSM%2bVMWgOriRt%2bRdGboARG5GbFIfcnm4RRCYKNuThqwkZ5f1PJItV5YEVdqqsnR5Z4plzLHUtG%2f%2b9BZ2AfqTSpBA%3d%3d",
-    "author": "David-M",
-    "author_url": "https://learn.microsoft.com/ru-ru/answers/a/13004064",
-    "version": {
-      "os": "win11",
-      "build": "26H2",
-      "lang": "Russian",
-      "arch": "x64"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-10-19T12:01:17Z",
-    "valid_until": "2026-10-17T12:16:33Z"
   }
 ]
