@@ -3,6 +3,24 @@
     "id": "",
     "title": "Ссылки от бота RuBeRoID",
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Windows11_Client_x64_ru-ru_26300_9457.iso?t=3d65d5c2-7496-4426-bbbe-06473b66aea2&P1=1793889963&P2=602&P3=2&P4=e7ok90nMFCfAlYFu4VZMqIOQLOC%2b%2fKcZd3McC%2f%2f8ufvB5z1RYMBD4z2cjc9eX3GsXTRAKy8auVpaHWy0GN1GAgbDrJsUjQnksQBdT2EIYYDyS7mHySghoRY6B90y%2bVVv%2fwZ7A73Wddbej7YUQsNHnrjT0%2fwLBQwrBNjmcZ2mVO0BmCC%2f85e5Wx%2brt104WbJej8EIp7R2IhM%2bGlZjJks7TY3i1DqbtKmc5wGvQaigw2JYHuIb0xr%2btauW7TORBG0uTR%2bzQGesHj4ArhW0cEdj7i5y2cGTLGaB12%2bE23ooocde7pHG%2fMX4Ud1YVt8OtCc%2btkJEamOiaRTp1mMP8aPSOg%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win11",
+      "build": "26H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 8748939264,
+    "checked_at": "2026-11-04T15:01:18Z",
+    "valid_until": "2026-11-05T14:46:03Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=c340b48a-b375-4513-8d2c-fa14817365e4&P1=1793847904&P2=602&P3=2&P4=hp9OFieRqmP0tnSxKubq%2bqK%2f6dDMdnjGz2b32WhFxlYa2W%2flRUo5HajUL144I4WabOYexFltgmOsk%2fPPwtBsgMhqfM2OxE6gnGco1oosC1kt7GjGP1E%2f8rJ6TiNhw96AtR0Tv%2fvuONWWM6k9tZDrcbNZBWuiOA0cCJjiU4rlvJpS8PMY4Q0csPnaunewz8PF4GbpfgMNHGQibrAbG8h20LF%2fxABP5MMwlwKpYWfyHYRXMNJOlhoQrTwpE8S0ZZDYG5F%2bZL3oYwWVNeEaXf6BjEVQMO4dTvOegQu2TLDckjTtiDl2n%2fUWorEViPrvPCg6roIdaDqjRDQ6z%2bnIX6IpBw%3d%3d",
     "author": "RuBeRoID",
     "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
@@ -14,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-05T03:05:04Z"
   },
   {
@@ -32,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-05T02:16:04Z"
   },
   {
@@ -50,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-04T19:24:00Z"
   },
   {
@@ -68,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-04T19:23:35Z"
   },
   {
@@ -86,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-04T03:05:04Z"
   },
   {
@@ -104,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-04T03:05:04Z"
   },
   {
@@ -122,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-04T03:00:01Z"
   },
   {
@@ -140,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T23:46:04Z"
   },
   {
@@ -158,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T23:46:03Z"
   },
   {
@@ -176,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T21:46:03Z"
   },
   {
@@ -194,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T03:05:03Z"
   },
   {
@@ -212,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T03:00:00Z"
   },
   {
@@ -230,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T01:46:03Z"
   },
   {
@@ -248,7 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-03T01:46:03Z"
   },
   {
@@ -266,7 +284,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-04T14:31:00Z",
+    "checked_at": "2026-11-04T15:01:18Z",
     "valid_until": "2026-11-02T22:16:03Z"
   }
 ]
