@@ -3,6 +3,42 @@
     "id": "",
     "title": "Ссылки от бота RuBeRoID",
     "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=ec421818-c1b8-4aa0-a7a6-19c48dbf4b01&P1=1795316705&P2=602&P3=2&P4=WjJ8XEJIjgms3tupVIyfbVClBAuIgrewt1FumuMnbL%2b2oHxbKgqLVsF59L6A6QazlYuflVBm17WmMwIv4J2qhZpCdIZfrE3oIL%2f5ehNSwcRS%2fPDLprZI2KNLQFe9YBQ%2flA4M3oa3fez84iDAHX4C6FL63r9z56zle3NgE8YDlGHunOwmyDh3rxrU3J3VX1A5MyHc5ooliGjaC9D6iDq840qfErpX33YrNx5oke3D1ba%2fPzZslXpgJTZbwYn2c8nJYxnBkUCxqnAV9anYosSnQleOIiw1FoImqhbdPNWJMiTpkjlUse5zh42BkR4Ha5xucKYXmI6Sh%2bNSPvoY5XzBjQ%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x64"
+    },
+    "is_valid": true,
+    "size_bytes": 5835063296,
+    "checked_at": "2026-11-21T03:30:57Z",
+    "valid_until": "2026-11-22T03:05:05Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
+    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=ec421818-c1b8-4aa0-a7a6-19c48dbf4b01&P1=1795316705&P2=602&P3=2&P4=dyM6f5LMMrXcjyGDceaO7Lz9PTHJ2GC0DCtia6kR1XC5NMLs8tAHTGEm8fILSJNdzX0UR11c8YPzWq%2f14y%2fE3JCry78OeciCNGcNjAp4rac7LrYb5LsnptEtrlGcAENSbrrl4QijTfEu3qhCBwfCcZuU3YyZ3cMeuBf%2fWzEd85ITF%2bx7VC%2bDuUXTj8mDcQ7YYSBi5ShfLWhejzEPCv2bvPepLTdlkavFF72IZj2PXdqrkLfDHKHVl1Gxm2bjYA3C6Opp2dhKdo%2bw0sviKrySVG7Fogj9wvMXQ%2bBggaYpfXvLTi4Lpkci5%2fTu0rvvHqCtM4Ou7l0jbqn%2b62t7WNN%2flg%3d%3d",
+    "author": "RuBeRoID",
+    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
+    "version": {
+      "os": "win10",
+      "build": "22H2",
+      "lang": "Russian",
+      "arch": "x86"
+    },
+    "is_valid": true,
+    "size_bytes": 4115910656,
+    "checked_at": "2026-11-21T03:30:57Z",
+    "valid_until": "2026-11-22T03:05:05Z"
+  },
+  {
+    "id": "",
+    "title": "Ссылки от бота RuBeRoID",
+    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
     "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x64v1.iso?t=1278dbb3-d781-4f07-b22b-89977e1e4ddf&P1=1795290364&P2=602&P3=2&P4=ZOfSSTBneuxn0Cczdov4uxrdRZk4Z6LQB80%2blBWNvEQPGGPxSy58aH14ofNn9rMRaCGnTrX70qsyK2C%2f%2bClqI0gZPqwNzvMwW6NQRLgkMvcE48t%2fmiTqLEJoab%2fP8MsCeAY7yt1vKA7YtA1nfLBvvOuS2%2ftcjaYvqQuE0%2buICsMOfVHyUNW7x1DfF6fs%2fmklitp1toGPye4CHKPL%2bf4xxc0WLA5XY%2fqqkUSoVA3iWlS4ST98qEeN62Gyoj6Fv%2faAmI1jZ7RgDhe4%2bSXfyoG1GgWiSWfENxNCam4GkuREBzSwZmsn86fIZRTw6gZBaMW6hIw1BhUwhPJbTDsDXNNLzw%3d%3d",
     "author": "RuBeRoID",
     "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
@@ -14,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-21T19:46:04Z"
   },
   {
@@ -32,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-21T19:46:04Z"
   },
   {
@@ -50,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-21T16:16:03Z"
   },
   {
@@ -68,7 +104,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T21:11:00Z"
   },
   {
@@ -86,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T20:25:10Z"
   },
   {
@@ -104,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T20:24:45Z"
   },
   {
@@ -122,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T03:05:04Z"
   },
   {
@@ -140,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T03:05:04Z"
   },
   {
@@ -158,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-20T03:00:01Z"
   },
   {
@@ -176,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-19T20:20:22Z"
   },
   {
@@ -194,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-19T15:10:38Z"
   },
   {
@@ -212,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-21T03:01:09Z",
+    "checked_at": "2026-11-21T03:30:57Z",
     "valid_until": "2026-11-19T15:10:37Z"
   }
 ]
