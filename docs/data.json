@@ -14,7 +14,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-26T21:13:15Z"
   },
   {
@@ -32,7 +32,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-26T21:13:15Z"
   },
   {
@@ -50,7 +50,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-26T09:34:44Z"
   },
   {
@@ -68,7 +68,7 @@
     },
     "is_valid": true,
     "size_bytes": 8748939264,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-26T01:16:05Z"
   },
   {
@@ -86,7 +86,7 @@
     },
     "is_valid": true,
     "size_bytes": 5835063296,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-25T23:16:07Z"
   },
   {
@@ -104,7 +104,7 @@
     },
     "is_valid": true,
     "size_bytes": 4115910656,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-25T23:16:06Z"
   },
   {
@@ -122,7 +122,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-25T03:05:04Z"
   },
   {
@@ -140,7 +140,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-25T03:05:04Z"
   },
   {
@@ -158,7 +158,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-25T03:00:01Z"
   },
   {
@@ -176,7 +176,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T22:16:04Z"
   },
   {
@@ -194,7 +194,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T21:10:49Z"
   },
   {
@@ -212,7 +212,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T21:10:48Z"
   },
   {
@@ -230,7 +230,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T03:05:04Z"
   },
   {
@@ -248,7 +248,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T03:05:04Z"
   },
   {
@@ -266,25 +266,7 @@
     },
     "is_valid": false,
     "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
+    "checked_at": "2026-11-25T23:30:53Z",
     "valid_until": "2026-11-24T03:00:01Z"
-  },
-  {
-    "id": "",
-    "title": "Ссылки от бота RuBeRoID",
-    "question_url": "https://github.com/WestDvina/rufus-RuBeRoID/blob/main/iso_links.json",
-    "iso_url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Russian_x32v1.iso?t=4aadae23-f7c1-42a1-88a9-7f989226f76e&P1=1795475763&P2=602&P3=2&P4=bPUXMck8TfqlZ2S6Dv2i%2beqVzpBMxUYqrIJ4lKKqOi2k1TInPtxo3UeJxooXuuyoENvWdYzHXi4AbbvKT04zuQ67TVJZ2v1wg1yJP6RMqbsls1m2nyNbgmVvAt8e23RC72d1wOHHtpwz58u89j%2f9PTQdNMKotuiGiZmwoE%2f69Ul6bbPf4%2bBdkfmfEObokEqsJefz3oO1ePLaFl90wceBExbXogYKRZjxu%2bHfoKfrHA2zzBuiG2gK1H%2ftKc%2bN%2bIuVDza3PEgRDBfP%2bJ8A9hfHoFaNoOfPksixiJHAHgnGRNfOUxj8OF%2b5aPP2G%2f1Ae9fmztrNxxqfLMBiHiewpxZLSQ%3d%3d",
-    "author": "RuBeRoID",
-    "author_url": "https://github.com/WestDvina/rufus-RuBeRoID",
-    "version": {
-      "os": "win10",
-      "build": "22H2",
-      "lang": "Russian",
-      "arch": "x86"
-    },
-    "is_valid": false,
-    "size_bytes": 0,
-    "checked_at": "2026-11-25T23:01:14Z",
-    "valid_until": "2026-11-23T23:16:03Z"
   }
 ]
